@@ -4043,20 +4043,16 @@
                     </app><app>
                         <rdg wit="#Perrault_1697">"Lorsqu'elles causaient ainsi,"</rdg>
                         <rdg wit="#Samber_1729">"While the company was thus employed,"</rdg>
-                        <rdg wit="#Samber_1741">"While Cinderilla was thus amusing her
+                        <rdg wit="#Samber_1741 #Lang_1889 #Mansion_1922">"While Cinderilla was thus amusing her
                             sisters,"</rdg>
                         <rdg wit="Neaulme_1745">--</rdg>
-                        <rdg wit="#Planche_1858">"Whilst they were in conversation together,"</rdg>
-                        <rdg wit="#Lang_1889">"While Cinderella was thus amusing her sisters,"</rdg>
+                        <rdg wit="#Planche_1858">"Whilst they were in conversation together,"</rdg>                     
                         <rdg wit="#Welsh_1901">--</rdg>
-                        <rdg wit="#Johnson_1921">"While they were talking,"</rdg>
-                        <rdg wit="#Mansion_1922">"While Cinderilla was thus amusing her
-                            sisters,"</rdg>
+                        <rdg wit="#Johnson_1921 #Betts_2009">"While they were talking,"</rdg>                        
                         <rdg wit="#Brereton_1957">"While they were chatting together,"</rdg>
                         <rdg wit="#Zipes_1989">"While they were conversing,"</rdg>
                         <rdg wit="#Philip_1993">"As they chatted,"</rdg>
-                        <rdg wit="#Appelbaum_2002">"While they were chatting that way,"</rdg>
-                        <rdg wit="#Betts_2009">"While they were talking,"</rdg>
+                        <rdg wit="#Appelbaum_2002">"While they were chatting that way,"</rdg>                       
                         <rdg wit="#Jones_2016">"As they chatted away,"</rdg>
                         <rdg wit="#MoogSeifert_2021">"As they were chatting like this,"</rdg>
                     </app><app>
@@ -4072,16 +4068,10 @@
                             past eleven.</rdg>
                         <rdg wit="#Lang_1889">"she heard the clock strike eleven and
                             three-quarters,"</rdg>
-                        <rdg wit="#Welsh_1901">Cinderella heard the clock strike a quarter to
-                            twelve.</rdg>
-                        <rdg wit="#Johnson_1921">Cinderella heard the clock strike a quarter to
-                            twelve.</rdg>
+                        <rdg wit="#Welsh_1901 #Johnson_1921 #Brereton_1957 #Zipes_1989">Cinderella heard the clock strike a quarter to
+                            twelve.</rdg>                        
                         <rdg wit="#Mansion_1922">"she heard the clock strike eleven and three
-                            quarters,"</rdg>
-                        <rdg wit="#Brereton_1957">Cinderella heard the clock strike a quarter to
-                            twelve.</rdg>
-                        <rdg wit="#Zipes_1989">Cinderella heard the clock strike a quarter to
-                            twelve.</rdg>
+                            quarters,"</rdg>                                        
                         <rdg wit="#Philip_1993">Cinderella heard the chimes mark a quarter to
                             twelve.</rdg>
                         <rdg wit="#Appelbaum_2002">Cinderella beard the clock strike eleven
@@ -4121,17 +4111,12 @@
                     </app><app>
                         <rdg wit="#Perrault_1697">et s'en alla le plus vite qu'elle put.</rdg>
                         <rdg wit="#Samber_1729">and went away as fast as she could.</rdg>
-                        <rdg wit="#Samber_1741">and hasted away as fast as she could.</rdg>
+                        <rdg wit="#Samber_1741 #Lang_1889 #Mansion_1922">and hasted away as fast as she could.</rdg>
                         <rdg wit="Neaulme_1745">and went out in all haste.</rdg>
-                        <rdg wit="#Planche_1858">and departed as quickly as she could.</rdg>
-                        <rdg wit="#Lang_1889">and hasted away as fast as she could.</rdg>
-                        <rdg wit="#Welsh_1901">and hastened away as fast as she could.</rdg>
-                        <rdg wit="#Johnson_1921">and departed as quickly as she could.</rdg>
-                        <rdg wit="#Mansion_1922">and hasted away as fast as she could.</rdg>
-                        <rdg wit="#Brereton_1957">and left as quickly as she could.</rdg>
-                        <rdg wit="#Zipes_1989">and departed as quickly as she could.</rdg>
+                        <rdg wit="#Planche_1858 #Johnson_1921 #Zipes_1989">and departed as quickly as she could.</rdg>                      
+                        <rdg wit="#Welsh_1901">and hastened away as fast as she could.</rdg>                  
+                        <rdg wit="#Brereton_1957 #Appelbaum_2002">and left as quickly as she could.</rdg>
                         <rdg wit="#Philip_1993">and left as fast as she could.</rdg>
-                        <rdg wit="#Appelbaum_2002">and left as quickly as she could.</rdg>
                         <rdg wit="#Betts_2009">and went away as quickly as she could.</rdg>
                         <rdg wit="#Jones_2016">and ran out as fast as she could.</rdg>
                         <rdg wit="#MoogSeifert_2021">and went off the fastest she possibly
@@ -4139,30 +4124,25 @@
                     </app><app>
                         <rdg wit="#Perrault_1697">"Dès qu'elle fut arrivée,"</rdg>
                         <rdg wit="#Samber_1729">"As soon as she came home,"</rdg>
-                        <rdg wit="#Samber_1741">"Being got home,"</rdg>
+                        <rdg wit="#Samber_1741 #Mansion_1922">"Being got home,"</rdg>
                         <rdg wit="Neaulme_1745">"Being come home,"</rdg>
                         <rdg wit="#Planche_1858">"As soon as she had reached home,"</rdg>
                         <rdg wit="#Lang_1889">When she got home </rdg>
-                        <rdg wit="#Welsh_1901">"As soon as she got home,"</rdg>
+                        <rdg wit="#Welsh_1901 #Appelbaum_2002 #Jones_2016">"As soon as she got home,"</rdg>
                         <rdg wit="#Johnson_1921">As soon as she was home again </rdg>
-                        <rdg wit="#Mansion_1922">"Being got home,"</rdg>
                         <rdg wit="#Brereton_1957">"As soon as she reached home,"</rdg>
                         <rdg wit="#Zipes_1989">"As soon as she arrived home,"</rdg>
                         <rdg wit="#Philip_1993">"When she got home,"</rdg>
-                        <rdg wit="#Appelbaum_2002">"As soon as she got home,"</rdg>
                         <rdg wit="#Betts_2009">"As soon as she was back home,"</rdg>
-                        <rdg wit="#Jones_2016">"As soon as she got home,"</rdg>
                         <rdg wit="#MoogSeifert_2021">"As soon as she arrived,"</rdg>
                     </app><app>
                         <rdg wit="#Perrault_1697">"elle alla trouver sa Marraine,"</rdg>
                         <rdg wit="#Samber_1729">"she went to find out her godmother,"</rdg>
-                        <rdg wit="#Samber_1741">"she ran to seek out her godmother,"</rdg>
+                        <rdg wit="#Samber_1741 #Lang_1889 #Mansion_1922">"she ran to seek out her godmother,"</rdg>
                         <rdg wit="Neaulme_1745">she went </rdg>
                         <rdg wit="#Planche_1858">she went to find her godmother;</rdg>
-                        <rdg wit="#Lang_1889">"she ran to seek out her godmother,"</rdg>
                         <rdg wit="#Welsh_1901">"she ran to find her godmother,"</rdg>
                         <rdg wit="#Johnson_1921">"she sought out her god-mother,"</rdg>
-                        <rdg wit="#Mansion_1922">"she ran to seek out her godmother,"</rdg>
                         <rdg wit="#Brereton_1957">she went to her godmother</rdg>
                         <rdg wit="#Zipes_1989">"she looked for her godmother,"</rdg>
                         <rdg wit="#Philip_1993">"she found her godmother,"</rdg>
@@ -4172,21 +4152,15 @@
                         <rdg wit="#MoogSeifert_2021">"she went to find her Godmother,"</rdg>
                     </app><app>
                         <rdg wit="#Perrault_1697">"et après l'avoir remerciée,"</rdg>
-                        <rdg wit="#Samber_1729">"and after having thanked her,"</rdg>
-                        <rdg wit="#Samber_1741">"and after having thanked her,"</rdg>
+                        <rdg wit="#Samber_1729 #Samber_1741 #Planche_1858 #Mansion_1922 #Zipes_1989 #MoogSeifert_2021">"and after having thanked her,"</rdg>
                         <rdg wit="Neaulme_1745">"and return’d her thanks to the Fairie,"</rdg>
-                        <rdg wit="#Planche_1858">"and after having thanked her,"</rdg>
-                        <rdg wit="#Lang_1889">"and, after having thanked her,"</rdg>
-                        <rdg wit="#Welsh_1901">"and, after having thanked her,"</rdg>
+                        <rdg wit="#Lang_1889 #Welsh_1901">"and, after having thanked her,"</rdg>
                         <rdg wit="#Johnson_1921">"and having thanked her,"</rdg>
-                        <rdg wit="#Mansion_1922">"and after having thanked her,"</rdg>
                         <rdg wit="#Brereton_1957">"and, having thanked her,"</rdg>
-                        <rdg wit="#Zipes_1989">"and after having thanked her,"</rdg>
                         <rdg wit="#Philip_1993">"and after thanking her,"</rdg>
                         <rdg wit="#Appelbaum_2002">"and, after thanking her,"</rdg>
                         <rdg wit="#Betts_2009">"and when she had thanked her,"</rdg>
                         <rdg wit="#Jones_2016">"and, thanking her,"</rdg>
-                        <rdg wit="#MoogSeifert_2021">"and after having thanked her,"</rdg>
                     </app><app>
                         <rdg wit="#Perrault_1697">"elle lui dit qu'elle souhaiterait bien aller
                             encore le lendemain au Bal,"</rdg>
@@ -4222,16 +4196,11 @@
                             go to the Ball again the next day,"</rdg>
                     </app><app>
                         <rdg wit="#Perrault_1697">parce que le Fils du Roi l'en avait priée.</rdg>
-                        <rdg wit="#Samber_1729">because the King's son had desired her.</rdg>
-                        <rdg wit="#Samber_1741">because the King's son had desired her.</rdg>
+                        <rdg wit="#Samber_1729 #Samber_1741 #Lang_1889 #Mansion_1922">because the King's son had desired her.</rdg>
                         <rdg wit="Neaulme_1745">because the King’s Son had desired her.</rdg>
-                        <rdg wit="#Planche_1858">because the King's son had invited her.</rdg>
-                        <rdg wit="#Lang_1889">because the King's son had desired her.</rdg>
+                        <rdg wit="#Planche_1858 #Johnson_1921 #Zipes_1989">because the King's son had invited her.</rdg>
                         <rdg wit="#Welsh_1901">because the King's son had asked her to do so.</rdg>
-                        <rdg wit="#Johnson_1921">because the king's son had invited her.</rdg>
-                        <rdg wit="#Mansion_1922">"because the King's son had desired her."""</rdg>
                         <rdg wit="#Brereton_1957">for the Prince had begged her to come back.</rdg>
-                        <rdg wit="#Zipes_1989">because the king's son had invited her.</rdg>
                         <rdg wit="#Philip_1993">because the prince had begged her to come.</rdg>
                         <rdg wit="#Appelbaum_2002">because the king's son had asked her to.</rdg>
                         <rdg wit="#Betts_2009">because the Prince had asked her.</rdg>
@@ -4242,33 +4211,25 @@
                     </app><app>
                         <rdg wit="#Perrault_1697">Comme elle était occupée à raconter à sa Marraine </rdg>
                         <rdg wit="#Samber_1729">As she was busie in telling her godmother </rdg>
-                        <rdg wit="#Samber_1741">As she was eagerly telling her godmother </rdg>
+                        <rdg wit="#Samber_1741 #Lang_1889 #Welsh_1901 #Mansion_1922 #Betts_2009">As she was eagerly telling her godmother </rdg>
                         <rdg wit="Neaulme_1745">Whilst she was giving an account to the Fairie </rdg>
                         <rdg wit="#Planche_1858">While she was occupied in telling her godmother </rdg>
-                        <rdg wit="#Lang_1889">As she was eagerly telling her godmother </rdg>
-                        <rdg wit="#Welsh_1901">As she was eagerly telling her godmother </rdg>
-                        <rdg wit="#Johnson_1921">While she was busy telling her godmother </rdg>
-                        <rdg wit="#Mansion_1922">As she was eagerly telling her godmother </rdg>
+                        <rdg wit="#Johnson_1921 #Appelbaum_2002 ">While she was busy telling her godmother </rdg>
                         <rdg wit="#Brereton_1957">She was in the middle of telling her godmother </rdg>
                         <rdg wit="#Zipes_1989">While she was busy in telling her godmother </rdg>
-                        <rdg wit="#Philip_1993">Whilst she was telling her godmother </rdg>
-                        <rdg wit="#Appelbaum_2002">While she was busy telling her godmother </rdg>
-                        <rdg wit="#Betts_2009">While she was busy telling her godmother </rdg>
+                        <rdg wit="#Philip_1993">Whilst she was telling her godmother </rdg>               
                         <rdg wit="#Jones_2016">She was caught up in telling her godmother everything </rdg>
                         <rdg wit="#MoogSeifert_2021">As she was busy recounting to her Godmother
                         </rdg>
                     </app><app>
                         <rdg wit="#Perrault_1697">"tout ce qui s'était passé au Bal,"</rdg>
                         <rdg wit="#Samber_1729">"every thing that had passed at the ball,"</rdg>
-                        <rdg wit="#Samber_1741">"whatever had passed at the ball,"</rdg>
+                        <rdg wit="#Samber_1741 #Lang_1889 #Mansion_1922">"whatever had passed at the ball,"</rdg>
                         <rdg wit="Neaulme_1745">"of all what had happen’d at the Ball,"</rdg>
                         <rdg wit="#Planche_1858">"all that had passed at the ball,"</rdg>
-                        <rdg wit="#Lang_1889">"whatever had passed at the ball,"</rdg>
                         <rdg wit="#Welsh_1901">"all that happened at the ball,"</rdg>
-                        <rdg wit="#Johnson_1921">"all that had happened at the ball,"</rdg>
-                        <rdg wit="#Mansion_1922">"whatever had passed at the ball,"</rdg>
+                        <rdg wit="#Johnson_1921 #Zipes_1989">"all that had happened at the ball,"</rdg>
                         <rdg wit="#Brereton_1957">"about all the things that had happened,"</rdg>
-                        <rdg wit="#Zipes_1989">"all that had happened at the ball,"</rdg>
                         <rdg wit="#Philip_1993">"everything that had happened at the ball,"</rdg>
                         <rdg wit="#Appelbaum_2002">"everything that had occurred at the ball,"</rdg>
                         <rdg wit="#Betts_2009">"about everything that had happened at the
@@ -4278,8 +4239,7 @@
                             Ball,"</rdg>
                     </app><app>
                         <rdg wit="#Perrault_1697">les deux sœurs heurtèrent à la porte ;</rdg>
-                        <rdg wit="#Samber_1729">"her two sisters knock’d at the door,"</rdg>
-                        <rdg wit="#Samber_1741">"her two sisters knock’d at the door,"</rdg>
+                        <rdg wit="#Samber_1729 #Samber_1741">"her two sisters knock’d at the door,"</rdg>
                         <rdg wit="Neaulme_1745">"both the Sisters knock’d att the Door,"</rdg>
                         <rdg wit="#Planche_1858">the two sisters knocked at the door.</rdg>
                         <rdg wit="#Lang_1889">"her two sisters knocked at the door,"</rdg>
@@ -4288,8 +4248,7 @@
                         <rdg wit="#Mansion_1922">her two sisters knocked at the door </rdg>
                         <rdg wit="#Brereton_1957">when the two sisters came knocking at the
                             door.</rdg>
-                        <rdg wit="#Zipes_1989">"the two sisters knocked at the door,"</rdg>
-                        <rdg wit="#Philip_1993">"the two sisters knocked at the door,"</rdg>
+                        <rdg wit="#Zipes_1989 #Philip_1993">"the two sisters knocked at the door,"</rdg>
                         <rdg wit="#Appelbaum_2002">her two stepsisters knocked at the door;</rdg>
                         <rdg wit="#Betts_2009">her two sisters knocked on the door.</rdg>
                         <rdg wit="#Jones_2016">when the two sisters banged on the door.</rdg>
@@ -4297,13 +4256,12 @@
                     </app><app>
                         <rdg wit="#Perrault_1697">Cendrillon leur alla ouvrir : </rdg>
                         <rdg wit="#Samber_1729">Cinderilla ran and opened it.</rdg>
-                        <rdg wit="#Samber_1741">which Cinderilla ran and opened.</rdg>
+                        <rdg wit="#Samber_1741 #Mansion_1922">which Cinderilla ran and opened.</rdg>
                         <rdg wit="Neaulme_1745">and the Ash-Maid went &amp; open’d: </rdg>
                         <rdg wit="#Planche_1858">Cinderella went and opened it—</rdg>
                         <rdg wit="#Lang_1889">which Cinderella ran and opened.</rdg>
                         <rdg wit="#Welsh_1901">Cinderella opened it.</rdg>
                         <rdg wit="#Johnson_1921">Cinderella let them in.</rdg>
-                        <rdg wit="#Mansion_1922">which Cinderilla ran and opened.</rdg>
                         <rdg wit="#Brereton_1957">Cinderella went to open it.</rdg>
                         <rdg wit="#Zipes_1989">and Cinderella opened it.</rdg>
                         <rdg wit="#Philip_1993">and Cinderella let them in.</rdg>
@@ -4316,13 +4274,11 @@
                         <rdg wit="#Samber_1729">"""You have stay’d a long while,"""</rdg>
                         <rdg wit="#Samber_1741">"""How long you have stay’d,"""</rdg>
                         <rdg wit="Neaulme_1745">"How late you come back,"</rdg>
-                        <rdg wit="#Planche_1858">"""How late you are!"""</rdg>
-                        <rdg wit="#Lang_1889">"""How long you have stayed!"""</rdg>
-                        <rdg wit="#Welsh_1901">"""How long you have stayed!"""</rdg>
+                        <rdg wit="#Planche_1858 #Zipes_1989">"""How late you are!"""</rdg>
+                        <rdg wit="#Lang_1889 #Welsh_1901">"""How long you have stayed!"""</rdg>
                         <rdg wit="#Johnson_1921">What a long time you have been in coming!'</rdg>
                         <rdg wit="#Mansion_1922">"""How long you have stayed,"""</rdg>
                         <rdg wit="#Brereton_1957">How late you are!'</rdg>
-                        <rdg wit="#Zipes_1989">"""How late you are!"""</rdg>
                         <rdg wit="#Philip_1993">"""What a long time you've been,"""</rdg>
                         <rdg wit="#Appelbaum_2002">"""My, you took your time getting back!"""</rdg>
                         <rdg wit="#Betts_2009">What a long time you have been!'</rdg>
@@ -4331,38 +4287,27 @@
                             return,”"</rdg>
                     </app><app>
                         <rdg wit="#Perrault_1697">leur dit-elle </rdg>
-                        <rdg wit="#Samber_1729">"said she, "</rdg>
-                        <rdg wit="#Samber_1741">"cried she, "</rdg>
+                        <rdg wit="#Samber_1729 #Welsh_1901">"said she, "</rdg>
+                        <rdg wit="#Samber_1741 #Lang_1889 #Mansion_1922">"cried she, "</rdg>
                         <rdg wit="Neaulme_1745">"said she to ‘em, "</rdg>
                         <rdg wit="#Planche_1858">"said she to them, "</rdg>
-                        <rdg wit="#Lang_1889">"cried she, "</rdg>
-                        <rdg wit="#Welsh_1901">"said she, "</rdg>
                         <rdg wit="#Johnson_1921">"she declared, "</rdg>
-                        <rdg wit="#Mansion_1922">"cried she, "</rdg>
-                        <rdg wit="#Brereton_1957">"she said,"</rdg>
+                        <rdg wit="#Brereton_1957 #Betts_2009">"she said,"</rdg>
                         <rdg wit="#Zipes_1989">"she said to them,"</rdg>
-                        <rdg wit="#Philip_1993">"she told them,"</rdg>
+                        <rdg wit="#Philip_1993 #MoogSeifert_2021">"she told them,"</rdg>
                         <rdg wit="#Appelbaum_2002">she said </rdg>
-                        <rdg wit="#Betts_2009">"she said,"</rdg>
                         <rdg wit="#Jones_2016">--</rdg>
-                        <rdg wit="#MoogSeifert_2021">"she told them,"</rdg>
                     </app><app>
                         <rdg wit="#Perrault_1697">"en bâillant, en se frottant les yeux, et en
                             s'étendant "</rdg>
-                        <rdg wit="#Samber_1729">"gaping, rubbing her eyes, and stretching herself
-                            "</rdg>
-                        <rdg wit="#Samber_1741">"gaping, rubbing her eyes, and stretching herself
-                            "</rdg>
+                        <rdg wit="#Samber_1729 #Samber_1741 #Mansion_1922">"gaping, rubbing her eyes, and stretching herself
+                            "</rdg>                      
                         <rdg wit="Neaulme_1745">"gaping, rubbing her Eyes, and stretching,"</rdg>
-                        <rdg wit="#Planche_1858">"yawning, rubbing her eyes, and stretching herself
+                        <rdg wit="#Planche_1858 #Welsh_1901">"yawning, rubbing her eyes, and stretching herself
                             "</rdg>
                         <rdg wit="#Lang_1889">"gaping, rubbing her eyes and stretching herself
                             "</rdg>
-                        <rdg wit="#Welsh_1901">"yawning, rubbing her eyes, and stretching herself
-                            "</rdg>
                         <rdg wit="#Johnson_1921">rubbing her eyes and stretching herself </rdg>
-                        <rdg wit="#Mansion_1922">"gaping, rubbing her eyes, and stretching herself
-                            "</rdg>
                         <rdg wit="#Brereton_1957">rubbing her eyes and yawning and stretching </rdg>
                         <rdg wit="#Zipes_1989">"yawning, rubbing her eyes, and stretching "</rdg>
                         <rdg wit="#Philip_1993">yawning and rubbing her eyes and stretching </rdg>
@@ -4375,17 +4320,13 @@
                             "</rdg>
                     </app><app>
                         <rdg wit="#Perrault_1697">comme si elle n'eût fait que de se réveiller : </rdg>
-                        <rdg wit="#Samber_1729">as if she had been just awaked out of her
-                            sleep;</rdg>
-                        <rdg wit="#Samber_1741">as if she had been just awaked out of her
+                        <rdg wit="#Samber_1729 #Samber_1741 #Mansion_1922">as if she had been just awaked out of her
                             sleep;</rdg>
                         <rdg wit="Neaulme_1745">as if she had been just at sleeping.</rdg>
                         <rdg wit="#Planche_1858">as if she had but just awoke.</rdg>
                         <rdg wit="#Lang_1889">as if she had been just waked out of her sleep;</rdg>
                         <rdg wit="#Welsh_1901">as if she had been just awakened.</rdg>
                         <rdg wit="#Johnson_1921">as if she had only just awakened.</rdg>
-                        <rdg wit="#Mansion_1922">as if she had been just awaked out of her
-                            sleep;</rdg>
                         <rdg wit="#Brereton_1957">as though she had just woken up </rdg>
                         <rdg wit="#Zipes_1989">as if she had only just awoke.</rdg>
                         <rdg wit="#Philip_1993">"as if she had just woken up,"</rdg>
@@ -4403,14 +4344,12 @@
                         <rdg wit="Neaulme_1745">--</rdg>
                         <rdg wit="#Planche_1858">"She had not, however, been inclined to sleep since
                             she had left them."</rdg>
-                        <rdg wit="#Lang_1889">"she had not, however, any manner of inclination to
+                        <rdg wit="#Lang_1889 #Mansion_1922">"she had not, however, any manner of inclination to
                             sleep since they went from home."</rdg>
                         <rdg wit="#Welsh_1901">"She had not, however, had any desire to sleep since
                             they went from home."</rdg>
                         <rdg wit="#Johnson_1921">In real truth she had not for a moment wished to
                             sleep since they had left.</rdg>
-                        <rdg wit="#Mansion_1922">"she had not, however, any manner of inclination to
-                            sleep since they went from home."</rdg>
                         <rdg wit="#Brereton_1957">(though since they had last seen each other she had
                             felt very far from sleepy).</rdg>
                         <rdg wit="#Zipes_1989">"However, she had not had the slightest inclination to
@@ -4436,17 +4375,11 @@
                             Ball,"</rdg>
                         <rdg wit="#Planche_1858">"""Hadst thou been at the ball, "" said one of her
                             sisters to her,"</rdg>
-                        <rdg wit="#Lang_1889">"""If thou hadst been at the ball, "" said one of her
+                        <rdg wit="#Lang_1889 #Mansion_1922">"""If thou hadst been at the ball, "" said one of her
                             sisters,"</rdg>
-                        <rdg wit="#Welsh_1901">"""If you had been at the ball, "" said one of her
+                        <rdg wit="#Welsh_1901 #Zipes_1989">"""If you had been at the ball, "" said one of her
                             sisters,"</rdg>
-                        <rdg wit="#Johnson_1921">"If you had been at the ball, ' said one of the
-                            sisters,"</rdg>
-                        <rdg wit="#Mansion_1922">"""If thou hadst been at the ball, "" said one of
-                            her sisters,"</rdg>
-                        <rdg wit="#Brereton_1957">"If you had been at the ball, ' said one of the
-                            sisters,"</rdg>
-                        <rdg wit="#Zipes_1989">"""If you had been at the ball, "" said one of her
+                        <rdg wit="#Johnson_1921 #Brereton_1957">"If you had been at the ball, ' said one of the
                             sisters,"</rdg>
                         <rdg wit="#Philip_1993">"""If you'd been at the ball, "" said one of the
                             sisters,"</rdg>
@@ -4460,8 +4393,7 @@
                             sisters,"</rdg>
                     </app><app>
                         <rdg wit="#Perrault_1697">tu ne t'y serais pas ennuyée : </rdg>
-                        <rdg wit="#Samber_1729">"""thou would’st not have been tired with it: "</rdg>
-                        <rdg wit="#Samber_1741">"""thou would’st not have been tired with it: "</rdg>
+                        <rdg wit="#Samber_1729 #Samber_1741">"""thou would’st not have been tired with it: "</rdg>
                         <rdg wit="Neaulme_1745">you shouldn’t have found the time so long.</rdg>
                         <rdg wit="#Planche_1858">"""thou wouldst not have been weary of it."</rdg>
                         <rdg wit="#Lang_1889">"""thou wouldst not have been tired with it."</rdg>
@@ -4477,14 +4409,11 @@
                         <rdg wit="#MoogSeifert_2021">“you wouldn’t have been bored.</rdg>
                     </app><app>
                         <rdg wit="#Perrault_1697">"il y est venu la plus belle Princesse,"</rdg>
-                        <rdg wit="#Samber_1729">"there came thither the finest Princess,"</rdg>
-                        <rdg wit="#Samber_1741">"there came thither the finest Princess,"</rdg>
+                        <rdg wit="#Samber_1729 #Samber_1741 #Mansion_1922">"there came thither the finest Princess,"</rdg>
                         <rdg wit="Neaulme_1745">Wee had there the most handsome Princess!</rdg>
                         <rdg wit="#Planche_1858">There came to it the most beautiful Princess—</rdg>
-                        <rdg wit="#Lang_1889">"There came thither the finest princess,"</rdg>
-                        <rdg wit="#Welsh_1901">"There came thither the finest princess,"</rdg>
+                        <rdg wit="#Lang_1889 #Welsh_1901">"There came thither the finest princess,"</rdg>
                         <rdg wit="#Johnson_1921">"There came a most beautiful princess,"</rdg>
-                        <rdg wit="#Mansion_1922">"there came thither the finest Princess,"</rdg>
                         <rdg wit="#Brereton_1957">"There was a beautiful princess there,"</rdg>
                         <rdg wit="#Zipes_1989">The most beautiful princess attended it - </rdg>
                         <rdg wit="#Philip_1993">"There was the most beautiful princess there,"</rdg>
@@ -4495,17 +4424,13 @@
                     </app><app>
                         <rdg wit="#Perrault_1697">la plus belle qu'on puisse jamais voir ;</rdg>
                         <rdg wit="#Samber_1729">the most beautiful ever was seen;</rdg>
-                        <rdg wit="#Samber_1741">the most beautiful ever was seen with mortal
+                        <rdg wit="#Samber_1741 #Lang_1889 #Mansion_1922">the most beautiful ever was seen with mortal
                             eyes;</rdg>
                         <rdg wit="Neaulme_1745">The handsomest that was ever seen.</rdg>
                         <rdg wit="#Planche_1858">the most beautiful that ever was seen.</rdg>
-                        <rdg wit="#Lang_1889">the most beautiful ever was seen with mortal
-                            eyes;</rdg>
                         <rdg wit="#Welsh_1901">the most beautiful ever was seen with mortal
                             eyes.</rdg>
                         <rdg wit="#Johnson_1921">"the most beautiful that has ever been seen,"</rdg>
-                        <rdg wit="#Mansion_1922">the most beautiful ever was seen with mortal
-                            eyes;</rdg>
                         <rdg wit="#Brereton_1957">really ravishingly beautiful.</rdg>
                         <rdg wit="#Zipes_1989">the most beautiful in the world.</rdg>
                         <rdg wit="#Philip_1993">the loveliest you could ever see;</rdg>
@@ -4516,15 +4441,13 @@
                         <rdg wit="#MoogSeifert_2021">the most beautiful one could ever see.</rdg>
                     </app><app>
                         <rdg wit="#Perrault_1697">"elle nous a fait mille civilités,"</rdg>
-                        <rdg wit="#Samber_1729">"she shewed us a thousand civilities,"</rdg>
-                        <rdg wit="#Samber_1741">"she shewed us a thousand civilities,"</rdg>
+                        <rdg wit="#Samber_1729 #Samber_1741 #Mansion_1922">"she shewed us a thousand civilities,"</rdg>
                         <rdg wit="Neaulme_1745">"She was very gracious to us both,"</rdg>
                         <rdg wit="#Planche_1858">She paid us a thousand attentions.</rdg>
                         <rdg wit="#Lang_1889">"she showed us a thousand civilities,"</rdg>
                         <rdg wit="#Welsh_1901">"She showed us a thousand civilities,"</rdg>
                         <rdg wit="#Johnson_1921">"and she bestowed numberless attentions upon
                             us,"</rdg>
-                        <rdg wit="#Mansion_1922">"she shewed us a thousand civilities,"</rdg>
                         <rdg wit="#Brereton_1957">She was most attentive to us.</rdg>
                         <rdg wit="#Zipes_1989">"She paid us a thousand attentions,"</rdg>
                         <rdg wit="#Philip_1993">"she was so kind to us,"</rdg>
@@ -4534,34 +4457,28 @@
                         <rdg wit="#MoogSeifert_2021">She showed us a thousand civilities;</rdg>
                     </app><app>
                         <rdg wit="#Perrault_1697">elle nous a donné des oranges et des citrons.</rdg>
-                        <rdg wit="#Samber_1729">"and gave us oranges and lemons."""</rdg>
-                        <rdg wit="#Samber_1741">"and gave us oranges and citrons."""</rdg>
+                        <rdg wit="#Samber_1729 #Philip_1993">"and gave us oranges and lemons."""</rdg>
+                        <rdg wit="#Samber_1741 #Lang_1889 #Welsh_1901 #Mansion_1922">"and gave us oranges and citrons."""</rdg>
                         <rdg wit="Neaulme_1745">and hath presented us with Lemons and Oranges.</rdg>
                         <rdg wit="#Planche_1858">"She gave us oranges and citrons."""</rdg>
-                        <rdg wit="#Lang_1889">"and gave us oranges and citrons."""</rdg>
-                        <rdg wit="#Welsh_1901">"and gave us oranges and citrons."""</rdg>
                         <rdg wit="#Johnson_1921">and gave us her oranges and lemons.'</rdg>
-                        <rdg wit="#Mansion_1922">"and gave us oranges and citrons."""</rdg>
                         <rdg wit="#Brereton_1957">She gave us oranges and lemons.'</rdg>
                         <rdg wit="#Zipes_1989">"and also gave us oranges and citrons."""</rdg>
-                        <rdg wit="#Philip_1993">"and gave us oranges and lemons."""</rdg>
                         <rdg wit="#Appelbaum_2002">"she gave us oranges and citrons."""</rdg>
                         <rdg wit="#Betts_2009">and she gave us oranges and citrons.'</rdg>
-                        <rdg wit="#Jones_2016">she gave us oranges and lemons.”</rdg>
-                        <rdg wit="#MoogSeifert_2021">she gave us oranges and lemons.”</rdg>
+                        <rdg wit="#Jones_2016 #MoogSeifert_2021">she gave us oranges and lemons.”</rdg>
                     </app><app>
                         <rdg wit="#Perrault_1697">Cendrillon ne se sentait pas de joie : </rdg>
                         <rdg wit="#Samber_1729">Cinderilla seemed indifferent;</rdg>
                         <rdg wit="#Samber_1741">Cinderilla seemed very indifferent in the
                             matter;</rdg>
                         <rdg wit="Neaulme_1745">"The Ash-Maid overjoy’d, made no shew of it,"</rdg>
-                        <rdg wit="#Planche_1858">Cinderella was beside herself with delight.</rdg>
+                        <rdg wit="#Planche_1858 #Zipes_1989">Cinderella was beside herself with delight.</rdg>
                         <rdg wit="#Lang_1889">Cinderella seemed very indifferent in the matter;</rdg>
                         <rdg wit="#Welsh_1901"> Cinderella did not show any pleasure at this.</rdg>
                         <rdg wit="#Johnson_1921">Cinderella was overjoyed.</rdg>
                         <rdg wit="#Mansion_1922">Cinderilla was transported with joy;</rdg>
                         <rdg wit="#Brereton_1957">Cinderella could have hugged herself.</rdg>
-                        <rdg wit="#Zipes_1989">Cinderella was beside herself with delight.</rdg>
                         <rdg wit="#Philip_1993">Cinderella was beside herself with joy.</rdg>
                         <rdg wit="#Appelbaum_2002">Cinderella was beside herself with joy;</rdg>
                         <rdg wit="#Betts_2009">"Cinderella was beside herself with joy,"</rdg>
@@ -4569,7 +4486,7 @@
                         <rdg wit="#MoogSeifert_2021">Ashinella was beside herself with joy.</rdg>
                     </app><app>
                         <rdg wit="#Perrault_1697">elle leur demanda le nom de cette Princesse ;</rdg>
-                        <rdg wit="#Samber_1729">she asked them the name of that Princess;</rdg>
+                        <rdg wit="#Samber_1729 #Mansion_1922">she asked them the name of that Princess;</rdg>
                         <rdg wit="#Samber_1741">indeed she asked them the name of that
                             Princess;</rdg>
                         <rdg wit="Neaulme_1745">&amp; ask’d what was the Princess’s her Name;</rdg>
@@ -4578,10 +4495,7 @@
                             princess;"</rdg>
                         <rdg wit="#Welsh_1901">"Indeed, she asked them the name of the
                             princess;"</rdg>
-                        <rdg wit="#Johnson_1921">"She asked them the name of the princess,"</rdg>
-                        <rdg wit="#Mansion_1922">she asked them the name of that Princess;</rdg>
-                        <rdg wit="#Brereton_1957">"She asked them the name of the princess,"</rdg>
-                        <rdg wit="#Zipes_1989">"She asked them the name of the princess,"</rdg>
+                        <rdg wit="#Johnson_1921 #Brereton_1957 #Zipes_1989">"She asked them the name of the princess,"</rdg>
                         <rdg wit="#Philip_1993">"She asked what the princess's name was,"</rdg>
                         <rdg wit="#Appelbaum_2002">"she asked them that princess's name,"</rdg>
                         <rdg wit="#Betts_2009">and asked what the princess was called;</rdg>
@@ -4591,12 +4505,9 @@
                     </app><app>
                         <rdg wit="#Perrault_1697">"mais elles lui répondirent qu'on ne la connaissait
                             pas,"</rdg>
-                        <rdg wit="#Samber_1729">"but they told her they did not know it,"</rdg>
-                        <rdg wit="#Samber_1741">"but they told her they did not know it,"</rdg>
+                        <rdg wit="#Samber_1729 #Samber_1741 #Lang_1889 #Welsh_1901">"but they told her they did not know it,"</rdg>
                         <rdg wit="Neaulme_1745">"The answered she was unknown,"</rdg>
                         <rdg wit="#Planche_1858">but they replied that nobody knew her;</rdg>
-                        <rdg wit="#Lang_1889">"but they told her they did not know it,"</rdg>
-                        <rdg wit="#Welsh_1901">"but they told her they did not know it,"</rdg>
                         <rdg wit="#Johnson_1921">"but they replied that no one knew it,"</rdg>
                         <rdg wit="#Mansion_1922">but they told her they did not know it;</rdg>
                         <rdg wit="#Brereton_1957">"but they replied that no one knew her,"</rdg>
@@ -4611,9 +4522,7 @@
                             her,"</rdg>
                     </app><app>
                         <rdg wit="#Perrault_1697">"que le Fils du Roi en était fort en peine,"</rdg>
-                        <rdg wit="#Samber_1729">"and that the King's son was very uneasy on her
-                            account,"</rdg>
-                        <rdg wit="#Samber_1741">"and that the King's son was very uneasy on her
+                        <rdg wit="#Samber_1729 #Samber_1741">"and that the King's son was very uneasy on her
                             account,"</rdg>
                         <rdg wit="Neaulme_1745">"that the King’s Son was mightily uneasy upon that
                             account,"</rdg>
@@ -4638,62 +4547,46 @@
                     </app><app>
                         <rdg wit="#Perrault_1697">et qu'il donnerait toutes choses au monde pour
                             savoir qui elle était.</rdg>
-                        <rdg wit="#Samber_1729">and would give all the world to know where she
-                            was.</rdg>
-                        <rdg wit="#Samber_1741">and would give all the world to know where she
+                        <rdg wit="#Samber_1729 #Samber_1741">and would give all the world to know where she
                             was.</rdg>
                         <rdg wit="Neaulme_1745">and would give any thing in the world that he might
                             know who she was.</rdg>
-                        <rdg wit="#Planche_1858">and that he would give everything in the world to
+                        <rdg wit="#Planche_1858 #Jones_2016">and that he would give everything in the world to
                             know who she was.</rdg>
-                        <rdg wit="#Lang_1889">and would give all the world to know who she was.</rdg>
-                        <rdg wit="#Welsh_1901">and would give all the world to know who she
-                            was.</rdg>
+                        <rdg wit="#Lang_1889 #Welsh_1901 #Mansion_1922">and would give all the world to know who she was.</rdg>
                         <rdg wit="#Johnson_1921">that he would give anything in the world to know who
                             she was.</rdg>
-                        <rdg wit="#Mansion_1922">and would give all the world to know who she
-                            was.</rdg>
-                        <rdg wit="#Brereton_1957">and that he would give anything in the world to
+                        <rdg wit="#Brereton_1957 #MoogSeifert_2021">and that he would give anything in the world to
                             know who she was.</rdg>
-                        <rdg wit="#Zipes_1989">and would give anything in the world to know who she
+                        <rdg wit="#Zipes_1989 #Appelbaum_2002">and would give anything in the world to know who she
                             was.</rdg>
                         <rdg wit="#Philip_1993">and would give the whole world to know who she
                             was.</rdg>
-                        <rdg wit="#Appelbaum_2002">and would give anything in the world to know who
-                            she was.</rdg>
                         <rdg wit="#Betts_2009">and that he would give everything he possessed to know
                             who she was.</rdg>
-                        <rdg wit="#Jones_2016">and that he would give everything in the world to know
-                            who she was.</rdg>
-                        <rdg wit="#MoogSeifert_2021">and that he would give anything in the world to
-                            know who she was.</rdg>
                     </app><app>
                         <rdg wit="#Perrault_1697">"Cendrillon sourit et leur dit,"</rdg>
                         <rdg wit="#Samber_1729">"At this Cinderilla smiled and said,"</rdg>
                         <rdg wit="#Samber_1741">"At this Cinderilla smiling replied,"</rdg>
                         <rdg wit="Neaulme_1745">"The Ash-Maid smil’d and said,"</rdg>
-                        <rdg wit="#Planche_1858">"Cinderella smiled and said,"</rdg>
+                        <rdg wit="#Planche_1858 #Zipes_1989 #Philip_1993">"Cinderella smiled and said,"</rdg>
                         <rdg wit="#Lang_1889">"At this Cinderella, smiling, replied: "</rdg>
                         <rdg wit="#Welsh_1901">"At this Cinderella, smiling, replied: — "</rdg>
                         <rdg wit="#Johnson_1921">"Cinderella smiled, and said "</rdg>
                         <rdg wit="#Mansion_1922">"At this Cinderilla, smiling, replied:"</rdg>
                         <rdg wit="#Brereton_1957">Cinderella smiled and said to them:</rdg>
-                        <rdg wit="#Zipes_1989">"Cinderella smiled and said,"</rdg>
-                        <rdg wit="#Philip_1993">"Cinderella smiled and said,"</rdg>
-                        <rdg wit="#Appelbaum_2002">Cinderella smiled and said:</rdg>
-                        <rdg wit="#Betts_2009">Cinderella smiled and said: </rdg>
+                        <rdg wit="#Appelbaum_2002 #Betts_2009">Cinderella smiled and said:</rdg>
                         <rdg wit="#Jones_2016">Ashkins smiled and said: </rdg>
                         <rdg wit="#MoogSeifert_2021">Ashinella smiled and said to them:</rdg>
                     </app><app>
                         <rdg wit="#Perrault_1697">elle était donc bien belle ?</rdg>
                         <rdg wit="#Samber_1729">"""She must then be very handsome indeed;"</rdg>
-                        <rdg wit="#Samber_1741">"""She must then be very beautiful indeed;"</rdg>
+                        <rdg wit="#Samber_1741 #Mansion_1922">"""She must then be very beautiful indeed;"</rdg>
                         <rdg wit="Neaulme_1745">then she was very handsom.</rdg>
                         <rdg wit="#Planche_1858">"""She was very handsome, then?"</rdg>
                         <rdg wit="#Lang_1889">"""She must, then, be very beautiful indeed;"</rdg>
                         <rdg wit="#Welsh_1901">"""Was she then so very beautiful?"</rdg>
                         <rdg wit="#Johnson_1921">she must have been beautiful indeed.</rdg>
-                        <rdg wit="#Mansion_1922">"""She must then be very beautiful indeed;"</rdg>
                         <rdg wit="#Brereton_1957">“So she was very beautiful?</rdg>
                         <rdg wit="#Zipes_1989">"""She was very beautiful, then?"</rdg>
                         <rdg wit="#Philip_1993">"""Was she really so beautiful?"</rdg>
@@ -4706,13 +4599,12 @@
                         <rdg wit="#Samber_1729">"Lord how happy have you been,"</rdg>
                         <rdg wit="#Samber_1741">"Lord! how happy have you been,"</rdg>
                         <rdg wit="Neaulme_1745">O how happy you are!</rdg>
-                        <rdg wit="#Planche_1858">Heavens! how fortunate you are!</rdg>
+                        <rdg wit="#Planche_1858 #Zipes_1989">Heavens! how fortunate you are!</rdg>
                         <rdg wit="#Lang_1889">how happy you have been!</rdg>
                         <rdg wit="#Welsh_1901">How fortunate you have been!</rdg>
                         <rdg wit="#Johnson_1921">"Oh, how lucky you are."</rdg>
                         <rdg wit="#Mansion_1922">Lord! how happy have you been;</rdg>
                         <rdg wit="#Brereton_1957">"Well, well, how lucky you are!"</rdg>
-                        <rdg wit="#Zipes_1989">Heavens! How fortunate you are!</rdg>
                         <rdg wit="#Philip_1993">"Gracious, you are lucky!"</rdg>
                         <rdg wit="#Appelbaum_2002">"Heavens, how lucky you two are!"</rdg>
                         <rdg wit="#Betts_2009">"Goodness, how lucky you are!"</rdg>
@@ -4720,84 +4612,59 @@
                         <rdg wit="#MoogSeifert_2021">"My God, how fortunate you are!"</rdg>
                     </app><app>
                         <rdg wit="#Perrault_1697">ne pourrais-je point la voir ?</rdg>
-                        <rdg wit="#Samber_1729">could not I see her?</rdg>
-                        <rdg wit="#Samber_1741">could not I see her?</rdg>
+                        <rdg wit="#Samber_1729 #Samber_1741 #Mansion_1922">could not I see her?</rdg>
                         <rdg wit="Neaulme_1745">Couldn’t j see her.</rdg>
                         <rdg wit="#Planche_1858">—Could not I get a sight of her?</rdg>
                         <rdg wit="#Lang_1889">Could not I see her?</rdg>
-                        <rdg wit="#Welsh_1901">Could I not see her?</rdg>
+                        <rdg wit="#Welsh_1901 #MoogSeifert_2021">Could I not see her?</rdg>
                         <rdg wit="#Johnson_1921">Could I not manage to see her?</rdg>
-                        <rdg wit="#Mansion_1922">could not I see her?</rdg>
                         <rdg wit="#Brereton_1957">"Couldn't I see hen Please,"</rdg>
                         <rdg wit="#Zipes_1989">-Couldn't I have a chance to see her?</rdg>
                         <rdg wit="#Philip_1993">Can't I see her?</rdg>
                         <rdg wit="#Appelbaum_2002">Couldn't I get to see her?</rdg>
                         <rdg wit="#Betts_2009">I wish I could see her.</rdg>
                         <rdg wit="#Jones_2016">Could I at least get a glimpse of her?</rdg>
-                        <rdg wit="#MoogSeifert_2021">Could I not see her?</rdg>
                     </app><app>
                         <rdg wit="#Perrault_1697">"Hélas ! Mademoiselle Javotte,"</rdg>
                         <rdg wit="#Samber_1729">"Ah! good Madam Charlotte,"</rdg>
                         <rdg wit="#Samber_1741">"Ah! dear miss Charlotte,"</rdg>
                         <rdg wit="Neaulme_1745">"Pray, Madam, jane,"</rdg>
-                        <rdg wit="#Planche_1858">"Alas! Mademoiselle Javotte,"</rdg>
+                        <rdg wit="#Planche_1858 #MoogSeifert_2021">"Alas! Mademoiselle Javotte,"</rdg>
                         <rdg wit="#Lang_1889">"Ah! Dear Miss Charlotte,"</rdg>
-                        <rdg wit="#Welsh_1901">"Ah! dear Miss Charlotte,"</rdg>
+                        <rdg wit="#Welsh_1901 #Mansion_1922">"Ah! dear Miss Charlotte,"</rdg>
                         <rdg wit="#Johnson_1921">"Oh, please, Javotte,"</rdg>
-                        <rdg wit="#Mansion_1922">"Ah! dear Miss Charlotte,"</rdg>
                         <rdg wit="#Brereton_1957">"Miss Javotte,"</rdg>
                         <rdg wit="#Zipes_1989">"Alas! Javotte,"</rdg>
                         <rdg wit="#Philip_1993">"Oh dear! Miss Javotte,"</rdg>
                         <rdg wit="#Appelbaum_2002">"Alas! Miss Javotte,"</rdg>
                         <rdg wit="#Betts_2009">"Oh please, Miss Javotte,"</rdg>
                         <rdg wit="#Jones_2016">"What to do… Mademoiselle Javotte,"</rdg>
-                        <rdg wit="#MoogSeifert_2021">"Alas! Mademoiselle Javotte,"</rdg>
                     </app><app>
-                        <rdg wit="#Perrault_1697">--</rdg>
-                        <rdg wit="#Samber_1729">--</rdg>
-                        <rdg wit="#Samber_1741">--</rdg>
-                        <rdg wit="Neaulme_1745">"said she to the Eldest of the Sisters,"</rdg>
-                        <rdg wit="#Planche_1858">--</rdg>
-                        <rdg wit="#Lang_1889">--</rdg>
-                        <rdg wit="#Welsh_1901">--</rdg>
-                        <rdg wit="#Johnson_1921">--</rdg>
-                        <rdg wit="#Mansion_1922">--</rdg>
-                        <rdg wit="#Brereton_1957">--</rdg>
-                        <rdg wit="#Zipes_1989">--</rdg>
-                        <rdg wit="#Philip_1993">--</rdg>
-                        <rdg wit="#Appelbaum_2002">--</rdg>
-                        <rdg wit="#Betts_2009">--</rdg>
-                        <rdg wit="#Jones_2016">--</rdg>
-                        <rdg wit="#MoogSeifert_2021">--</rdg>
+                        <rdg wit="#Perrault_1697 #Samber_1729 #Samber_1741 #Planche_1858 #Lang_1889 #Welsh_1901 #Johnson_1921 #Mansion_1922 #Brereton_1957 #Zipes_1989 #Philip_1993 #Appelbaum_2002 #Betts_2009 #Jones_2016 #MoogSeifert_2021">--</rdg>                      
+                        <rdg wit="Neaulme_1745">"said she to the Eldest of the Sisters,"</rdg>                       
                     </app><app>
                         <rdg wit="#Perrault_1697">prêtez-moi votre habit jaune </rdg>
-                        <rdg wit="#Samber_1729">do lend me your yellow suit of clothes </rdg>
-                        <rdg wit="#Samber_1741">do lend me your yellow suit of clothes </rdg>
+                        <rdg wit="#Samber_1729 #Samber_1741 #Lang_1889 #Welsh_1901">do lend me your yellow suit of clothes </rdg>
                         <rdg wit="Neaulme_1745">lend me that Yellow suit </rdg>
                         <rdg wit="#Planche_1858">lend me the yellow gown </rdg>
-                        <rdg wit="#Lang_1889">do lend me your yellow suit of clothes </rdg>
-                        <rdg wit="#Welsh_1901">do lend me your yellow suit of clothes </rdg>
                         <rdg wit="#Johnson_1921">lend me the yellow dress </rdg>
                         <rdg wit="#Mansion_1922">do lend me your yellow suit of cloaths </rdg>
                         <rdg wit="#Brereton_1957">do lend me that yellow dress </rdg>
                         <rdg wit="#Zipes_1989">would you lend me the yellow gown </rdg>
                         <rdg wit="#Philip_1993">"lend me your yellow dress,"</rdg>
                         <rdg wit="#Appelbaum_2002">lend me that yellow dress </rdg>
-                        <rdg wit="#Betts_2009">lend me your yellow dress </rdg>
+                        <rdg wit="#Betts_2009 #MoogSeifert_2021">lend me your yellow dress </rdg>
                         <rdg wit="#Jones_2016">lend me the yellow ensemble </rdg>
-                        <rdg wit="#MoogSeifert_2021">lend me your yellow dress </rdg>
                     </app><app>
                         <rdg wit="#Perrault_1697">que vous mettez tous les jours : </rdg>
                         <rdg wit="#Samber_1729">"that you wear every day."""</rdg>
                         <rdg wit="#Samber_1741">that you wear every day.</rdg>
                         <rdg wit="Neaulme_1745">you weare every Day in the house.</rdg>
-                        <rdg wit="#Planche_1858">"you wear every day?"""</rdg>
-                        <rdg wit="#Lang_1889">"which you wear every day."""</rdg>
-                        <rdg wit="#Welsh_1901">"which you wear every day."""</rdg>
+                        <rdg wit="#Planche_1858 #Zipes_1989">"you wear every day?"""</rdg>
+                        <rdg wit="#Lang_1889 #Welsh_1901">"which you wear every day."""</rdg>
                         <rdg wit="#Johnson_1921">which you wear every day.'</rdg>
                         <rdg wit="#Mansion_1922">"which you wear every day!"""</rdg>
                         <rdg wit="#Brereton_1957">which you wear about the house.”</rdg>
-                        <rdg wit="#Zipes_1989">"you wear every day?"""</rdg>
                         <rdg wit="#Philip_1993">"the one you wear every day."""</rdg>
                         <rdg wit="#Appelbaum_2002">"you wear every day."""</rdg>
                         <rdg wit="#Betts_2009">that you wear for everyday.'</rdg>
@@ -4812,8 +4679,7 @@
                             thought indeed!"</rdg>
                         <rdg wit="#Planche_1858">"""Truly, "" said Mademoiselle Javotte, ""I like
                             that! "</rdg>
-                        <rdg wit="#Lang_1889">"""Ay, to be sure! "" cried Miss Charlotte;"</rdg>
-                        <rdg wit="#Welsh_1901">"""Ay, to be sure! "" cried Miss Charlotte;"</rdg>
+                        <rdg wit="#Lang_1889 #Welsh_1901">"""Ay, to be sure! "" cried Miss Charlotte;"</rdg>
                         <rdg wit="#Johnson_1921">"Indeed! ' said Javotte, that is a fine idea.
                             "</rdg>
                         <rdg wit="#Mansion_1922">"""Ay, to be sure! "" cried Miss Charlotte,"</rdg>
@@ -4839,9 +4705,7 @@
                             Asharse;</rdg>
                         <rdg wit="#Planche_1858">Lend one's gown to a dirty Cindertail like
                             you!</rdg>
-                        <rdg wit="#Lang_1889">"""lend my clothes to such a dirty Cinderwench as thou
-                            art!"</rdg>
-                        <rdg wit="#Welsh_1901">"""lend my clothes to such a dirty Cinderwench as thou
+                        <rdg wit="#Lang_1889 #Welsh_1901">"""lend my clothes to such a dirty Cinderwench as thou
                             art!"</rdg>
                         <rdg wit="#Johnson_1921">Lend my dress to a grubby cinder-slut like you </rdg>
                         <rdg wit="#Mansion_1922">"""lend my cloaths to such a dirty Cinder-breech as
@@ -4879,15 +4743,13 @@
                     </app><app>
                         <rdg wit="#Perrault_1697">"Cendrillon s'attendait bien à ce refus,"</rdg>
                         <rdg wit="#Samber_1729">Cinderilla </rdg>
-                        <rdg wit="#Samber_1741">"Cinderilla, indeed, expected some such
+                        <rdg wit="#Samber_1741 #Mansion_1922">"Cinderilla, indeed, expected some such
                             answer,"</rdg>
                         <rdg wit="Neaulme_1745">"The Ash-Maid expect’d no better,"</rdg>
                         <rdg wit="#Planche_1858">"Cinderella fully expected this refusal,"</rdg>
                         <rdg wit="#Lang_1889">"Cinderella, indeed, expected well such answer,"</rdg>
                         <rdg wit="#Welsh_1901">"Cinderella, indeed, expected such an answer "</rdg>
                         <rdg wit="#Johnson_1921">Cinderella had expected this refusal.</rdg>
-                        <rdg wit="#Mansion_1922">"Cinderilla, indeed, expected some such
-                            answer,"</rdg>
                         <rdg wit="#Brereton_1957">Cinderella was expecting this refusal </rdg>
                         <rdg wit="#Zipes_1989">Cinderella fully expected this refusal </rdg>
                         <rdg wit="#Philip_1993">"Cinderella knew very well she would refuse,"</rdg>
@@ -4901,10 +4763,8 @@
                         <rdg wit="#Samber_1741">"and was very glad of the refusal,"</rdg>
                         <rdg wit="Neaulme_1745">"and was even joyful for the denial,"</rdg>
                         <rdg wit="#Planche_1858">"and was delighted at it,"</rdg>
-                        <rdg wit="#Lang_1889">and was very glad of the refusal;</rdg>
-                        <rdg wit="#Welsh_1901">and was very glad of the refusal;</rdg>
+                        <rdg wit="#Lang_1889 #Welsh_1901 #Mansion_1922">and was very glad of the refusal;</rdg>
                         <rdg wit="#Johnson_1921">"She was in no way upset,"</rdg>
-                        <rdg wit="#Mansion_1922">and was very glad of the refusal;</rdg>
                         <rdg wit="#Brereton_1957">"and she was very glad when it came,"</rdg>
                         <rdg wit="#Zipes_1989">"and was delighted by it,"</rdg>
                         <rdg wit="#Philip_1993">"and she was quite happy,"</rdg>
@@ -4914,16 +4774,13 @@
                         <rdg wit="#MoogSeifert_2021">and she was really pleased with it </rdg>
                     </app><app>
                         <rdg wit="#Perrault_1697">car elle aurait été grandement embarrassee </rdg>
-                        <rdg wit="#Samber_1729">"for she would have been sadly put to it,"</rdg>
-                        <rdg wit="#Samber_1741">"for she would have been sadly put to it,"</rdg>
+                        <rdg wit="#Samber_1729 #Samber_1741 #Mansion_1922">"for she would have been sadly put to it,"</rdg>
                         <rdg wit="Neaulme_1745">for she had found herself in no small trouble </rdg>
-                        <rdg wit="#Planche_1858">for she would have been greatly embarrassed </rdg>
+                        <rdg wit="#Planche_1858 #Zipes_1989">for she would have been greatly embarrassed </rdg>
                         <rdg wit="#Lang_1889">for she would have been sadly put to it </rdg>
                         <rdg wit="#Welsh_1901">for she would have been sadly troubled </rdg>
                         <rdg wit="#Johnson_1921">for she would have been very greatly embarrassed </rdg>
-                        <rdg wit="#Mansion_1922">"for she would have been sadly put to it,"</rdg>
                         <rdg wit="#Brereton_1957">for she would have been in an awkward position </rdg>
-                        <rdg wit="#Zipes_1989">for she would have been greatly embarrassed </rdg>
                         <rdg wit="#Philip_1993">because she would have been in an embarrassing fix </rdg>
                         <rdg wit="#Appelbaum_2002">because she would have been in a great quandary </rdg>
                         <rdg wit="#Betts_2009">because it would have made things very difficult for
@@ -4934,17 +4791,13 @@
                         <rdg wit="#Perrault_1697">si sa sœur eût bien voulu lui prêter son
                             habit.</rdg>
                         <rdg wit="#Samber_1729">if her sister had lent her her clothes.</rdg>
-                        <rdg wit="#Samber_1741">if her sister had lent her what she asked for
+                        <rdg wit="#Samber_1741 #Lang_1889 #Mansion_1922">if her sister had lent her what she asked for
                             jestingly.</rdg>
                         <rdg wit="Neaulme_1745">if her Sister had lent her the Yellow Cloaths.</rdg>
                         <rdg wit="#Planche_1858">if her sister had lent her her gown.</rdg>
-                        <rdg wit="#Lang_1889">if her sister had lent her what she asked for
-                            jestingly.</rdg>
                         <rdg wit="#Welsh_1901">if her sister had lent her what she jestingly asked
                             for.</rdg>
                         <rdg wit="#Johnson_1921">had her sister been willing to lend the dress.</rdg>
-                        <rdg wit="#Mansion_1922">if her sister had lent her what she asked for
-                            jestingly.</rdg>
                         <rdg wit="#Brereton_1957">if her sister had really lent her her frock.</rdg>
                         <rdg wit="#Zipes_1989">if her sister had lent her the gown.</rdg>
                         <rdg wit="#Philip_1993">if her sister had really agreed to lend her the
@@ -4958,25 +4811,15 @@
                             dress.</rdg>
                     </app><app>
                         <rdg wit="#Perrault_1697">"Le lendemain les deux sœurs furent au Bal,"</rdg>
-                        <rdg wit="#Samber_1729">"The next day the two sisters were at the
-                            ball,"</rdg>
-                        <rdg wit="#Samber_1741">"The next day the two sisters were at the
+                        <rdg wit="#Samber_1729 #Samber_1741 #Lang_1889 #Mansion_1922">"The next day the two sisters were at the
                             ball,"</rdg>
                         <rdg wit="Neaulme_1745">"The next Day the Sisters went again to the
                             Ball,"</rdg>
-                        <rdg wit="#Planche_1858">"The next day the two sisters went to the
-                            ball,"</rdg>
-                        <rdg wit="#Lang_1889">"The next day the two sisters were at the ball,"</rdg>
-                        <rdg wit="#Welsh_1901">"The next day the two sisters went to the ball,"</rdg>
-                        <rdg wit="#Johnson_1921">"The next day the two sisters went to the
-                            ball,"</rdg>
-                        <rdg wit="#Mansion_1922">"The next day the two sisters were at the
+                        <rdg wit="#Planche_1858 #Welsh_1901 #Johnson_1921 #Philip_1993">"The next day the two sisters went to the
                             ball,"</rdg>
                         <rdg wit="#Brereton_1957">"On the next day the two sisters went to the
                             ball,"</rdg>
                         <rdg wit="#Zipes_1989">"The next evening the two sisters went to the
-                            ball,"</rdg>
-                        <rdg wit="#Philip_1993">"The next day the two sisters went to the
                             ball,"</rdg>
                         <rdg wit="#Appelbaum_2002">"The next day, the two stepsisters went to the
                             ball,"</rdg>
@@ -4987,32 +4830,22 @@
                             Ball,"</rdg>
                     </app><app>
                         <rdg wit="#Perrault_1697">"et Cendrillon aussi,"</rdg>
-                        <rdg wit="#Samber_1729">"and so was Cinderilla,"</rdg>
-                        <rdg wit="#Samber_1741">"and so was Cinderilla,"</rdg>
+                        <rdg wit="#Samber_1729 #Samber_1741 #Mansion_1922">"and so was Cinderilla,"</rdg>
                         <rdg wit="Neaulme_1745">so did also the Ash-Maid.</rdg>
-                        <rdg wit="#Planche_1858">"and Cinderella also,"</rdg>
+                        <rdg wit="#Planche_1858 #Betts_2009">"and Cinderella also,"</rdg>
                         <rdg wit="#Lang_1889">"and so was Cinderella,"</rdg>
-                        <rdg wit="#Welsh_1901">"and so did Cinderella,"</rdg>
-                        <rdg wit="#Johnson_1921">"and so did Cinderella,"</rdg>
-                        <rdg wit="#Mansion_1922">"and so was Cinderilla,"</rdg>
-                        <rdg wit="#Brereton_1957">"and Cinderella too,"</rdg>
-                        <rdg wit="#Zipes_1989">"and so did Cinderella,"</rdg>
-                        <rdg wit="#Philip_1993">"and Cinderella too,"</rdg>
-                        <rdg wit="#Appelbaum_2002">"and so did Cinderella,"</rdg>
-                        <rdg wit="#Betts_2009">"and Cinderella also,"</rdg>
+                        <rdg wit="#Welsh_1901 #Johnson_1921 #Zipes_1989 #Appelbaum_2002">"and so did Cinderella,"</rdg>
+                        <rdg wit="#Brereton_1957 #Philip_1993">"and Cinderella too,"</rdg>
                         <rdg wit="#Jones_2016">"as was Ashkins,"</rdg>
                         <rdg wit="#MoogSeifert_2021">"and Ashinella as well,"</rdg>
                     </app><app>
                         <rdg wit="#Perrault_1697">mais encore plus parée que la première fois.</rdg>
                         <rdg wit="#Samber_1729">but dressed more richly than she was at first.</rdg>
-                        <rdg wit="#Samber_1741">but dressed more magnificently than before.</rdg>
+                        <rdg wit="#Samber_1741 #Lang_1889 #Welsh_1901 #Mansion_1922">but dressed more magnificently than before.</rdg>
                         <rdg wit="Neaulme_1745">But still richer dressed than before.</rdg>
                         <rdg wit="#Planche_1858">but still more splendidly dressed than before.</rdg>
-                        <rdg wit="#Lang_1889">but dressed more magnificently than before.</rdg>
-                        <rdg wit="#Welsh_1901">but dressed more magnificently than before.</rdg>
                         <rdg wit="#Johnson_1921">even more splendidly attired than the first
                             time.</rdg>
-                        <rdg wit="#Mansion_1922">but dressed more magnificently than before.</rdg>
                         <rdg wit="#Brereton_1957">but even more splendidly dressed than the first
                             time.</rdg>
                         <rdg wit="#Zipes_1989">dressed even more splendidly than before.</rdg>
@@ -5026,14 +4859,11 @@
                         <rdg wit="#MoogSeifert_2021">but even more adorned than the first time.</rdg>
                     </app><app>
                         <rdg wit="#Perrault_1697">"Le Fils du Roi fut toujours auprès d'elle,"</rdg>
-                        <rdg wit="#Samber_1729">"The King's son was always by her,"</rdg>
-                        <rdg wit="#Samber_1741">"The King's son was always by her,"</rdg>
+                        <rdg wit="#Samber_1729 #Samber_1741 #Lang_1889 #Mansion_1922">"The King's son was always by her,"</rdg>
                         <rdg wit="Neaulme_1745">"The King’s Son stood all the while by her,"</rdg>
                         <rdg wit="#Planche_1858">"The King's son never left her side,"</rdg>
-                        <rdg wit="#Lang_1889">"The King's son was always by her,"</rdg>
                         <rdg wit="#Welsh_1901">"The King's son was always by her side,"</rdg>
                         <rdg wit="#Johnson_1921">"The king's son was always at her elbow,"</rdg>
-                        <rdg wit="#Mansion_1922">"The King's son was always by her,"</rdg>
                         <rdg wit="#Brereton_1957">The King's son was constantly at her side </rdg>
                         <rdg wit="#Zipes_1989">The king's son never left her side </rdg>
                         <rdg wit="#Philip_1993">The prince was always by her </rdg>
@@ -5045,7 +4875,7 @@
                     </app><app>
                         <rdg wit="#Perrault_1697">et ne cessa de lui conter des douceurs ;</rdg>
                         <rdg wit="#Samber_1729">and saying abundance of tender things to her;</rdg>
-                        <rdg wit="#Samber_1741">and never ceased his compliments and amorous speeches
+                        <rdg wit="#Samber_1741 #Mansion_1922">and never ceased his compliments and amorous speeches
                             to her;</rdg>
                         <rdg wit="Neaulme_1745">and ceas’d not telling her sweet things.</rdg>
                         <rdg wit="#Planche_1858">or ceased saying tender things to her.</rdg>
@@ -5053,8 +4883,6 @@
                             her;</rdg>
                         <rdg wit="#Welsh_1901">and his pretty speeches to her never ceased.</rdg>
                         <rdg wit="#Johnson_1921">and paid her endless compliments.</rdg>
-                        <rdg wit="#Mansion_1922">and never ceased his compliments and amorous
-                            speeches to her;</rdg>
                         <rdg wit="#Brereton_1957">and made love to her the whole evening.</rdg>
                         <rdg wit="#Zipes_1989">and kept saying sweet things to her.</rdg>
                         <rdg wit="#Philip_1993">and never stopped talking sweet nothings;</rdg>
@@ -5067,15 +4895,13 @@
                     </app><app>
                         <rdg wit="#Perrault_1697">"la jeune Demoiselle ne s'ennuyait point,"</rdg>
                         <rdg wit="#Samber_1729">"the young lady was no ways tired,"</rdg>
-                        <rdg wit="#Samber_1741">"to whom all this was so far from being
+                        <rdg wit="#Samber_1741 #Mansion_1922">"to whom all this was so far from being
                             tiresome,"</rdg>
                         <rdg wit="Neaulme_1745">"The young Lady grew not weary of it,"</rdg>
                         <rdg wit="#Planche_1858">"The young lady was much amused,"</rdg>
                         <rdg wit="#Lang_1889">to whom all this was so far from being tiresome </rdg>
                         <rdg wit="#Welsh_1901">These by no means annoyed the young lady.</rdg>
                         <rdg wit="#Johnson_1921">The young girl enjoyed herself so much </rdg>
-                        <rdg wit="#Mansion_1922">"to whom all this was so far from being
-                            tiresome,"</rdg>
                         <rdg wit="#Brereton_1957">The young girl was enjoying herself so much </rdg>
                         <rdg wit="#Zipes_1989">The young lady enjoyed herself so much </rdg>
                         <rdg wit="#Philip_1993">"the young lady wasn't at all bored,"</rdg>
@@ -5089,7 +4915,7 @@
                             ;</rdg>
                         <rdg wit="#Samber_1729">"and forgot what her godmother had recommended to
                             her,"</rdg>
-                        <rdg wit="#Samber_1741">"that she quite forgot what her godmother had
+                        <rdg wit="#Samber_1741 #Mansion_1922">"that she quite forgot what her godmother had
                             recommended to her,"</rdg>
                         <rdg wit="Neaulme_1745">and forgot the Fairies warning.</rdg>
                         <rdg wit="#Planche_1858">"and forgot what her godmother had advised
@@ -5100,8 +4926,6 @@
                             her,"</rdg>
                         <rdg wit="#Johnson_1921">"that she forgot her godmother's bidding
                             complétély,"</rdg>
-                        <rdg wit="#Mansion_1922">"that she quite forgot what her godmother had
-                            recommended to her,"</rdg>
                         <rdg wit="#Brereton_1957">that she forgot her godmother's warning.</rdg>
                         <rdg wit="#Zipes_1989">that she forgot her godmother's advice </rdg>
                         <rdg wit="#Philip_1993">"and forgot what her god-mother told her,"</rdg>
@@ -5117,17 +4941,14 @@
                             de minuit,"</rdg>
                         <rdg wit="#Samber_1729">"so that she heard the clock begin to strike
                             twelve,"</rdg>
-                        <rdg wit="#Samber_1741">"so that she, at last, counted the clock striking
+                        <rdg wit="#Samber_1741 #Mansion_1922">"so that she, at last, counted the clock striking
                             twelve,"</rdg>
                         <rdg wit="Neaulme_1745">"Twelve ô clock struck,"</rdg>
-                        <rdg wit="#Planche_1858">so that she heard the clock begin to strike twelve </rdg>
+                        <rdg wit="#Planche_1858 #Welsh_1901">so that she heard the clock begin to strike twelve </rdg>
                         <rdg wit="#Lang_1889">"so that she, at last, counted the clock striking
                             twelve "</rdg>
-                        <rdg wit="#Welsh_1901">so that she heard the clock begin to strike twelve </rdg>
                         <rdg wit="#Johnson_1921">"and when the first stroke of midnight fell upon her
                             ears,"</rdg>
-                        <rdg wit="#Mansion_1922">"so that she, at last, counted the clock striking
-                            twelve,"</rdg>
                         <rdg wit="#Brereton_1957">She heard the clock striking the first stroke of
                             midnight </rdg>
                         <rdg wit="#Zipes_1989">"and was dumbfounded when the clock began to strike
@@ -5148,12 +4969,11 @@
                         <rdg wit="#Samber_1741">"when she took it to be no more than eleven,"</rdg>
                         <rdg wit="Neaulme_1745">when she hardly thought it were Eleven.</rdg>
                         <rdg wit="#Planche_1858">when she did not even think it was eleven.</rdg>
-                        <rdg wit="#Lang_1889">when she took it to be no more than eleven;</rdg>
+                        <rdg wit="#Lang_1889 #Mansion_1922">when she took it to be no more than eleven;</rdg>
                         <rdg wit="#Welsh_1901">when she thought it could not be more than
                             eleven.</rdg>
                         <rdg wit="#Johnson_1921">she thought it was no more than eleven
                             o'clock.</rdg>
-                        <rdg wit="#Mansion_1922">when she took it to be no more than eleven;</rdg>
                         <rdg wit="#Brereton_1957">when she thought that it was still hardly
                             eleven.</rdg>
                         <rdg wit="#Zipes_1989">for she did not even think it was eleven.</rdg>
@@ -5170,7 +4990,7 @@
                         <rdg wit="#Samber_1741">she then rose up and fled as nimble as a deer.</rdg>
                         <rdg wit="Neaulme_1745">"She rose in haste, and flew away as swiftly as a
                             Hind."</rdg>
-                        <rdg wit="#Planche_1858">She rose and fled as lightly as a fawn.</rdg>
+                        <rdg wit="#Planche_1858 #Zipes_1989">She rose and fled as lightly as a fawn.</rdg>
                         <rdg wit="#Lang_1889">"she then rose up and fled, as nimble as a deer."</rdg>
                         <rdg wit="#Welsh_1901">"She then rose up and fled, as nimble as a
                             deer."</rdg>
@@ -5179,7 +4999,6 @@
                             deer."</rdg>
                         <rdg wit="#Brereton_1957">She rose and slipped away as lightly as a
                             roe-deer.</rdg>
-                        <rdg wit="#Zipes_1989">She rose and fled as lightly as a fawn.</rdg>
                         <rdg wit="#Philip_1993">"She jumped up and fled, as nimbly as a doe."</rdg>
                         <rdg wit="#Appelbaum_2002">she got up and ran out as nimbly as a doe.</rdg>
                         <rdg wit="#Betts_2009">she got to her Féet and ran away as fast as a young
@@ -5190,36 +5009,23 @@
                     </app><app>
                         <rdg wit="#Perrault_1697">"le Prince la suivit,"</rdg>
                         <rdg wit="#Samber_1729">"the Prince followed her,"</rdg>
-                        <rdg wit="#Samber_1741">"The Prince followed,"</rdg>
+                        <rdg wit="#Samber_1741 #Lang_1889 #Welsh_1901 #Mansion_1922">"The Prince followed,"</rdg>
                         <rdg wit="Neaulme_1745">"The Prince follow’d,"</rdg>
-                        <rdg wit="#Planche_1858">"The Prince followed her,"</rdg>
-                        <rdg wit="#Lang_1889">"The Prince followed,"</rdg>
-                        <rdg wit="#Welsh_1901">"The Prince followed,"</rdg>
-                        <rdg wit="#Johnson_1921">"The prince followed her,"</rdg>
-                        <rdg wit="#Mansion_1922">"The Prince followed,"</rdg>
-                        <rdg wit="#Brereton_1957">"The Prince followed her,"</rdg>
-                        <rdg wit="#Zipes_1989">"The prince followed her,"</rdg>
+                        <rdg wit="#Planche_1858 #Brereton_1957 #MoogSeifert_2021">"The Prince followed her,"</rdg>             
+                        <rdg wit="#Johnson_1921 #Zipes_1989 #Appelbaum_2002">"The prince followed her,"</rdg>
                         <rdg wit="#Philip_1993">The prince followed her.</rdg>
-                        <rdg wit="#Appelbaum_2002">"The prince followed her,"</rdg>
                         <rdg wit="#Betts_2009">The Prince went after her </rdg>
                         <rdg wit="#Jones_2016">The prince tracked her </rdg>
-                        <rdg wit="#MoogSeifert_2021">"The Prince followed her,"</rdg>
                     </app><app>
                         <rdg wit="#Perrault_1697">mais il ne put l'attraper ;</rdg>
                         <rdg wit="#Samber_1729">but could not catch hold of her;</rdg>
-                        <rdg wit="#Samber_1741">but could not overtake her.</rdg>
+                        <rdg wit="#Samber_1741 #Planche_1858 #Lang_1889 #Welsh_1901 #Mansion_1922">but could not overtake her.</rdg>
                         <rdg wit="Neaulme_1745">and could not overtake her.</rdg>
-                        <rdg wit="#Planche_1858">but could not overtake her.</rdg>
-                        <rdg wit="#Lang_1889">but could not overtake her.</rdg>
-                        <rdg wit="#Welsh_1901">but could not overtake her.</rdg>
-                        <rdg wit="#Johnson_1921">but could not catch her.</rdg>
-                        <rdg wit="#Mansion_1922">but could not overtake her.</rdg>
+                        <rdg wit="#Johnson_1921 #Zipes_1989 #Jones_2016">but could not catch her.</rdg>
                         <rdg wit="#Brereton_1957">but he could not catch her up.</rdg>
-                        <rdg wit="#Zipes_1989">but could not catch her.</rdg>
                         <rdg wit="#Philip_1993">"He couldn't catch her,"</rdg>
                         <rdg wit="#Appelbaum_2002">but couldn't catch her;</rdg>
                         <rdg wit="#Betts_2009">and could not catch her;</rdg>
-                        <rdg wit="#Jones_2016">but could not catch her.</rdg>
                         <rdg wit="#MoogSeifert_2021">but he could not catch her.</rdg>
                     </app><app>
                         <rdg wit="#Perrault_1697">"elle laissa tomber une de ses pantoufles de
@@ -5227,31 +5033,24 @@
                         <rdg wit="#Samber_1729">"she dropt one of her Glass Slippers,"</rdg>
                         <rdg wit="#Samber_1741">"She left behind one of her Glass Slippers,"</rdg>
                         <rdg wit="Neaulme_1745">"But he took up one of the glass Slippers,"</rdg>
-                        <rdg wit="#Planche_1858">"She dropped one of her glass slippers,"</rdg>
-                        <rdg wit="#Lang_1889">"She left behind one of her glass slippers,"</rdg>
-                        <rdg wit="#Welsh_1901">"She left behind one of her glass slippers,"</rdg>
+                        <rdg wit="#Planche_1858 #Jones_2016 #MoogSeifert_2021">"She dropped one of her glass slippers,"</rdg>
+                        <rdg wit="#Lang_1889 #Welsh_1901 #Mansion_1922">"She left behind one of her glass slippers,"</rdg>
                         <rdg wit="#Johnson_1921">"She let fall one of her glass slippers,
                             however,"</rdg>
-                        <rdg wit="#Mansion_1922">"She left behind one of her glass slippers,"</rdg>
                         <rdg wit="#Brereton_1957">"One of her glass slippers fell off,"</rdg>
                         <rdg wit="#Zipes_1989">"However, she dropped one of the glass
                             slippers,"</rdg>
                         <rdg wit="#Philip_1993">"but she did drop one of her glass slippers,"</rdg>
                         <rdg wit="#Appelbaum_2002">"she lost one of her glass slippers,"</rdg>
                         <rdg wit="#Betts_2009">"but one of her glass slippers fell off,"</rdg>
-                        <rdg wit="#Jones_2016">"She dropped one of her glass slippers,"</rdg>
-                        <rdg wit="#MoogSeifert_2021">"She dropped one of her glass slippers,"</rdg>
                     </app><app>
                         <rdg wit="#Perrault_1697">que le Prince ramassa bien soigneusement.</rdg>
                         <rdg wit="#Samber_1729">which the Prince took up most carefully;</rdg>
-                        <rdg wit="#Samber_1741">which the Prince took up most carefully.</rdg>
+                        <rdg wit="#Samber_1741 #Lang_1889 #Welsh_1901 #Mansion_1922">which the Prince took up most carefully.</rdg>
                         <rdg wit="Neaulme_1745">she had dropp’d running in the way.</rdg>
                         <rdg wit="#Planche_1858">which the Prince carefully picked up.</rdg>
-                        <rdg wit="#Lang_1889">which the Prince took up most carefully.</rdg>
-                        <rdg wit="#Welsh_1901">which the Prince took up most carefully.</rdg>
                         <rdg wit="#Johnson_1921">and this the prince picked up with tender
                             care.</rdg>
-                        <rdg wit="#Mansion_1922">which the Prince took up most carefully.</rdg>
                         <rdg wit="#Brereton_1957">and the Prince picked it up with great care.</rdg>
                         <rdg wit="#Zipes_1989">which the prince carefully picked up.</rdg>
                         <rdg wit="#Philip_1993">which the prince picked up tenderly.</rdg>
@@ -5266,11 +5065,9 @@
                         <rdg wit="#Samber_1741">"She got home but quite out of breath,"</rdg>
                         <rdg wit="Neaulme_1745">"She came home out of breath,"</rdg>
                         <rdg wit="#Planche_1858">"Cinderella reached home almost breathless,"</rdg>
-                        <rdg wit="#Lang_1889">"She got home, but quite out of breath,"</rdg>
-                        <rdg wit="#Welsh_1901">"She got home, but quite out of breath,"</rdg>
+                        <rdg wit="#Lang_1889 #Welsh_1901 #Mansion_1922">"She got home, but quite out of breath,"</rdg>
                         <rdg wit="#Johnson_1921">"When Cinderella reached home she was out of
                             breath,"</rdg>
-                        <rdg wit="#Mansion_1922">"She got home, but quite out of breath,"</rdg>
                         <rdg wit="#Brereton_1957">"Cinderella reached home quite out of
                             breath,"</rdg>
                         <rdg wit="#Zipes_1989">"Without coach or footmen,"</rdg>
@@ -5283,14 +5080,11 @@
                             breath,"</rdg>
                     </app><app>
                         <rdg wit="#Perrault_1697">"sans carrosse, sans laquais,"</rdg>
-                        <rdg wit="#Samber_1729">"without coach or footmen,"</rdg>
-                        <rdg wit="#Samber_1741">"without coach or footmen,"</rdg>
+                        <rdg wit="#Samber_1729 #Samber_1741 #Planche_1858 #Mansion_1922">"without coach or footmen,"</rdg>
                         <rdg wit="Neaulme_1745">"without Coach, without Footmen,"</rdg>
-                        <rdg wit="#Planche_1858">"without coach or footmen,"</rdg>
                         <rdg wit="#Lang_1889">--</rdg>
                         <rdg wit="#Welsh_1901">"without her carriage,"</rdg>
                         <rdg wit="#Johnson_1921">"without coach, without lackeys,"</rdg>
-                        <rdg wit="#Mansion_1922">"without coach or footmen,"</rdg>
                         <rdg wit="#Brereton_1957">"with no coach, no footmen,"</rdg>
                         <rdg wit="#Zipes_1989">Cinderella reached home out of breath </rdg>
                         <rdg wit="#Philip_1993">"no carriage, no flun­keys,"</rdg>
@@ -5301,10 +5095,9 @@
                     </app><app>
                         <rdg wit="#Perrault_1697">"et avec ses méchants habits,"</rdg>
                         <rdg wit="#Samber_1729">and in her old ugly clothes;</rdg>
-                        <rdg wit="#Samber_1741">"and in her nasty old clothes,"</rdg>
+                        <rdg wit="#Samber_1741 #Lang_1889">"and in her nasty old clothes,"</rdg>
                         <rdg wit="Neaulme_1745">"and in rags,"</rdg>
                         <rdg wit="#Planche_1858">"and in her shabby clothes,"</rdg>
-                        <rdg wit="#Lang_1889">"and in her nasty old clothes,"</rdg>
                         <rdg wit="#Welsh_1901">"and in her old clothes,"</rdg>
                         <rdg wit="#Johnson_1921">and in her shabby clothes.</rdg>
                         <rdg wit="#Mansion_1922">"and in her nasty old cloaths,"</rdg>
@@ -5319,13 +5112,11 @@
                         <rdg wit="#Perrault_1697">"rien ne lui étant resté de toute sa
                             magnificence,"</rdg>
                         <rdg wit="#Samber_1729">"she had nothing left her of all her finery,"</rdg>
-                        <rdg wit="#Samber_1741">"having nothing left her of all her finery,"</rdg>
+                        <rdg wit="#Samber_1741 #Mansion_1922">"having nothing left her of all her finery,"</rdg>
                         <rdg wit="Neaulme_1745">"none of her Fineries having remained,"</rdg>
                         <rdg wit="#Planche_1858">"nothing having remained of all her finery,"</rdg>
-                        <rdg wit="#Lang_1889">having nothing left her of all her finery </rdg>
-                        <rdg wit="#Welsh_1901">having nothing left her of all her finery </rdg>
+                        <rdg wit="#Lang_1889 #Welsh_1901">having nothing left her of all her finery </rdg>
                         <rdg wit="#Johnson_1921">Nothing remained of all her splendid clothes </rdg>
-                        <rdg wit="#Mansion_1922">"having nothing left her of all her finery,"</rdg>
                         <rdg wit="#Brereton_1957">"Nothing remained of all her finery,"</rdg>
                         <rdg wit="#Zipes_1989">"Nothing remained of her finery,"</rdg>
                         <rdg wit="#Philip_1993">with nothing left of her magnificence </rdg>
@@ -5337,32 +5128,23 @@
                         <rdg wit="#MoogSeifert_2021">nothing remaining of all her magnificence </rdg>
                     </app><app>
                         <rdg wit="#Perrault_1697">"qu'une de ses petites pantoufles,"</rdg>
-                        <rdg wit="#Samber_1729">"but one of the little Slippers,"</rdg>
-                        <rdg wit="#Samber_1741">"but one of the little Slippers,"</rdg>
+                        <rdg wit="#Samber_1729 #Samber_1741">"but one of the little Slippers,"</rdg>
                         <rdg wit="Neaulme_1745">save onely one of her pretty Slippers.</rdg>
-                        <rdg wit="#Planche_1858">"except one of her little slippers,"</rdg>
-                        <rdg wit="#Lang_1889">"but one of the little slippers,"</rdg>
-                        <rdg wit="#Welsh_1901">"but one of the little slippers,"</rdg>
+                        <rdg wit="#Planche_1858 #Brereton_1957 #Zipes_1989">"except one of her little slippers,"</rdg>
+                        <rdg wit="#Lang_1889 #Welsh_1901 #Mansion_1922">"but one of the little slippers,"</rdg>
                         <rdg wit="#Johnson_1921">"save one of the little slippers,"</rdg>
-                        <rdg wit="#Mansion_1922">"but one of the little slippers,"</rdg>
-                        <rdg wit="#Brereton_1957">"except one of her little slippers,"</rdg>
-                        <rdg wit="#Zipes_1989">"except one of her little slippers,"</rdg>
                         <rdg wit="#Philip_1993">"save a single little slipper,"</rdg>
-                        <rdg wit="#Appelbaum_2002">"but one of her little slippers,"</rdg>
+                        <rdg wit="#Appelbaum_2002 #Jones_2016 #MoogSeifert_2021">"but one of her little slippers,"</rdg>
                         <rdg wit="#Betts_2009">"except for one little slipper,"</rdg>
-                        <rdg wit="#Jones_2016">"but one of her little slippers,"</rdg>
-                        <rdg wit="#MoogSeifert_2021">"but one of her little slippers,"</rdg>
                     </app><app>
                         <rdg wit="#Perrault_1697">la pareille de celle qu'elle avait laissé
                             tomber.</rdg>
                         <rdg wit="#Samber_1729">fellow to that she drop’d.</rdg>
-                        <rdg wit="#Samber_1741">fellow to that she dropped.</rdg>
+                        <rdg wit="#Samber_1741 #Lang_1889 #Mansion_1922">fellow to that she dropped.</rdg>
                         <rdg wit="Neaulme_1745">--</rdg>
                         <rdg wit="#Planche_1858">the fellow of that she had let fall.</rdg>
-                        <rdg wit="#Lang_1889">fellow to that she dropped.</rdg>
                         <rdg wit="#Welsh_1901">fellow to the one she had dropped.</rdg>
                         <rdg wit="#Johnson_1921">the fellow to the one which she had let fall.</rdg>
-                        <rdg wit="#Mansion_1922">fellow to that she dropped.</rdg>
                         <rdg wit="#Brereton_1957">the fellow to the one which she had dropped.</rdg>
                         <rdg wit="#Zipes_1989">the companion to the one that she had dropped.</rdg>
                         <rdg wit="#Philip_1993">the mate of the one she dropped.</rdg>
