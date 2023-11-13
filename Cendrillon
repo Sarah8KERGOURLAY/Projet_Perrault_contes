@@ -1283,7 +1283,9 @@
                         <rdg wit="#Appelbaum_2002">because she had good taste.</rdg>
                         <rdg wit="#Betts_2009">because she had good taste;</rdg>
                         <rdg wit="#Jones_2016">Ashkins gave them the most excellent advice—</rdg>
-                    </app><app>
+                    </app>
+
+                    <app>
                         <rdg wit="#Perrault_1697">"Cendrillon les conseilla le mieux du monde,"</rdg>
                         <rdg wit="#Samber_1729">"Cinderilla advised them the best in the
                             world,"</rdg>
@@ -1292,11 +1294,10 @@
                         <rdg wit="Neaulme_1745">"She advis’d ‘em for the best,"</rdg>
                         <rdg wit="#Planche_1858">"Cinderella gave them the best advice in the
                             world,"</rdg>
-                        <rdg wit="#Lang_1889">"and advised them always for the best,"</rdg>
+                        <rdg wit="#Lang_1889 #Mansion_1922">"and advised them always for the best,"</rdg>
                         <rdg wit="#Welsh_1901">"She advised them always for the best,"</rdg>
                         <rdg wit="#Johnson_1921">"Cinderella gave them the best possible
                             suggestions,"</rdg>
-                        <rdg wit="#Mansion_1922">"and advised them always for the best,"</rdg>
                         <rdg wit="#Brereton_1957">She made useful suggestions </rdg>
                         <rdg wit="#Zipes_1989">Cinderella gave them the best advice in the world </rdg>
                         <rdg wit="#Philip_1993">"Cinderella gave them every possible help,"</rdg>
@@ -1305,7 +1306,10 @@
                         <rdg wit="#Jones_2016">she had good taste—</rdg>
                         <rdg wit="#MoogSeifert_2021">"Ashinella advised them in the best possible
                             way,"</rdg>
-                    </app><app>
+                    </app>
+                    
+                     
+                    <app>
                         <rdg wit="#Perrault_1697">et s'offrit même à les coiffer ;</rdg>
                         <rdg wit="#Samber_1729">and offered herself to dress their heads;</rdg>
                         <rdg wit="#Samber_1741">"nay, and offered her service to dress their
@@ -1329,16 +1333,15 @@
                         <rdg wit="#Jones_2016">"and even offered to do their coiffures,"</rdg>
                         <rdg wit="#MoogSeifert_2021">"and even offered to style their hair
                             herself,"</rdg>
-                    </app><app>
+                    </app>
+                    
+                     
+                    <app>
                         <rdg wit="#Perrault_1697">ce qu'elles voulurent bien.</rdg>
-                        <rdg wit="#Samber_1729">which they were very willing she should do.</rdg>
-                        <rdg wit="#Samber_1741">which they were very willing she should do.</rdg>
+                        <rdg wit="#Samber_1729 #Samber_1741 #Lang_1889 #Welsh_1901 #Mansion_1922">which they were very willing she should do.</rdg>
                         <rdg wit="Neaulme_1745">which they very willingly accepted.</rdg>
                         <rdg wit="#Planche_1858">which they were very willing she should do;</rdg>
-                        <rdg wit="#Lang_1889">which they were very willing she should do.</rdg>
-                        <rdg wit="#Welsh_1901">which they were very willing she should do.</rdg>
                         <rdg wit="#Johnson_1921">to which they gladly agreed.</rdg>
-                        <rdg wit="#Mansion_1922">which they were very willing she should do.</rdg>
                         <rdg wit="#Brereton_1957">They accepted willingly.</rdg>
                         <rdg wit="#Zipes_1989">a favor they were eager to accept.</rdg>
                         <rdg wit="#Philip_1993">which they were pleased to accept.</rdg>
@@ -1346,87 +1349,70 @@
                         <rdg wit="#Betts_2009">which they gladly accepted.</rdg>
                         <rdg wit="#Jones_2016">to which they agreed.</rdg>
                         <rdg wit="#MoogSeifert_2021">which they accepted.</rdg>
-                    </app><app>
+                    </app>
+                    
+                     
+                    <app>
                         <rdg wit="#Perrault_1697">"En les coiffant,"</rdg>
-                        <rdg wit="#Samber_1729">"As she was doing this,"</rdg>
-                        <rdg wit="#Samber_1741">"As she was doing this,"</rdg>
+                        <rdg wit="#Samber_1729 #Samber_1741 #Samber_1741 #Welsh_1901 #Mansion_1922">"As she was doing this,"</rdg>
                         <rdg wit="Neaulme_1745">"Whilst she was att dressing of ‘em,"</rdg>
                         <rdg wit="#Planche_1858">"and whilst she was about it,"</rdg>
-                        <rdg wit="#Lang_1889">"As she was doing this,"</rdg>
-                        <rdg wit="#Welsh_1901">"As she was doing this,"</rdg>
                         <rdg wit="#Johnson_1921">While she was thus occupied </rdg>
-                        <rdg wit="#Mansion_1922">"As she was doing this,"</rdg>
-                        <rdg wit="#Brereton_1957">"While she was doing it,"</rdg>
+                        <rdg wit="#Brereton_1957 #Betts_2009">"While she was doing it,"</rdg>
                         <rdg wit="#Zipes_1989">"While she went about it,"</rdg>
                         <rdg wit="#Philip_1993">"But while she combed,"</rdg>
-                        <rdg wit="#Appelbaum_2002">"While she was arranging their hair,"</rdg>
-                        <rdg wit="#Betts_2009">"While she was doing it,"</rdg>
+                        <rdg wit="#Appelbaum_2002">"While she was arranging their hair,"</rdg> 
                         <rdg wit="#Jones_2016">"While she was doing their hair,"</rdg>
                         <rdg wit="#MoogSeifert_2021">"While styling their hair,"</rdg>
-                    </app><app>
+                    </app>
+                     
+                    <app>
                         <rdg wit="#Perrault_1697">"elles lui disaient,"</rdg>
-                        <rdg wit="#Samber_1729">"they said to her,"</rdg>
-                        <rdg wit="#Samber_1741">"they said to her,"</rdg>
+                        <rdg wit="#Samber_1729 #Samber_1741 #Planche_1858 #Zipes_1989 #Philip_1993">"they said to her,"</rdg>
                         <rdg wit="Neaulme_1745">"they told her,"</rdg>
-                        <rdg wit="#Planche_1858">"they said to her,"</rdg>
-                        <rdg wit="#Lang_1889">they said to her:</rdg>
-                        <rdg wit="#Welsh_1901">they said to her: </rdg>
-                        <rdg wit="#Johnson_1921">they said: </rdg>
-                        <rdg wit="#Mansion_1922">they said to her:</rdg>
-                        <rdg wit="#Brereton_1957">they said to her: </rdg>
-                        <rdg wit="#Zipes_1989">"they said to her,"</rdg>
-                        <rdg wit="#Philip_1993">"they said to her,"</rdg>
-                        <rdg wit="#Appelbaum_2002">they said to her: </rdg>
-                        <rdg wit="#Betts_2009">they said: </rdg>
-                        <rdg wit="#Jones_2016">they said to her: </rdg>
+                        <rdg wit="#Lang_1889 #Welsh_1901 #Mansion_1922 #Brereton_1957 #Appelbaum_2002 #Jones_2016">they said to her:</rdg>
+                        <rdg wit="#Johnson_1921 #Betts_2009">they said: </rdg>
                         <rdg wit="#MoogSeifert_2021">they kept saying to her:</rdg>
-                    </app><app>
+                    </app>
+                    
+                     
+                    <app>
                         <rdg wit="#Perrault_1697">"Cendrillon,"</rdg>
-                        <rdg wit="#Samber_1729">"""Cinderilla,"</rdg>
-                        <rdg wit="#Samber_1741">"""Cinderilla,"</rdg>
+                        <rdg wit="#Samber_1729 #Samber_1741 #Mansion_1922">"""Cinderilla,"</rdg>
                         <rdg wit="Neaulme_1745">"Ash-Maid,"</rdg>
-                        <rdg wit="#Planche_1858">"""Cinderella,"</rdg>
-                        <rdg wit="#Lang_1889">"""Cinderella,"</rdg>
-                        <rdg wit="#Welsh_1901">"""Cinderella,"</rdg>
-                        <rdg wit="#Johnson_1921">"Cinderella,"</rdg>
-                        <rdg wit="#Mansion_1922">"""Cinderilla,"</rdg>
-                        <rdg wit="#Brereton_1957">"“Cinderella,"</rdg>
-                        <rdg wit="#Zipes_1989">"""Cinderella,"</rdg>
-                        <rdg wit="#Philip_1993">"""Cinderella,"</rdg>
-                        <rdg wit="#Appelbaum_2002">"“Cinderella,"</rdg>
-                        <rdg wit="#Betts_2009">"Cinderella,"</rdg>
+                        <rdg wit="#Planche_1858 #Lang_1889 #Welsh_1901 #Zipes_1989 #Zipes_1989">"""Cinderella,"</rdg>
+                        <rdg wit="#Johnson_1921 #Betts_2009">"Cinderella,"</rdg>
+                        <rdg wit="#Brereton_1957 #Betts_2009">"“Cinderella,"</rdg>
                         <rdg wit="#Jones_2016">"“Ashkins,"</rdg>
                         <rdg wit="#MoogSeifert_2021">"“Ashinella,"</rdg>
-                    </app><app>
+                    </app>
+                    
+                     
+                    <app>
                         <rdg wit="#Perrault_1697">serais-tu bien aise d'aller au Bal : </rdg>
-                        <rdg wit="#Samber_1729">"would you not be glad to go to the ball?"""</rdg>
-                        <rdg wit="#Samber_1741">"would you not be glad to go to the ball?"""</rdg>
+                        <rdg wit="#Samber_1729 #Samber_1741 Lang_1889 #Welsh_1901 #Mansion_1922">"would you not be glad to go to the ball?"""</rdg>
                         <rdg wit="Neaulme_1745">shouldn’t you be very glad if you were to go to the
                             Ball?</rdg>
                         <rdg wit="#Planche_1858">"shouldst thou like to go to the ball?"""</rdg>
-                        <rdg wit="#Lang_1889">"would you not be glad to go to the ball?"""</rdg>
-                        <rdg wit="#Welsh_1901">"would you not be glad to go to the ball?"""</rdg>
                         <rdg wit="#Johnson_1921">would you not like to go to the ball ?'</rdg>
-                        <rdg wit="#Mansion_1922">"would you not be glad to go to the ball?"""</rdg>
                         <rdg wit="#Brereton_1957">how would you like to go to the ball?”</rdg>
-                        <rdg wit="#Zipes_1989">"wouldn't you like to go to the ball?"""</rdg>
-                        <rdg wit="#Philip_1993">"wouldn't you like to go to the ball?"""</rdg>
+                        <rdg wit="#Zipes_1989 #Philip_1993">"wouldn't you like to go to the ball?"""</rdg>
                         <rdg wit="#Appelbaum_2002">would you like to go to the ball?”</rdg>
                         <rdg wit="#Betts_2009">wouldn't you like to go to the ball?'</rdg>
                         <rdg wit="#Jones_2016">wouldn’t you just be delighted to go to the
                             ball?”</rdg>
                         <rdg wit="#MoogSeifert_2021">would you be really pleased to go to the
                             Ball?”</rdg>
-                    </app><app>
+                    </app>
+
+                    <app>
                         <rdg wit="#Perrault_1697">"Hélas, Mesdamoiselles,"</rdg>
-                        <rdg wit="#Samber_1729">"""Ah!"" said she,"</rdg>
-                        <rdg wit="#Samber_1741">"""Ah! "" said she,"</rdg>
+                        <rdg wit="#Samber_1729 #Samber_1741 #Mansion_1922">"""Ah!"" said she,"</rdg>
                         <rdg wit="Neaulme_1745">"Alas! Said she,"</rdg>
                         <rdg wit="#Planche_1858">"""Alas! Mesdemoiselles,"</rdg>
                         <rdg wit="#Lang_1889">"""Alas! "" said she,"</rdg>
                         <rdg wit="#Welsh_1901">"""Young ladies, "" she said,"</rdg>
                         <rdg wit="#Johnson_1921">"Ah, but you fine young ladies "</rdg>
-                        <rdg wit="#Mansion_1922">"""Ah! "" said she,"</rdg>
                         <rdg wit="#Brereton_1957">"Oh dear,"</rdg>
                         <rdg wit="#Zipes_1989">"""Alas! Ladies,"</rdg>
                         <rdg wit="#Philip_1993">Cinderella sighed.</rdg>
@@ -1434,16 +1420,17 @@
                         <rdg wit="#Betts_2009">"For pity, sisters,"</rdg>
                         <rdg wit="#Jones_2016">"“Ah, Mademoiselles!"</rdg>
                         <rdg wit="#MoogSeifert_2021">"“Alas, Mesdemoiselles,"</rdg>
-                    </app><app>
+                    </app>
+                    
+                     
+                    <app>
                         <rdg wit="#Perrault_1697">"vous vous moquez de moi,"</rdg>
                         <rdg wit="#Samber_1729">"""you only banter me;"</rdg>
-                        <rdg wit="#Samber_1741">"""you only jeer me;"</rdg>
+                        <rdg wit="#Samber_1741 #Lang_1889">"""you only jeer me;"</rdg>
                         <rdg wit="Neaulme_1745">you do but laugh at me.</rdg>
                         <rdg wit="#Planche_1858">you make game of me;</rdg>
-                        <rdg wit="#Lang_1889">"""you only jeer me;"</rdg>
-                        <rdg wit="#Welsh_1901">"""you only jeer at me;"</rdg>
+                        <rdg wit="#Welsh_1901 #Mansion_1922">"""you only jeer at me;"</rdg>
                         <rdg wit="#Johnson_1921">are laughing at me.</rdg>
-                        <rdg wit="#Mansion_1922">"""you only jeer at me;"</rdg>
                         <rdg wit="#Brereton_1957">you are making fun of me.</rdg>
                         <rdg wit="#Zipes_1989">you're playing with me.</rdg>
                         <rdg wit="#Philip_1993">"""You're making fun of me, ladies,"</rdg>
@@ -1451,82 +1438,81 @@
                         <rdg wit="#Betts_2009">you are making fun;</rdg>
                         <rdg wit="#Jones_2016">You’re joking around.</rdg>
                         <rdg wit="#MoogSeifert_2021">you’re making fun of me.</rdg>
-                    </app><app>
+                    </app>
+                    
+                     
+                    <app>
                         <rdg wit="#Perrault_1697">ce n'est pas là ce qu'il me faut : </rdg>
-                        <rdg wit="#Samber_1729">"it is not for such as I am to gothither."""</rdg>
-                        <rdg wit="#Samber_1741">"it is not for such as I am to go thither."""</rdg>
+                        <rdg wit="#Samber_1729 #Samber_1741 #Lang_1889 #Mansion_1922">"it is not for such as I am to go thither."""</rdg>
                         <rdg wit="Neaulme_1745">Such things are not for me.</rdg>
-                        <rdg wit="#Planche_1858">"that would not befit me at all."""</rdg>
-                        <rdg wit="#Lang_1889">"it is not for such as I am to go thither."""</rdg>
+                        <rdg wit="#Planche_1858 #Zipes_1989">"that would not befit me at all."""</rdg>
                         <rdg wit="#Welsh_1901">"it is not for such as I am to go there."""</rdg>
                         <rdg wit="#Johnson_1921">It would be no place for me.'</rdg>
-                        <rdg wit="#Mansion_1922">"it is not for such as I am to go thither."""</rdg>
                         <rdg wit="#Brereton_1957">It wouldn't do for me.</rdg>
-                        <rdg wit="#Zipes_1989">"That would not befit me at all."""</rdg>
                         <rdg wit="#Philip_1993">"that's not my place."""</rdg>
                         <rdg wit="#Appelbaum_2002">"that’s no place for me."""</rdg>
                         <rdg wit="#Betts_2009">that kind of thing is not for me.'</rdg>
                         <rdg wit="#Jones_2016">I really don’t need that.”</rdg>
                         <rdg wit="#MoogSeifert_2021">That really is not what is proper for me.”</rdg>
-                    </app><app>
+                    </app>
+                    
+                     
+                    <app>
                         <rdg wit="#Perrault_1697">tu as raison ; </rdg>
                         <rdg wit="#Samber_1729">"""You are in the right of it,"" replied they,"</rdg>
-                        <rdg wit="#Samber_1741">"""Thou art in the right of it, "" replied
+                        <rdg wit="#Samber_1741 #Mansion_1922">"""Thou art in the right of it, "" replied
                             they,"</rdg>
                         <rdg wit="Neaulme_1745">"Very true, said they,"</rdg>
                         <rdg wit="#Planche_1858">"""Thou art right,"</rdg>
                         <rdg wit="#Lang_1889">"""Thou art in the right of it, "" replied they;"</rdg>
                         <rdg wit="#Welsh_1901">"""You are right, "" they replied;"</rdg>
                         <rdg wit="#Johnson_1921">"That is very true,"</rdg>
-                        <rdg wit="#Mansion_1922">"""Thou art in the right of it, "" replied
-                            they,"</rdg>
                         <rdg wit="#Brereton_1957">'You are quite right.</rdg>
-                        <rdg wit="#Zipes_1989">"""You're right."</rdg>
-                        <rdg wit="#Philip_1993">"""You're right."</rdg>
+                        <rdg wit="#Zipes_1989 #Philip_1993">"""You're right."</rdg>
                         <rdg wit="#Appelbaum_2002">"""You’re right,"</rdg>
                         <rdg wit="#Betts_2009">Quite right - </rdg>
                         <rdg wit="#Jones_2016">“It’s true.</rdg>
                         <rdg wit="#MoogSeifert_2021">“You’re right.</rdg>
-                    </app><app>
+                    </app>
+                    
+                     
+                    <app>
                         <rdg wit="#Perrault_1697">"on rirait bien, "</rdg>
-                        <rdg wit="#Samber_1729">"""it would make the people laugh "</rdg>
-                        <rdg wit="#Samber_1741">"""it would make the people laugh "</rdg>
+                        <rdg wit="#Samber_1729 #Samber_1741 #Lang_1889 #Mansion_1922">"""it would make the people laugh "</rdg>
                         <rdg wit="Neaulme_1745">"for every body should laugh indeed, "</rdg>
                         <rdg wit="#Planche_1858">they would laugh immensely </rdg>
-                        <rdg wit="#Lang_1889">"""it would make the people laugh "</rdg>
                         <rdg wit="#Welsh_1901">"""people would laugh "</rdg>
                         <rdg wit="#Johnson_1921">people would laugh </rdg>
-                        <rdg wit="#Mansion_1922">"""it would make the people laugh "</rdg>
                         <rdg wit="#Brereton_1957">It would be a joke. People would laugh </rdg>
                         <rdg wit="#Zipes_1989">People would have a great laugh </rdg>
-                        <rdg wit="#Philip_1993">People would have a good laugh </rdg>
-                        <rdg wit="#Appelbaum_2002">people would have a good laugh </rdg>
+                        <rdg wit="#Philip_1993 #Appelbaum_2002 #Jones_2016">People would have a good laugh </rdg>
                         <rdg wit="#Betts_2009">"how everyone would laugh, "</rdg>
-                        <rdg wit="#Jones_2016">People would have a good laugh </rdg>
                         <rdg wit="#MoogSeifert_2021">People would really laugh </rdg>
-                    </app><app>
+                    </app>
+                    
+                     
+                    <app>
                         <rdg wit="#Perrault_1697">si on voyait un Culcendron aller au Bal.</rdg>
                         <rdg wit="#Samber_1729">"to see a Cinderbreech at a ball."""</rdg>
-                        <rdg wit="#Samber_1741">"to see a Cinder-breech at a ball."""</rdg>
+                        <rdg wit="#Samber_1741 #Mansion_1922">"to see a Cinder-breech at a ball."""</rdg>
                         <rdg wit="Neaulme_1745">if they saw an Ash-Maid att a Ball.</rdg>
-                        <rdg wit="#Planche_1858">"to see a Cindertail at a ball!"""</rdg>
-                        <rdg wit="#Lang_1889">"to see a Cinderwench at a ball."""</rdg>
-                        <rdg wit="#Welsh_1901">"to see a Cinderwench at a ball."""</rdg>
+                        <rdg wit="#Planche_1858 #Zipes_1989">"to see a Cindertail at a ball!"""</rdg>
+                        <rdg wit="#Lang_1889 #Welsh_1901">"to see a Cinderwench at a ball."""</rdg>
                         <rdg wit="#Johnson_1921">to see a cinder-slut in the ballroom.'</rdg>
-                        <rdg wit="#Mansion_1922">"to see a Cinder-breech at a ball."""</rdg>
                         <rdg wit="#Brereton_1957">if they saw a Cinderbottom at the ball.'</rdg>
-                        <rdg wit="#Zipes_1989">"to see a Cindertail at a ball!"""</rdg>
                         <rdg wit="#Philip_1993">"to see a Cinderbutt at the ball."""</rdg>
                         <rdg wit="#Appelbaum_2002">"seeing a cinder-ass attending the ball."""</rdg>
                         <rdg wit="#Betts_2009">to see Cinderbum going to the ball!'</rdg>
                         <rdg wit="#Jones_2016">if they saw an Ashwipe at the ball.”</rdg>
                         <rdg wit="#MoogSeifert_2021">if they saw an Ashinella go to the Ball.”</rdg>
-                    </app><app>
+                    </app>
+                    
+                   
+                     
+                    <app>
                         <rdg wit="#Perrault_1697">Une autre que Cendrillon les aurait coiffées de
                             travers ;</rdg>
-                        <rdg wit="#Samber_1729">Any one but Cinderilla would have dressed their heads
-                            awry;</rdg>
-                        <rdg wit="#Samber_1741">Any one but Cinderilla would have dressed their heads
+                        <rdg wit="#Samber_1729 #Samber_1741">Any one but Cinderilla would have dressed their heads
                             awry;</rdg>
                         <rdg wit="Neaulme_1745">An other but the Ash-Maid had dressed ‘em all
                             awry.</rdg>
@@ -1554,55 +1540,49 @@
                             lopsided,"</rdg>
                         <rdg wit="#MoogSeifert_2021">Anyone other than Ashinella would have done a
                             bad job on their hair.</rdg>
-                    </app><app>
+                    </app>
+                    
+                     
+                    <app>
                         <rdg wit="#Perrault_1697">"mais elle était bonne,"</rdg>
-                        <rdg wit="#Samber_1729">"but she was very good,"</rdg>
-                        <rdg wit="#Samber_1741">"but she was very good,"</rdg>
-                        <rdg wit="Neaulme_1745">"But she was good,"</rdg>
+                        <rdg wit="#Samber_1729 #Samber_1741 #Lang_1889 #Mansion_1922">"but she was very good,"</rdg>
+                        <rdg wit="Neaulme_1745 #Philip_1993 #MoogSeifert_2021">"But she was good,"</rdg>
                         <rdg wit="#Planche_1858">"but she was good natured,"</rdg>
-                        <rdg wit="#Lang_1889">"but she was very good,"</rdg>
-                        <rdg wit="#Welsh_1901">"but she was good-natured,"</rdg>
-                        <rdg wit="#Johnson_1921">"but she was good-natured,"</rdg>
-                        <rdg wit="#Mansion_1922">"but she was very good,"</rdg>
+                        <rdg wit="#Welsh_1901 #Johnson_1921">"but she was good-natured,"</rdg>
                         <rdg wit="#Brereton_1957">"but she had a sweet nature,"</rdg>
                         <rdg wit="#Zipes_1989">but she was good-natured </rdg>
-                        <rdg wit="#Philip_1993">"but she was good,"</rdg>
                         <rdg wit="#Appelbaum_2002">"but she was kind,"</rdg>
                         <rdg wit="#Betts_2009">but she was good by nature </rdg>
                         <rdg wit="#Jones_2016">but Ashkins was kind </rdg>
-                        <rdg wit="#MoogSeifert_2021">"But she was good,"</rdg>
-                    </app><app>
+                    </app>
+                    
+                     
+                    <app>
                         <rdg wit="#Perrault_1697">et elle les coiffa parfaitement bien.</rdg>
-                        <rdg wit="#Samber_1729">and dressed them perfectly well.</rdg>
-                        <rdg wit="#Samber_1741">and dressed them perfectly well.</rdg>
-                        <rdg wit="Neaulme_1745">and dressed them perfectly well.</rdg>
-                        <rdg wit="#Planche_1858">and dressed them to perfection.</rdg>
-                        <rdg wit="#Lang_1889">and dressed them perfectly well.</rdg>
+                        <rdg wit="#Samber_1729 #Samber_1741 #Neaulme_1745 #Lang_1889 #Mansion_1922">and dressed them perfectly well.</rdg>
+                        <rdg wit="#Planche_1858 #Zipes_1989">and dressed them to perfection.</rdg>
                         <rdg wit="#Welsh_1901">and arranged it perfectly well.</rdg>
                         <rdg wit="#Johnson_1921">and she finished them off to perfection.</rdg>
-                        <rdg wit="#Mansion_1922">and dressed them perfectly well.</rdg>
                         <rdg wit="#Brereton_1957">and she finished it perfectly.</rdg>
-                        <rdg wit="#Zipes_1989">and dressed them to perfection.</rdg>
                         <rdg wit="#Philip_1993">and she styled it to perfection.</rdg>
                         <rdg wit="#Appelbaum_2002">and she did a perfectly good job.</rdg>
                         <rdg wit="#Betts_2009">and did it very nicely.</rdg>
                         <rdg wit="#Jones_2016">and she set them just right.</rdg>
                         <rdg wit="#MoogSeifert_2021">and she styled their hair perfectly well.</rdg>
-                    </app><app>
+                    </app>
+                    
+                     
+                    <app>
                         <rdg wit="#Perrault_1697">"Elles furent près de deux jours sans manger, tant
                             elles étaient transportées de joie : "</rdg>
-                        <rdg wit="#Samber_1729">"They were almost two days without eating, so much
-                            they were transported with joy: "</rdg>
-                        <rdg wit="#Samber_1741">"They were almost two days without eating, so much
+                        <rdg wit="#Samber_1729 #Samber_1741">"They were almost two days without eating, so much
                             they were transported with joy: "</rdg>
                         <rdg wit="Neaulme_1745">"They were, for joy, almost two days without
                             eating."</rdg>
                         <rdg wit="#Planche_1858">"They could eat nothing for nearly two days, so
                             transported were they with joy."</rdg>
-                        <rdg wit="#Lang_1889">"They were almost two days without eating, so much were
+                        <rdg wit="#Lang_1889 #Welsh_1901">"They were almost two days without eating, so much were
                             they transported with joy."</rdg>
-                        <rdg wit="#Welsh_1901">"They were almost two days without eating, so much
-                            were they transported with joy."</rdg>
                         <rdg wit="#Johnson_1921">They were so excited in their glee that for nearly
                             two days they ate nothing.</rdg>
                         <rdg wit="#Mansion_1922">"They were almost two days without eating, so much
@@ -1621,27 +1601,23 @@
                             pleasure,"</rdg>
                         <rdg wit="#MoogSeifert_2021">"They went almost two days without eating, they
                             were so transported by joy."</rdg>
-                    </app><app>
+                    </app>
+                    
+                     
+                    <app>
                         <rdg wit="#Perrault_1697">on rompit plus de douze lacets à force de les
                             serrer </rdg>
-                        <rdg wit="#Samber_1729">"they broke above a dozen of laces in trying to be
-                            laced up close,"</rdg>
-                        <rdg wit="#Samber_1741">"they broke above a dozen of laces in trying to be
+                        <rdg wit="#Samber_1729 #Samber_1741 #Mansion_1922 #Lang_1889">"they broke above a dozen of laces in trying to be
                             laced up close,"</rdg>
                         <rdg wit="Neaulme_1745">"Above twelve Laces were broken in straight-lacing
                             of ‘em,"</rdg>
-                        <rdg wit="#Planche_1858">More than a dozen laces were broken </rdg>
-                        <rdg wit="#Lang_1889">"They broke above a dozen laces in trying to be laced
-                            up close,"</rdg>
+                        <rdg wit="#Planche_1858 #Zipes_1989">More than a dozen laces were broken </rdg>
                         <rdg wit="#Welsh_1901">"They broke above a dozen laces in trying to lace
                             themselves tight,"</rdg>
                         <rdg wit="#Johnson_1921">They broke more than a dozen laces through drawing
                             their stays tight </rdg>
-                        <rdg wit="#Mansion_1922">"they broke above a dozen of laces in trying to be
-                            laced up close,"</rdg>
                         <rdg wit="#Brereton_1957">They broke a good dozen laces trying to tighten
                             their stays </rdg>
-                        <rdg wit="#Zipes_1989">More than a dozen laces were broken </rdg>
                         <rdg wit="#Philip_1993">and they broke more than a dozen corset laces pulling
                             them tight </rdg>
                         <rdg wit="#Appelbaum_2002">More than twelve bodice laces snapped while being
@@ -1651,60 +1627,54 @@
                         <rdg wit="#Jones_2016">broke more than a dozen laces tightening their corsets </rdg>
                         <rdg wit="#MoogSeifert_2021">More than twelve bodice-laces were broken by
                             dint of binding them </rdg>
-                    </app><app>
+                    </app>
+                    
+                     
+                    <app>
                         <rdg wit="#Perrault_1697">"pour leur rendre la taille plus menue,"</rdg>
-                        <rdg wit="#Samber_1729">"that they might have a fine slender shape,"</rdg>
-                        <rdg wit="#Samber_1741">"that they might have a fine slender shape,"</rdg>
+                        <rdg wit="#Samber_1729 #Samber_1741 #Lang_1889 #Mansion_1922">"that they might have a fine slender shape,"</rdg>
                         <rdg wit="Neaulme_1745">"for the sake of fine shape,"</rdg>
-                        <rdg wit="#Planche_1858">"in making their waists as small as possible,"</rdg>
-                        <rdg wit="#Lang_1889">"that they might have a fine slender shape,"</rdg>
+                        <rdg wit="#Planche_1858 #Zipes_1989">"in making their waists as small as possible,"</rdg>
                         <rdg wit="#Welsh_1901">"that they might have a fine, slender shape,"</rdg>
                         <rdg wit="#Johnson_1921">"in order to make their waists more slender,"</rdg>
-                        <rdg wit="#Mansion_1922">"that they might have a fine slender shape,"</rdg>
                         <rdg wit="#Brereton_1957">"to make their waists slimmer,"</rdg>
-                        <rdg wit="#Zipes_1989">"in making their waists as small as possible,"</rdg>
                         <rdg wit="#Philip_1993">"to get a wasp waist,"</rdg>
                         <rdg wit="#Appelbaum_2002">"to give them a narrower waist,"</rdg>
                         <rdg wit="#Betts_2009">to make their waists look thinner.</rdg>
                         <rdg wit="#Jones_2016">"to make their waists look smaller,"</rdg>
                         <rdg wit="#MoogSeifert_2021">"to make their waists slenderer,"</rdg>
-                    </app><app>
+                    </app>
+                    
+                     
+                    <app>
                         <rdg wit="#Perrault_1697">et elles étaient toujours devant leur miroir.</rdg>
-                        <rdg wit="#Samber_1729">and they were continually at their
-                            looking-glass.</rdg>
-                        <rdg wit="#Samber_1741">and they were continually at their
+                        <rdg wit="#Samber_1729 #Samber_1741 #Welsh_1901 #Mansion_1922">and they were continually at their
                             looking-glass.</rdg>
                         <rdg wit="Neaulme_1745">and they never stirr’d from their Glass.</rdg>
                         <rdg wit="#Planche_1858">and they were always before their
                             looking-glasses.</rdg>
                         <rdg wit="#Lang_1889">and they were continually at their looking-glass.</rdg>
-                        <rdg wit="#Welsh_1901">and they were continually at their
-                            looking-glass.</rdg>
                         <rdg wit="#Johnson_1921">and they were perpetually in front of a
                             mirror.</rdg>
-                        <rdg wit="#Mansion_1922">and they were continually at their
-                            looking-glass.</rdg>
                         <rdg wit="#Brereton_1957">and they were never away from their mirrors.</rdg>
                         <rdg wit="#Zipes_1989">and they were constantly standing in front of their
                             mirrors.</rdg>
                         <rdg wit="#Philip_1993">and they were always at the mirror.</rdg>
                         <rdg wit="#Appelbaum_2002">and they were constantly in front of their
                             mirrors.</rdg>
-                        <rdg wit="#Betts_2009">--</rdg>
+                        <rdg wit="#Betts_2009">- -</rdg> 
                         <rdg wit="#Jones_2016">and they stood all day in front of their
                             mirrors.</rdg>
                         <rdg wit="#MoogSeifert_2021">and they were always in front of their
                             mirror.</rdg>
-                    </app><app>
+                    </app>
+                    
+                     
+                    <app>
                         <rdg wit="#Perrault_1697">Enfin l'heureux jour arriva ;</rdg>
-                        <rdg wit="#Samber_1729">At last the happy day came;</rdg>
-                        <rdg wit="#Samber_1741">At last the happy day came;</rdg>
+                        <rdg wit="#Samber_1729 #Samber_1741 #Lang_1889 #Welsh_1901 #Mansion_1922">At last the happy day came;</rdg>
                         <rdg wit="Neaulme_1745">"At last the happy day came,"</rdg>
-                        <rdg wit="#Planche_1858">At last the happy day arrived.</rdg>
-                        <rdg wit="#Lang_1889">At last the happy day came;</rdg>
-                        <rdg wit="#Welsh_1901">At last the happy day came;</rdg>
-                        <rdg wit="#Johnson_1921">At last the happy day arrived.</rdg>
-                        <rdg wit="#Mansion_1922">At last the happy day came;</rdg>
+                        <rdg wit="#Planche_1858 #Johnson_1921">At last the happy day arrived.</rdg>
                         <rdg wit="#Brereton_1957">At last the great day arrived.</rdg>
                         <rdg wit="#Zipes_1989">At last the happy evening arrived.</rdg>
                         <rdg wit="#Philip_1993">"At last they happy day arrived,"</rdg>
@@ -1712,42 +1682,34 @@
                         <rdg wit="#Betts_2009">At last the happy day arrived;</rdg>
                         <rdg wit="#Jones_2016">"When at last the special occasion arrived,"</rdg>
                         <rdg wit="#MoogSeifert_2021">"Finally, the happy day arrived."</rdg>
-                    </app><app>
+                    </app>
+                    
+                     
+                    <app>
                         <rdg wit="#Perrault_1697">"on partit,"</rdg>
-                        <rdg wit="#Samber_1729">"they went to court,"</rdg>
-                        <rdg wit="#Samber_1741">"they went to court,"</rdg>
+                        <rdg wit="#Samber_1729 #Samber_1741 #Lang_1889 #Welsh_1901 #Mansion_1922">"they went to court,"</rdg>
                         <rdg wit="Neaulme_1745">and they sat out for the Ball.</rdg>
-                        <rdg wit="#Planche_1858">"They set off,"</rdg>
-                        <rdg wit="#Lang_1889">"they went to Court,"</rdg>
-                        <rdg wit="#Welsh_1901">"they went to Court,"</rdg>
+                        <rdg wit="#Planche_1858 #Brereton_1957 #Zipes_1989 #Betts_2009">"They set off,"</rdg>
                         <rdg wit="#Johnson_1921">"Away they went,"</rdg>
-                        <rdg wit="#Mansion_1922">"they went to Court,"</rdg>
-                        <rdg wit="#Brereton_1957">"They set off,"</rdg>
-                        <rdg wit="#Zipes_1989">"They set off,"</rdg>
                         <rdg wit="#Philip_1993">and they set off.</rdg>
-                        <rdg wit="#Appelbaum_2002">"they left,"</rdg>
-                        <rdg wit="#Betts_2009">"they set off,"</rdg>
+                        <rdg wit="#Appelbaum_2002 #MoogSeifert_2021">"they left,"</rdg>
                         <rdg wit="#Jones_2016">they set out</rdg>
-                        <rdg wit="#MoogSeifert_2021">"They left,"</rdg>
-                    </app><app>
+                    </app>
+                    
+                     
+                    <app>
                         <rdg wit="#Perrault_1697">et Cendrillon les suivit des yeux le plus longtemps
                             qu'elle put ;</rdg>
-                        <rdg wit="#Samber_1729">"and Cinderilla followed them with her eyes as long
-                            as she could,"</rdg>
-                        <rdg wit="#Samber_1741">"and Cinderilla followed them with her eyes as long
+                        <rdg wit="#Samber_1729 #Samber_1741 #Mansion_1922">"and Cinderilla followed them with her eyes as long
                             as she could,"</rdg>
                         <rdg wit="Neaulme_1745">"The Ash-Maid follow’d ‘em as far as she could with
                             the Eyes,"</rdg>
                         <rdg wit="#Planche_1858">and Cinderella followed them with her eyes as long
                             as she could.</rdg>
-                        <rdg wit="#Lang_1889">"and Cinderella followed them with her eyes as long as
-                            she could,"</rdg>
-                        <rdg wit="#Welsh_1901">"and Cinderella followed them with her eyes as long as
+                        <rdg wit="#Lang_1889 #Welsh_1901">"and Cinderella followed them with her eyes as long as
                             she could,"</rdg>
                         <rdg wit="#Johnson_1921">Cinderella watching them as long as she could keep
                             them in sight.</rdg>
-                        <rdg wit="#Mansion_1922">"and Cinderilla followed them with her eyes as long
-                            as she could,"</rdg>
                         <rdg wit="#Brereton_1957">and Cinderella watched them until they were out of
                             sight.</rdg>
                         <rdg wit="#Zipes_1989">and Cinderella followed them with her eyes as long as
@@ -1762,51 +1724,41 @@
                             could.</rdg>
                         <rdg wit="#MoogSeifert_2021">and Ashinella followed them with her eyes the
                             longest she possibly could.</rdg>
-                    </app><app>
+                    </app>
+                    
+                     
+                    <app>
                         <rdg wit="#Perrault_1697">"lorsqu'elle ne les vit plus,"</rdg>
-                        <rdg wit="#Samber_1729">and when she had lost sight of them </rdg>
-                        <rdg wit="#Samber_1741">and when she had lost sight of them </rdg>
+                        <rdg wit="#Samber_1729 #Samber_1741 #Lang_1889 #Welsh_1901 #Mansion_1922">and when she had lost sight of them </rdg>
                         <rdg wit="Neaulme_1745">"and when she lost ‘em out of sight,"</rdg>
-                        <rdg wit="#Planche_1858">"When they were out of sight,"</rdg>
-                        <rdg wit="#Lang_1889">"and when she had lost sight of them,"</rdg>
-                        <rdg wit="#Welsh_1901">"and when she had lost sight of them,"</rdg>
+                        <rdg wit="#Planche_1858 #Zipes_1989">"When they were out of sight,"</rdg>
                         <rdg wit="#Johnson_1921">When she could no longer see them </rdg>
-                        <rdg wit="#Mansion_1922">and when she had lost sight of them </rdg>
                         <rdg wit="#Brereton_1957">"When she could no longer see them,"</rdg>
-                        <rdg wit="#Zipes_1989">"When they were out of sight,"</rdg>
                         <rdg wit="#Philip_1993">"and when she could no longer see them,"</rdg>
                         <rdg wit="#Appelbaum_2002">"when they were no longer visible,"</rdg>
                         <rdg wit="#Betts_2009">"seeing them no longer,"</rdg>
                         <rdg wit="#Jones_2016">"When she could not see them anymore,"</rdg>
                         <rdg wit="#MoogSeifert_2021">"When she no longer saw them,"</rdg>
-                    </app><app>
+                    </app>
+                    
+                    
+                     
+                    <app>
                         <rdg wit="#Perrault_1697">elle se mit à pleurer.</rdg>
-                        <rdg wit="#Samber_1729">she fell a crying.</rdg>
-                        <rdg wit="#Samber_1741">she fell a crying.</rdg>
-                        <rdg wit="Neaulme_1745">she fell a crying.</rdg>
-                        <rdg wit="#Planche_1858">she began to cry.</rdg>
-                        <rdg wit="#Lang_1889">she fell a-crying.</rdg>
-                        <rdg wit="#Welsh_1901">she fell a-crying.</rdg>
-                        <rdg wit="#Johnson_1921">she began to cry.</rdg>
-                        <rdg wit="#Mansion_1922">she fell a-crying.</rdg>
-                        <rdg wit="#Brereton_1957">she began to cry.</rdg>
-                        <rdg wit="#Zipes_1989">she began to cry.</rdg>
-                        <rdg wit="#Philip_1993">she began to cry.</rdg>
-                        <rdg wit="#Appelbaum_2002">she started to cry.</rdg>
-                        <rdg wit="#Betts_2009">she began to cry.</rdg>
+                        <rdg wit="#Samber_1729 #Samber_1741 #Neaulme_1745">she fell a crying.</rdg>
+                        <rdg wit="#Planche_1858 #Johnson_1921 #Brereton_1957 #Zipes_1989 #Philip_1993 #Betts_2009">she began to cry.</rdg>
+                        <rdg wit="#Lang_1889 #Welsh_1901 #Mansion_1922">she fell a-crying.</rdg>
+                        <rdg wit="#Appelbaum_2002 #MoogSeifert_2021">she started to cry.</rdg>
                         <rdg wit="#Jones_2016">she broke down crying.</rdg>
-                        <rdg wit="#MoogSeifert_2021">she started to cry.</rdg>
-                    </app><app>
+                    </app>
+                    
+                     
+                    <app>
                         <rdg wit="#Perrault_1697">"Sa Marraine qui la vit toute en pleurs,"</rdg>
-                        <rdg wit="#Samber_1729">"Her godmother, who saw her all in tears,"</rdg>
-                        <rdg wit="#Samber_1741">"Her godmother, who saw her all in tears,"</rdg>
+                        <rdg wit="#Samber_1729 #Samber_1741 #Planche_1858 #Lang_1889 #Welsh_1901 #Mansion_1922">"Her godmother, who saw her all in tears,"</rdg>
                         <rdg wit="Neaulme_1745">"A Fairie, her God-Mother, seeing her in
                             tears,"</rdg>
-                        <rdg wit="#Planche_1858">"Her godmother, who saw her all in tears,"</rdg>
-                        <rdg wit="#Lang_1889">"Her godmother, who saw her all in tears,"</rdg>
-                        <rdg wit="#Welsh_1901">"Her godmother, who saw her all in tears,"</rdg>
                         <rdg wit="#Johnson_1921">"Her godmother found her in tears,"</rdg>
-                        <rdg wit="#Mansion_1922">"Her godmother, who saw her all in tears,"</rdg>
                         <rdg wit="#Brereton_1957">"Her godmother, seeing her all in tears,"</rdg>
                         <rdg wit="#Zipes_1989">"Her godmother, who came upon her all in tears,"</rdg>
                         <rdg wit="#Philip_1993">"Her godmother, who saw her weeping,"</rdg>
@@ -1815,34 +1767,34 @@
                         <rdg wit="#Betts_2009">"Her godmother saw that she was all in tears,"</rdg>
                         <rdg wit="#Jones_2016">"Her godmother, who saw her in tears,"</rdg>
                         <rdg wit="#MoogSeifert_2021">Her Godmother who saw her all in tears </rdg>
-                    </app><app>
+                    </app>
+                    
+                     
+                    <app>
                         <rdg wit="#Perrault_1697">lui demanda ce qu'elle avait : </rdg>
-                        <rdg wit="#Samber_1729">asked her what was the matter?</rdg>
-                        <rdg wit="#Samber_1741">asked her what was the matter?</rdg>
+                        <rdg wit="#Samber_1729 #Samber_1741">asked her what was the matter?</rdg>
                         <rdg wit="Neaulme_1745">ask’d her what she ailed.</rdg>
                         <rdg wit="#Planche_1858">inquired what ailed her.</rdg>
-                        <rdg wit="#Lang_1889">asked her what was the matter.</rdg>
-                        <rdg wit="#Welsh_1901">asked her what was the matter.</rdg>
+                        <rdg wit="#Lang_1889 #Welsh_1901 #Mansion_1922 #MoogSeifert_2021">asked her what was the matter.</rdg>
                         <rdg wit="#Johnson_1921">and asked what was troubling her.</rdg>
-                        <rdg wit="#Mansion_1922">asked her what was the matter.</rdg>
-                        <rdg wit="#Brereton_1957">asked what was the matter.</rdg>
+                        <rdg wit="#Brereton_1957 #Jones_2016">asked what was the matter.</rdg>
                         <rdg wit="#Zipes_1989">asked what was troubling her.</rdg>
                         <rdg wit="#Philip_1993">asked her what she wanted.</rdg>
                         <rdg wit="#Appelbaum_2002">asked her what was wrong.</rdg>
                         <rdg wit="#Betts_2009">and asked what the matter was.</rdg>
-                        <rdg wit="#Jones_2016">asked what was the matter.</rdg>
-                        <rdg wit="#MoogSeifert_2021">asked her what was the matter.</rdg>
-                    </app><app>
+                    </app>
+                    
+                    
+                     
+                    <app>
                         <rdg wit="#Perrault_1697">Je voudrais bien. . . . Je voudrais bien. . .
                             .</rdg>
-                        <rdg wit="#Samber_1729">"""I wish I could——, I wish I could—;"""</rdg>
-                        <rdg wit="#Samber_1741">"""I wish I could——, I wish I could—;"""</rdg>
+                        <rdg wit="#Samber_1729 #Samber_1741 #Mansion_1922">"""I wish I could——, I wish I could—;"""</rdg>
                         <rdg wit="Neaulme_1745">"I would, said she… j would… "</rdg>
                         <rdg wit="#Planche_1858">"""I should so like— I should so like —"""</rdg>
                         <rdg wit="#Lang_1889">"""I wish I could — I wish I could — "";"</rdg>
                         <rdg wit="#Welsh_1901">"""I wish I could— I wish I could—"" "</rdg>
                         <rdg wit="#Johnson_1921">I should like I should like' </rdg>
-                        <rdg wit="#Mansion_1922">"""I wish I could——, I wish I could—;"""</rdg>
                         <rdg wit="#Brereton_1957">If only I could . . . If only I could . . .'</rdg>
                         <rdg wit="#Zipes_1989">"""I should so like- I should so like-"" "</rdg>
                         <rdg wit="#Philip_1993">“I want… I want…” </rdg>
@@ -1852,26 +1804,25 @@
                         <rdg wit="#Jones_2016">“I would really like … I would really like …” </rdg>
                         <rdg wit="#MoogSeifert_2021">“I would really like…. I would really
                             like….”</rdg>
-                    </app><app>
+                    </app>
+                    
+                     
+                    <app>
                         <rdg wit="#Perrault_1697">elle pleurait si fort qu'elle ne put achever : </rdg>
                         <rdg wit="#Samber_1729">"she could not speak the rest, her tears interrupting
                             her."</rdg>
                         <rdg wit="#Samber_1741">"she could not speak the rest, being interrupted by
                             her tears and sobbing."</rdg>
                         <rdg wit="Neaulme_1745">but she cry’d so she could’nt speak out.</rdg>
-                        <rdg wit="#Planche_1858">she sobbed so much that she could not finish the
+                        <rdg wit="#Planche_1858 #Zipes_1989">she sobbed so much that she could not finish the
                             sentence.</rdg>
-                        <rdg wit="#Lang_1889">"she was not able to speak the rest, being interrupted
+                        <rdg wit="#Lang_1889 #Mansion_1922">"she was not able to speak the rest, being interrupted
                             by her tears and sobbing."</rdg>
                         <rdg wit="#Welsh_1901">but she could not finish for sobbing.</rdg>
                         <rdg wit="#Johnson_1921">She was crying so bitterly that she could not finish
                             the sentence.</rdg>
-                        <rdg wit="#Mansion_1922">"she was not able to speak the rest, being
-                            interrupted by her tears and sobbing."</rdg>
                         <rdg wit="#Brereton_1957">She was weeping so much that she could not go
                             on.</rdg>
-                        <rdg wit="#Zipes_1989">She sobbed so much that she could not finish the
-                            sentence.</rdg>
                         <rdg wit="#Philip_1993">She cried so hard she couldn’t finish.</rdg>
                         <rdg wit="#Appelbaum_2002">She was crying so hard that she couldn't
                             finish.</rdg>
@@ -1880,7 +1831,10 @@
                         <rdg wit="#Jones_2016">She sobbed so hard that she could not finish.</rdg>
                         <rdg wit="#MoogSeifert_2021">She was crying so hard she could not
                             finish.</rdg>
-                    </app><app>
+                    </app>
+                    
+                     
+                    <app>
                         <rdg wit="#Perrault_1697">"sa Marraine qui était Fée, lui dit, tu voudrais
                             bien aller au Bal, n'est-ce pas ?"</rdg>
                         <rdg wit="#Samber_1729">"Her godmother, who was a Fairy, said to her, ""Thou
@@ -1908,20 +1862,17 @@
                             ""You'd like to go to the ball, isn't that it?"""</rdg>
                         <rdg wit="#Betts_2009">"Her godmother, who was a fairy, said: 'You wish you
                             could go to the ball - is that it?'"</rdg>
-                        <rdg wit="#Jones_2016">"Her godmother, who was a fairy, said to her: “You
+                        <rdg wit="#Jones_2016 #MoogSeifert_2021">"Her godmother, who was a fairy, said to her: “You
                             would really like to go to the ball, right?”"</rdg>
-                        <rdg wit="#MoogSeifert_2021">"Her Godmother who was Fairy said to her:“You
-                            would really like to go to the Ball,right?”"</rdg>
-                    </app><app>
+                    </app>
+                    
+                     
+                    <app>
                         <rdg wit="#Perrault_1697">"Hélas oui,"</rdg>
-                        <rdg wit="#Samber_1729">"""Y—es,"""</rdg>
-                        <rdg wit="#Samber_1741">"""Y—es,"""</rdg>
-                        <rdg wit="Neaulme_1745">"Alas! Yes,"</rdg>
-                        <rdg wit="#Planche_1858">"""Alas! yes,"""</rdg>
-                        <rdg wit="#Lang_1889">"""Y — es,"""</rdg>
+                        <rdg wit="#Samber_1729 #Samber_1741 #Mansion_1922 #Lang_1889">"""Y—es,"""</rdg>
+                        <rdg wit="Neaulme_1745 #Planche_1858">"Alas! Yes,"</rdg>
                         <rdg wit="#Welsh_1901">"""Alas, yes,"""</rdg>
                         <rdg wit="#Johnson_1921">"Ah, yes,'"</rdg>
-                        <rdg wit="#Mansion_1922">"""Y—es,"""</rdg>
                         <rdg wit="#Brereton_1957">"“Alas, yes,'"</rdg>
                         <rdg wit="#Zipes_1989">"""Ah, yes!"""</rdg>
                         <rdg wit="#Philip_1993">"“Yes,”"</rdg>
@@ -1929,41 +1880,34 @@
                         <rdg wit="#Betts_2009">"Alas! yes,'"</rdg>
                         <rdg wit="#Jones_2016">"“Well, yes,”"</rdg>
                         <rdg wit="#MoogSeifert_2021">"“Alas yes, ” "</rdg>
-                    </app><app>
+                    </app>
+                    
+                     
+                    <app>
                         <rdg wit="#Perrault_1697">dit Cendrillon en soupirant : </rdg>
                         <rdg wit="#Samber_1729">"said Cinderilla, with a great Sob."</rdg>
-                        <rdg wit="#Samber_1741">"cried Cinderilla, with a great sigh."</rdg>
+                        <rdg wit="#Samber_1741 #Mansion_1922">"cried Cinderilla, with a great sigh."</rdg>
                         <rdg wit="Neaulme_1745">said she fetching man a sigh.</rdg>
-                        <rdg wit="#Planche_1858">"said Cinderella, sighing."</rdg>
+                        <rdg wit="#Planche_1858 #Welsh_1901 #Johnson_1921 #Zipes_1989">"said Cinderella, sighing."</rdg>
                         <rdg wit="#Lang_1889">"cried Cinderella, with a great sigh."</rdg>
-                        <rdg wit="#Welsh_1901">"said Cinderella, sighing."</rdg>
-                        <rdg wit="#Johnson_1921">"said Cinderella, sighing."</rdg>
-                        <rdg wit="#Mansion_1922">"cried Cinderilla, with a great sigh."</rdg>
-                        <rdg wit="#Brereton_1957">said Cinderella with a sigh.</rdg>
-                        <rdg wit="#Zipes_1989">"said Cinderella, sighing."</rdg>
+                        <rdg wit="#Brereton_1957 #Betts_2009">said Cinderella with a sigh.</rdg>
                         <rdg wit="#Philip_1993">signed Cinderella.</rdg>
                         <rdg wit="#Appelbaum_2002">Cinderella said with a sigh.</rdg>
-                        <rdg wit="#Betts_2009">said Cinderella with a sigh.</rdg>
                         <rdg wit="#Jones_2016">"said Ashkins, heaving."</rdg>
                         <rdg wit="#MoogSeifert_2021">"said Ashinella, sighing."</rdg>
-                    </app><app>
+                    </app>
+                    
+                     
+                    <app>
                         <rdg wit="#Perrault_1697">"Hé bien, seras-tu bonne fille, dit sa
                             Marraine,"</rdg>
-                        <rdg wit="#Samber_1729">"""Well, "" said her godmother, ""be but a good
-                            girl,"</rdg>
-                        <rdg wit="#Samber_1741">"""Well, "" said her godmother, ""be but a good
+                        <rdg wit="#Samber_1729 #Samber_1741 #Lang_1889 #Welsh_1901 #Mansion_1922">"""Well, "" said her godmother, ""be but a good
                             girl,"</rdg>
                         <rdg wit="Neaulme_1745">"Well, said the Fairie, if you’ll be a good
                             girl,"</rdg>
                         <rdg wit="#Planche_1858">"""Well, if thou wilt be a good girl,"</rdg>
-                        <rdg wit="#Lang_1889">"""Well, "" said her godmother, ""be but a good
-                            girl,"</rdg>
-                        <rdg wit="#Welsh_1901">"""Well, "" said her godmother, ""be but a good
-                            girl,"</rdg>
                         <rdg wit="#Johnson_1921">"Well, well, ' said her godmother, 'promise to be a
                             good girl "</rdg>
-                        <rdg wit="#Mansion_1922">"""Well, "" said her godmother, ""be but a good
-                            girl,"</rdg>
                         <rdg wit="#Brereton_1957">"“Well, ” said the godmother, 'be a good girl
                             "</rdg>
                         <rdg wit="#Zipes_1989">"""Well, if you'll be a good girl,"</rdg>
@@ -1975,16 +1919,18 @@
                             godmother."</rdg>
                         <rdg wit="#MoogSeifert_2021">"“Well then, will you be a good girl? ” said her
                             Godmother,"</rdg>
-                    </app><app>
+                    </app>
+                    
+                    
+                     
+                    <app>
                         <rdg wit="#Perrault_1697">je t'y ferai aller ?</rdg>
                         <rdg wit="#Samber_1729">"and I’ll contrive thou shalt go."""</rdg>
-                        <rdg wit="#Samber_1741">"and I will contrive that thou shalt go."""</rdg>
-                        <rdg wit="Neaulme_1745">j’ll make you go.</rdg>
+                        <rdg wit="#Samber_1741 #Lang_1889 #Mansion_1922" >"and I will contrive that thou shalt go."""</rdg>
+                        <rdg wit="Neaulme_1745">i’ll make you go.</rdg>
                         <rdg wit="#Planche_1858">"I will take care thou shalt go."""</rdg>
-                        <rdg wit="#Lang_1889">"and I will contrive that thou shalt go."""</rdg>
                         <rdg wit="#Welsh_1901">"and I will see that you go."""</rdg>
                         <rdg wit="#Johnson_1921">and I will arrange for you to go.'</rdg>
-                        <rdg wit="#Mansion_1922">"and I will contrive that thou shalt go."""</rdg>
                         <rdg wit="#Brereton_1957">and I'll get you there.'</rdg>
                         <rdg wit="#Zipes_1989">"I shall enable you to go."""</rdg>
                         <rdg wit="#Philip_1993">"I shall send you,” said her godmother."</rdg>
@@ -1993,41 +1939,39 @@
                         <rdg wit="#Betts_2009">then I shall see that you go.'</rdg>
                         <rdg wit="#Jones_2016">“I will help you go.”</rdg>
                         <rdg wit="#MoogSeifert_2021">“I’ll make it so you can go there.”</rdg>
-                    </app><app>
+                    </app>
+                    
+                     
+                    <app>
                         <rdg wit="#Perrault_1697">"Elle la mena dans sa chambre,"</rdg>
-                        <rdg wit="#Samber_1729">"Then she took her into her chamber,"</rdg>
-                        <rdg wit="#Samber_1741">"Then she took her into her chamber,"</rdg>
+                        <rdg wit="#Samber_1729 #Samber_1741 #Lang_1889 #Welsh_1901 #Mansion_1922">"Then she took her into her chamber,"</rdg>
                         <rdg wit="Neaulme_1745">"She had her in her own Appartment,"</rdg>
                         <rdg wit="#Planche_1858">"She led her into her chamber,"</rdg>
-                        <rdg wit="#Lang_1889">"Then she took her into her chamber,"</rdg>
-                        <rdg wit="#Welsh_1901">"Then she took her into her chamber,"</rdg>
                         <rdg wit="#Johnson_1921">She took Cinderella into her room </rdg>
-                        <rdg wit="#Mansion_1922">"Then she took her into her chamber,"</rdg>
                         <rdg wit="#Brereton_1957">She took her into her room </rdg>
                         <rdg wit="#Zipes_1989">She led her from her chamber into the yard </rdg>
                         <rdg wit="#Philip_1993">She took her into her own room </rdg>
-                        <rdg wit="#Appelbaum_2002">She led her to her room </rdg>
+                        <rdg wit="#Appelbaum_2002 #MoogSeifert_2021">She led her to her room </rdg>
                         <rdg wit="#Betts_2009">"She took Cinderella to her room,"</rdg>
                         <rdg wit="#Jones_2016">She took her into her bedroom </rdg>
-                        <rdg wit="#MoogSeifert_2021">She led her to her room </rdg>
-                    </app><app>
+                    </app>
+                    
+                    
+                     
+                    <app>
                         <rdg wit="#Perrault_1697">"et lui dit,"</rdg>
-                        <rdg wit="#Samber_1729">"and said to her,"</rdg>
-                        <rdg wit="#Samber_1741">"and said to her,"</rdg>
+                        <rdg wit="#Samber_1729 #Samber_1741 #Planche_1858 #Lang_1889 #Welsh_1901">"and said to her,"</rdg>
                         <rdg wit="Neaulme_1745">"and told her,"</rdg>
-                        <rdg wit="#Planche_1858">"and said to her,"</rdg>
-                        <rdg wit="#Lang_1889">"and said to her,"</rdg>
-                        <rdg wit="#Welsh_1901">"and said to her,"</rdg>
-                        <rdg wit="#Johnson_1921">and said: </rdg>
+                        <rdg wit="#Johnson_1921 #Brereton_1957 #Betts_2009">and said: </rdg>
                         <rdg wit="#Mansion_1922">and said to her:</rdg>
-                        <rdg wit="#Brereton_1957">and said: </rdg>
-                        <rdg wit="#Zipes_1989">"and said,"</rdg>
+                        <rdg wit="#Zipes_1989 #Jones_2016">"and said,"</rdg>
                         <rdg wit="#Philip_1993">"and told,"</rdg>
                         <rdg wit="#Appelbaum_2002">and said to her: </rdg>
-                        <rdg wit="#Betts_2009">and said: </rdg>
-                        <rdg wit="#Jones_2016">"and said,"</rdg>
                         <rdg wit="#MoogSeifert_2021">and told her:</rdg>
-                    </app><app>
+                    </app>
+                    
+                     
+                    <app>
                         <rdg wit="#Perrault_1697">va dans le jardin et apporte-moi une citrouille : </rdg>
                         <rdg wit="#Samber_1729">"""Go into the garden, and bring me a
                             pompion;"""</rdg>
@@ -2036,13 +1980,9 @@
                         <rdg wit="Neaulme_1745">"go into the Garden, and fetch me a Gourd."</rdg>
                         <rdg wit="#Planche_1858">"""Go into the garden and bring me a
                             pumpkin."""</rdg>
-                        <rdg wit="#Lang_1889">"""Run into the garden, and bring me a
-                            pumpkin."""</rdg>
-                        <rdg wit="#Welsh_1901">"""Run into the garden, and bring me a
+                        <rdg wit="#Lang_1889 #Welsh_1901 #Mansion_1922">"""Run into the garden, and bring me a
                             pumpkin."""</rdg>
                         <rdg wit="#Johnson_1921">Go into the garden and bring me a pumpkin.'</rdg>
-                        <rdg wit="#Mansion_1922">"""Run into the garden, and bring me a
-                            pumpkin."""</rdg>
                         <rdg wit="#Brereton_1957">Go into the garden and get me a pumpkin.'</rdg>
                         <rdg wit="#Zipes_1989">"""Go to the garden and bring me a pumpkin."""</rdg>
                         <rdg wit="#Philip_1993">“Go into the garden and bring me a pumpkin.»</rdg>
@@ -2052,12 +1992,13 @@
                         <rdg wit="#Jones_2016">“Go to the garden and find me a pumpkin.”</rdg>
                         <rdg wit="#MoogSeifert_2021">“Go into the garden and bring me a
                             pumpkin.</rdg>
-                    </app><app>
+                    </app>
+                    
+                     
+                    <app>
                         <rdg wit="#Perrault_1697">"Cendrillon alla aussitôt cueillir la plus belle
                             qu'elle pût trouver,"</rdg>
-                        <rdg wit="#Samber_1729">"Cinderilla went immediately to gather the finest she
-                            could get,"</rdg>
-                        <rdg wit="#Samber_1741">"Cinderilla went immediately to gather the finest she
+                        <rdg wit="#Samber_1729 #Samber_1741">"Cinderilla went immediately to gather the finest she
                             could get,"</rdg>
                         <rdg wit="Neaulme_1745">"The Ash-Maid went presently, and having pick’d one
                             of the largest,"</rdg>
@@ -2085,45 +2026,36 @@
                             could find </rdg>
                         <rdg wit="#MoogSeifert_2021">Ashinella went immediately to pick the most
                             beautiful one she could find </rdg>
-                    </app><app>
+                    </app>
+                    
+                     
+                    <app>
                         <rdg wit="#Perrault_1697">"et la porta à sa Marraine,"</rdg>
-                        <rdg wit="#Samber_1729">"and brought it to her Godmother,"</rdg>
-                        <rdg wit="#Samber_1741">"and brought it to her Godmother,"</rdg>
+                        <rdg wit="#Samber_1729 #Samber_1741 #Planche_1858 #Lang_1889 #Welsh_1901 #Mansion_1922 #Zipes_1989">"and brought it to her Godmother,"</rdg>
                         <rdg wit="Neaulme_1745">"and brought it the Fairie,"</rdg>
-                        <rdg wit="#Planche_1858">"and brought it to her godmother,"</rdg>
-                        <rdg wit="#Lang_1889">"and brought it to her godmother,"</rdg>
-                        <rdg wit="#Welsh_1901">"and brought it to her godmother,"</rdg>
                         <rdg wit="#Johnson_1921">"This she brought to her godmother,"</rdg>
-                        <rdg wit="#Mansion_1922">"and brought it to her godmother,"</rdg>
-                        <rdg wit="#Brereton_1957">"and took it to her godmother,"</rdg>
-                        <rdg wit="#Zipes_1989">"and brought it to her godmother,"</rdg>
-                        <rdg wit="#Philip_1993">"and took it to her godmother,"</rdg>
-                        <rdg wit="#Appelbaum_2002">"and took it to her godmother,"</rdg>
-                        <rdg wit="#Betts_2009">"and took it to her godmother,"</rdg>
+                        <rdg wit="#Brereton_1957 #Philip_1993 #Appelbaum_2002 #Betts_2009 #MoogSeifert_2021">"and took it to her godmother,"</rdg>
                         <rdg wit="#Jones_2016">"and carried it to her godmother,"</rdg>
-                        <rdg wit="#MoogSeifert_2021">"and took it to her Godmother,"</rdg>
-                    </app><app>
+                    </app>
+                    
+                     
+                    <app>
                         <rdg wit="#Perrault_1697">ne pouvant deviner </rdg>
-                        <rdg wit="#Samber_1729">not being able to imagine </rdg>
-                        <rdg wit="#Samber_1741">not being able to imagine </rdg>
+                        <rdg wit="#Samber_1729 #Samber_1741 #Lang_1889 #Welsh_1901 #Mansion_1922">not being able to imagine </rdg>
                         <rdg wit="Neaulme_1745">in a maze </rdg>
-                        <rdg wit="#Planche_1858">unable to guess</rdg>
-                        <rdg wit="#Lang_1889">not being able to imagine </rdg>
-                        <rdg wit="#Welsh_1901">not being able to imagine </rdg>
+                        <rdg wit="#Planche_1858 #Zipes_1989 #Appelbaum_2002 #MoogSeifert_2021">unable to guess</rdg>
                         <rdg wit="#Johnson_1921">wondering </rdg>
-                        <rdg wit="#Mansion_1922">not being able to imagine </rdg>
                         <rdg wit="#Brereton_1957">but she could not understand </rdg>
-                        <rdg wit="#Zipes_1989">unable to guess </rdg>
                         <rdg wit="#Philip_1993">without the least idea </rdg>
-                        <rdg wit="#Appelbaum_2002">unable to guess </rdg>
                         <rdg wit="#Betts_2009">but could not guess </rdg>
                         <rdg wit="#Jones_2016">but could not imagine </rdg>
-                        <rdg wit="#MoogSeifert_2021">unable to guess </rdg>
-                    </app><app>
+                    </app>
+                    
+                     
+                    <app>
                         <rdg wit="#Perrault_1697">comment cette citrouille la pourrait faire aller au
                             Bal : </rdg>
-                        <rdg wit="#Samber_1729">how this pompion could make her go to the ball: </rdg>
-                        <rdg wit="#Samber_1741">how this pompion could make her go to the ball: </rdg>
+                        <rdg wit="#Samber_1729 #Samber_1741">how this pompion could make her go to the ball: </rdg>
                         <rdg wit="Neaulme_1745">how that Gourd could make her go to the Ball;</rdg>
                         <rdg wit="#Planche_1858">how the pumpkin could enable her to go to the
                             ball.</rdg>
@@ -2145,244 +2077,202 @@
                             ball.</rdg>
                         <rdg wit="#MoogSeifert_2021">how this pumpkin could help her go to the
                             Ball.</rdg>
-                    </app><app>
+                    </app>
+                    
+                     
+                    <app>
                         <rdg wit="#Perrault_1697">"sa Marraine la creusa,"</rdg>
-                        <rdg wit="#Samber_1729">"her godmother scooped out all the inside of
-                            it,"</rdg>
-                        <rdg wit="#Samber_1741">"her godmother scooped out all the inside of
+                        <rdg wit="#Samber_1729 #Samber_1741 #Welsh_1901 #Mansion_1922">"her godmother scooped out all the inside of
                             it,"</rdg>
                         <rdg wit="Neaulme_1745">the Fairie made it hollow </rdg>
                         <rdg wit="#Planche_1858">Her godmother scooped it out;</rdg>
                         <rdg wit="#Lang_1889">"Her godmother scooped out all the inside of it,"</rdg>
-                        <rdg wit="#Welsh_1901">"Her godmother scooped out all the inside of
-                            it,"</rdg>
-                        <rdg wit="#Johnson_1921">"Her godmother scooped it out,"</rdg>
-                        <rdg wit="#Mansion_1922">"Her godmother scooped out all the inside of
-                            it,"</rdg>
-                        <rdg wit="#Brereton_1957">"Her godmother hollowed it out,"</rdg>
-                        <rdg wit="#Zipes_1989">"Her godmother scooped it out,"</rdg>
+                        <rdg wit="#Johnson_1921 #Zipes_1989">"Her godmother scooped it out,"</rdg>
+                        <rdg wit="#Brereton_1957 #Appelbaum_2002 #MoogSeifert_2021">"Her godmother hollowed it out,"</rdg>
                         <rdg wit="#Philip_1993">Her godmother scooped it out </rdg>
-                        <rdg wit="#Appelbaum_2002">"Her godmother hollowed it out,"</rdg>
                         <rdg wit="#Betts_2009">"Her godmother scooped out the inside,"</rdg>
                         <rdg wit="#Jones_2016">"Her godmother scraped the inside clean,"</rdg>
-                        <rdg wit="#MoogSeifert_2021">"Her Godmother hollowed it out,"</rdg>
-                    </app><app>
+                    </app>
+                    
+                     
+                    <app>
                         <rdg wit="#Perrault_1697">"et n'ayant laissé que l'ecorce,"</rdg>
-                        <rdg wit="#Samber_1729">having left nothing but the rind;</rdg>
-                        <rdg wit="#Samber_1741">having left nothing but the rind;</rdg>
+                        <rdg wit="#Samber_1729 #Samber_1741 #Lang_1889">having left nothing but the rind;</rdg>
                         <rdg wit="Neaulme_1745">"to the bark,"</rdg>
                         <rdg wit="#Planche_1858">"and, having left nothing but the rind,"</rdg>
-                        <rdg wit="#Lang_1889">having left nothing but the rind;</rdg>
-                        <rdg wit="#Welsh_1901">leaving nothing but the rind.</rdg>
+                        <rdg wit="#Welsh_1901 #Zipes_1989">leaving nothing but the rind.</rdg>
                         <rdg wit="#Johnson_1921">"and when only the rind was left,"</rdg>
                         <rdg wit="#Mansion_1922">leaving nothing but the rind;</rdg>
                         <rdg wit="#Brereton_1957">"leaving only the rind,"</rdg>
-                        <rdg wit="#Zipes_1989">leaving nothing but the rind.</rdg>
                         <rdg wit="#Philip_1993">"to a hollow skin,"</rdg>
                         <rdg wit="#Appelbaum_2002">"leaving only the shell,"</rdg>
                         <rdg wit="#Betts_2009">"and when only the skin was left,"</rdg>
                         <rdg wit="#Jones_2016">"leaving only the skin,"</rdg>
                         <rdg wit="#MoogSeifert_2021">"and having left only the shell,"</rdg>
-                    </app><app>
+                    </app>
+                    
+                    
+                     
+                    <app>
                         <rdg wit="#Perrault_1697">"la frappa de sa baguette,"</rdg>
                         <rdg wit="#Samber_1729">"she struck it with her wand,"</rdg>
-                        <rdg wit="#Samber_1741">"which done, she struck it with her wand,"</rdg>
+                        <rdg wit="#Samber_1741 #Lang_1889 #Mansion_1922">"which done, she struck it with her wand,"</rdg>
                         <rdg wit="Neaulme_1745">"and having struck it with her Staff,"</rdg>
-                        <rdg wit="#Planche_1858">"struck it with her wand,"</rdg>
-                        <rdg wit="#Lang_1889">"which done, she struck it with her wand,"</rdg>
-                        <rdg wit="#Welsh_1901">"Then she struck it with her wand,"</rdg>
+                        <rdg wit="#Planche_1858 #MoogSeifert_2021">"struck it with her wand,"</rdg>
+                        <rdg wit="#Welsh_1901 #Zipes_1989">"Then she struck it with her wand,"</rdg>
                         <rdg wit="#Johnson_1921">struck it with her wand.</rdg>
-                        <rdg wit="#Mansion_1922">"which done, she struck it with her wand,"</rdg>
                         <rdg wit="#Brereton_1957">and then tapped it with her wand </rdg>
-                        <rdg wit="#Zipes_1989">"Then she struck it with her wand,"</rdg>
                         <rdg wit="#Philip_1993">"then tapped it with her wand,"</rdg>
                         <rdg wit="#Appelbaum_2002">"and struck it with her wand,"</rdg>
                         <rdg wit="#Betts_2009">"she tapped it with her wand,"</rdg>
                         <rdg wit="#Jones_2016">and tapped it with her wand.</rdg>
-                        <rdg wit="#MoogSeifert_2021">"struck it with her wand,"</rdg>
-                    </app><app>
+                    </app>
+                    
+                     
+                    <app>
                         <rdg wit="#Perrault_1697">et la citrouille fut aussitôt changée </rdg>
                         <rdg wit="#Samber_1729">and the pompion immediately was turned </rdg>
                         <rdg wit="#Samber_1741">and the pompion was instantly turned </rdg>
                         <rdg wit="Neaulme_1745">it was turn’d </rdg>
-                        <rdg wit="#Planche_1858">and the pumpkin was immediately changed </rdg>
-                        <rdg wit="#Lang_1889">and the pumpkin was instantly turned</rdg>
-                        <rdg wit="#Welsh_1901">and the pumpkin was instantly turned </rdg>
+                        <rdg wit="#Planche_1858 #Appelbaum_2002 #MoogSeifert_2021">and the pumpkin was immediately changed </rdg>
+                        <rdg wit="#Lang_1889 #Welsh_1901 #Mansion_1922 #Philip_1993">and the pumpkin was instantly turned</rdg>
                         <rdg wit="#Johnson_1921">Instantly the pumpkin was changed </rdg>
-                        <rdg wit="#Mansion_1922">and the pumpkin was instantly turned </rdg>
                         <rdg wit="#Brereton_1957">and immediately it turned </rdg>
                         <rdg wit="#Zipes_1989">and the pumpkin was immediately transformed </rdg>
-                        <rdg wit="#Philip_1993">and the pumpkin was instantly turned </rdg>
-                        <rdg wit="#Appelbaum_2002">and the pumpkin was immediately changed </rdg>
                         <rdg wit="#Betts_2009">and suddenly the pumpkin was transformed </rdg>
                         <rdg wit="#Jones_2016">The pumpkin suddenly turned </rdg>
-                        <rdg wit="#MoogSeifert_2021">and the pumpkin was immediately changed </rdg>
-                    </app><app>
+                    </app>
+                    
+                     
+                    <app>
                         <rdg wit="#Perrault_1697">en un beau carrosse tout doré.</rdg>
                         <rdg wit="#Samber_1729">"into a fine coach, gilt all over with gold."</rdg>
-                        <rdg wit="#Samber_1741">"into a fine coach, gilded all over with gold."</rdg>
+                        <rdg wit="#Samber_1741 #Lang_1889 #Mansion_1922">"into a fine coach, gilded all over with gold."</rdg>
                         <rdg wit="Neaulme_1745">"into a fine Coach, gilt all over."</rdg>
                         <rdg wit="#Planche_1858">into a beautiful coach gilt all over.</rdg>
-                        <rdg wit="#Lang_1889">"into a fine coach, gilded all over with gold."</rdg>
                         <rdg wit="#Welsh_1901">into a fine gilded coach.</rdg>
-                        <rdg wit="#Johnson_1921">"into a beautiful coach, gilded all over."</rdg>
-                        <rdg wit="#Mansion_1922">"into a fine coach, gilded all over with
-                            gold."</rdg>
+                        <rdg wit="#Johnson_1921 #Appelbaum_2002">"into a beautiful coach, gilded all over."</rdg>
                         <rdg wit="#Brereton_1957">into a magnificent gilded coach.</rdg>
-                        <rdg wit="#Zipes_1989">into a beautiful coach gilded all over.</rdg>
+                        <rdg wit="#Zipes_1989 #MoogSeifert_2021">into a beautiful coach gilded all over.</rdg>
                         <rdg wit="#Philip_1993">into a beautiful gilded carriage.</rdg>
-                        <rdg wit="#Appelbaum_2002">"into a beautiful coach, gilded all over."</rdg>
                         <rdg wit="#Betts_2009">into a beautiful golden coach.</rdg>
                         <rdg wit="#Jones_2016">into a magnificent gilded carriage.</rdg>
-                        <rdg wit="#MoogSeifert_2021">into a beautiful coach gilded all over.</rdg>
-                    </app><app>
+                    </app>
+                    
+                     
+                    <app>
                         <rdg wit="#Perrault_1697">"Ensuite elle alla regarder dans sa
                             souricière,"</rdg>
-                        <rdg wit="#Samber_1729">"After that, she went to look into her
-                            mouse-trap,"</rdg>
-                        <rdg wit="#Samber_1741">"She then went to look into her mouse-trap,"</rdg>
+                        <rdg wit="#Samber_1729">"After that, she went to look into her mouse-trap,"</rdg>
+                        <rdg wit="#Samber_1741 #Lang_1889 #Mansion_1922">"She then went to look into her mouse-trap,"</rdg>
                         <rdg wit="Neaulme_1745">"Then she went and look’d in the Mouse-Trapp,"</rdg>
-                        <rdg wit="#Planche_1858">"She then went and looked into the
-                            mouse-trap,"</rdg>
-                        <rdg wit="#Lang_1889">"She then went to look into her mouse-trap,"</rdg>
+                        <rdg wit="#Planche_1858">"She then went and looked into the mouse-trap,"</rdg>
                         <rdg wit="#Welsh_1901">"She then went to look into the mouse-trap,"</rdg>
                         <rdg wit="#Johnson_1921">"Then she went and looked in the mouse-trap,"</rdg>
-                        <rdg wit="#Mansion_1922">"She then went to look into her mouse-trap,"</rdg>
                         <rdg wit="#Brereton_1957">Then she went to look in her mousetrap </rdg>
                         <rdg wit="#Zipes_1989">"Next she looked into the mousetrap,"</rdg>
                         <rdg wit="#Philip_1993">"Then she looked in the mousetrap,"</rdg>
-                        <rdg wit="#Appelbaum_2002">"Then she went to take a look at her
-                            mousetrap,"</rdg>
+                        <rdg wit="#Appelbaum_2002">"Then she went to take a look at her mousetrap,"</rdg>
                         <rdg wit="#Betts_2009">"Then she went to look in the mousetrap,"</rdg>
                         <rdg wit="#Jones_2016">"Next she went to look in her mousetrap,"</rdg>
                         <rdg wit="#MoogSeifert_2021">Next she went to look in the mousetrap </rdg>
-                    </app><app>
+                    </app>
+                    
+                     
+                    <app>
                         <rdg wit="#Perrault_1697">où elle trouva six souris toutes en vie ;</rdg>
-                        <rdg wit="#Samber_1729">"where she found six mice all alive,"</rdg>
-                        <rdg wit="#Samber_1741">"where she found six mice all alive,"</rdg>
+                        <rdg wit="#Samber_1729 #Samber_1741 #Mansion_1922">"where she found six mice all alive,"</rdg>
                         <rdg wit="Neaulme_1745">and therein she found six Mices still living.</rdg>
-                        <rdg wit="#Planche_1858">"where she found six mice, all alive."</rdg>
+                        <rdg wit="#Planche_1858 #Welsh_1901 #MoogSeifert_2021">"where she found six mice, all alive."</rdg>
                         <rdg wit="#Lang_1889">"where she found six mice, all alive,"</rdg>
-                        <rdg wit="#Welsh_1901">"where she found six mice, all alive."</rdg>
                         <rdg wit="#Johnson_1921">where she found six mice all alive.</rdg>
-                        <rdg wit="#Mansion_1922">"where she found six mice all alive,"</rdg>
                         <rdg wit="#Brereton_1957">and found six mice all alive in it.</rdg>
-                        <rdg wit="#Zipes_1989">where she found six live mice.</rdg>
-                        <rdg wit="#Philip_1993">where she found six live mice.</rdg>
+                        <rdg wit="#Zipes_1989 #Philip_1993">where she found six live mice.</rdg>
                         <rdg wit="#Appelbaum_2002">in which she found six live mice;</rdg>
                         <rdg wit="#Betts_2009">and found six mice all alive.</rdg>
                         <rdg wit="#Jones_2016">"where she found six mice, all of them alive."</rdg>
-                        <rdg wit="#MoogSeifert_2021">"where she found six mice, all alive."</rdg>
-                    </app><app>
+                    </app>
+                    
+                    
+                     
+                    <app>
                         <rdg wit="#Perrault_1697">elle dit à Cendrillon </rdg>
-                        <rdg wit="#Samber_1729">and ordered Cinderilla </rdg>
-                        <rdg wit="#Samber_1741">and ordered Cinderilla </rdg>
+                        <rdg wit="#Samber_1729 #Samber_1741 #Mansion_1922">and ordered Cinderilla </rdg>
                         <rdg wit="Neaulme_1745">She ordered the Ash-Maid </rdg>
-                        <rdg wit="#Planche_1858">She told Cinderella </rdg>
+                        <rdg wit="#Planche_1858 #Johnson_1921 #Brereton_1957 #Zipes_1989 #Philip_1993 #Appelbaum_2002 #Betts_2009">She told Cinderella </rdg>
                         <rdg wit="#Lang_1889">and ordered Cinderella </rdg>
                         <rdg wit="#Welsh_1901">She ordered Cinderella </rdg>
-                        <rdg wit="#Johnson_1921">She told Cinderella </rdg>
-                        <rdg wit="#Mansion_1922">and ordered Cinderilla </rdg>
-                        <rdg wit="#Brereton_1957">She told Cinderella </rdg>
-                        <rdg wit="#Zipes_1989">She told Cinderella </rdg>
-                        <rdg wit="#Philip_1993">She told Cinderella </rdg>
-                        <rdg wit="#Appelbaum_2002">she told Cinderella </rdg>
-                        <rdg wit="#Betts_2009">She told Cinderella </rdg>
                         <rdg wit="#Jones_2016">She told Ashkins </rdg>
                         <rdg wit="#MoogSeifert_2021">She told Ashinella </rdg>
-                    </app><app>
+                    </app>
+                    
+                     
+                    <app>
                         <rdg wit="#Perrault_1697">"de lever un peu la trappe de la souricière,"</rdg>
-                        <rdg wit="#Samber_1729">"to lift up a little the trap door,"</rdg>
-                        <rdg wit="#Samber_1741">"to lift up a little the trap door,"</rdg>
+                        <rdg wit="#Samber_1729 #Samber_1741">"to lift up a little the trap door,"</rdg>
                         <rdg wit="Neaulme_1745">"to raise some what the Trapp,"</rdg>
-                        <rdg wit="#Planche_1858">"to lift the door of the mouse-trap a little,"</rdg>
-                        <rdg wit="#Lang_1889">"to lift up a little the trap-door,"</rdg>
+                        <rdg wit="#Planche_1858 #Johnson_1921">"to lift the door of the mouse-trap a little,"</rdg>
+                        <rdg wit="#Lang_1889 #Mansion_1922">"to lift up a little the trap-door,"</rdg>
                         <rdg wit="#Welsh_1901">"to lift the trap-door,"</rdg>
-                        <rdg wit="#Johnson_1921">"to lift the door of the mouse-trap a little,"</rdg>
-                        <rdg wit="#Mansion_1922">"to lift up a little the trap-door,"</rdg>
                         <rdg wit="#Brereton_1957">"to raise the door of the trap a little,"</rdg>
                         <rdg wit="#Zipes_1989">"to lift the door of the trap a little,"</rdg>
                         <rdg wit="#Philip_1993">"to lift the trap door a little,"</rdg>
                         <rdg wit="#Appelbaum_2002">"to raise the door to the trap slightly,"</rdg>
                         <rdg wit="#Betts_2009">"to lift the trap-door a tiny bit,"</rdg>
                         <rdg wit="#Jones_2016">to lift the door of the mousetrap</rdg>
-                        <rdg wit="#MoogSeifert_2021">"to raise the door of the mouse-trap a
-                            bit,"</rdg>
-                    </app><app>
+                        <rdg wit="#MoogSeifert_2021">"to raise the door of the mouse-trap a bit,"</rdg>
+                    </app>
+                    
+                     
+                    <app>
                         <rdg wit="#Perrault_1697">"et à chaque souris qui sortait, elle lui donnait
                             un coup de sa baguette,"</rdg>
-                        <rdg wit="#Samber_1729">"and she gave every mouse that went out a stroke with
-                            her wand,"</rdg>
-                        <rdg wit="#Samber_1741">"when giving each mouse as it went out a little tap
-                            with her wand,"</rdg>
-                        <rdg wit="Neaulme_1745">"and every Mouse, as they went out, being struck
-                            with the Fairie staff,"</rdg>
-                        <rdg wit="#Planche_1858">"and to each mouse, as it ran out, she gave a tap
-                            with her wand,"</rdg>
-                        <rdg wit="#Lang_1889">"when, giving each mouse, as it went out, a little tap
-                            with her wand,"</rdg>
-                        <rdg wit="#Welsh_1901">"when, giving each mouse, as it went out, a little tap
-                            with her wand,"</rdg>
-                        <rdg wit="#Johnson_1921">"and as each mouse came out she gave it a tap with
-                            her wand,"</rdg>
-                        <rdg wit="#Mansion_1922">"when giving each mouse, as it went out, a little
-                            tap with her wand,"</rdg>
-                        <rdg wit="#Brereton_1957">and as each mouse came out she gave it a tap with
-                            her wand </rdg>
-                        <rdg wit="#Zipes_1989">"and as each mouse ran out, she gave it a tap with her
-                            wand."</rdg>
-                        <rdg wit="#Philip_1993">"and as each mouse escaped, she struck it with her
-                            wand,"</rdg>
-                        <rdg wit="#Appelbaum_2002">"and every time a mouse came out, she struck it
-                            with her wand,"</rdg>
-                        <rdg wit="#Betts_2009">"and as each of the mice ran out, she touched it with
-                            her wand,"</rdg>
-                        <rdg wit="#Jones_2016">"and as they scurried out, she tapped each one with
-                            her wand,"</rdg>
-                        <rdg wit="#MoogSeifert_2021">"and to each mouse that came out she gave a tap
-                            with her wand,"</rdg>
-                    </app><app>
+                        <rdg wit="#Samber_1729">"and she gave every mouse that went out a stroke with her wand,"</rdg>
+                        <rdg wit="#Samber_1741">"when giving each mouse as it went out a little tap with her wand,"</rdg>
+                        <rdg wit="Neaulme_1745">"and every Mouse, as they went out, being struck with the Fairie staff,"</rdg>
+                        <rdg wit="#Planche_1858">"and to each mouse, as it ran out, she gave a tap with her wand,"</rdg>
+                        <rdg wit="#Lang_1889 #Welsh_1901">"when, giving each mouse, as it went out, a little tap with her wand,"</rdg>
+                        <rdg wit="#Johnson_1921">"and as each mouse came out she gave it a tap with her wand,"</rdg>
+                        <rdg wit="#Mansion_1922">"when giving each mouse, as it went out, a little tap with her wand,"</rdg>
+                        <rdg wit="#Brereton_1957">and as each mouse came out she gave it a tap with her wand </rdg>
+                        <rdg wit="#Zipes_1989">"and as each mouse ran out, she gave it a tap with her wand."</rdg>
+                        <rdg wit="#Philip_1993">"and as each mouse escaped, she struck it with her wand,"</rdg>
+                        <rdg wit="#Appelbaum_2002">"and every time a mouse came out, she struck it with her wand,"</rdg>
+                        <rdg wit="#Betts_2009">"and as each of the mice ran out, she touched it with her wand,"</rdg>
+                        <rdg wit="#Jones_2016">"and as they scurried out, she tapped each one with her wand,"</rdg>
+                        <rdg wit="#MoogSeifert_2021">"and to each mouse that came out she gave a tap with her wand,"</rdg>
+                    </app>
+                    
+                     
+                    <app>
                         <rdg wit="#Perrault_1697">et la souris était aussitôt changée en un beau
                             cheval ;</rdg>
-                        <rdg wit="#Samber_1729">"and the mouse was that moment turned into a fine
-                            horse,"</rdg>
-                        <rdg wit="#Samber_1741">"the mouse was that moment turned into a fine
-                            horse,"</rdg>
+                        <rdg wit="#Samber_1729">"and the mouse was that moment turned into a fine horse,"</rdg>
+                        <rdg wit="#Samber_1741 #Lang_1889">"the mouse was that moment turned into a fine horse,"</rdg>
                         <rdg wit="Neaulme_1745">became a fine Horse;</rdg>
-                        <rdg wit="#Planche_1858">"and the mouse was immediately changed into a fine
-                            horse,"</rdg>
-                        <rdg wit="#Lang_1889">"the mouse was that moment turned into a fine
-                            horse,"</rdg>
+                        <rdg wit="#Planche_1858">"and the mouse was immediately changed into a fine horse,"</rdg>
                         <rdg wit="#Welsh_1901">"it was that moment turned into a fine horse,"</rdg>
-                        <rdg wit="#Johnson_1921">whereupon it was transformed into a fine
-                            horse.</rdg>
-                        <rdg wit="#Mansion_1922">"the mouse was at that moment turned into a fair
-                            horse,"</rdg>
+                        <rdg wit="#Johnson_1921">whereupon it was transformed into a fine horse.</rdg>
+                        <rdg wit="#Mansion_1922">"the mouse was at that moment turned into a fair horse,"</rdg>
                         <rdg wit="#Brereton_1957">and immediately it turned into a fine horse.</rdg>
                         <rdg wit="#Zipes_1989">Each mouse sprouted into a fine horse </rdg>
-                        <rdg wit="#Philip_1993">and the mouse was straightaway changed into a
-                            handsome horse.</rdg>
-                        <rdg wit="#Appelbaum_2002">and the mouse was immediately changed into a
-                            beautiful horse;</rdg>
-                        <rdg wit="#Betts_2009">"and the mouse changed instantly into a beautiful
-                            horse,"</rdg>
-                        <rdg wit="#Jones_2016">which instantly turned it into a beautiful
-                            horse;</rdg>
-                        <rdg wit="#MoogSeifert_2021">"and the mouse was immediately changed into a
-                            beautiful horse,"</rdg>
-                    </app><app>
+                        <rdg wit="#Philip_1993">and the mouse was straightaway changed into a handsome horse.</rdg>
+                        <rdg wit="#Appelbaum_2002">and the mouse was immediately changed into a beautiful horse;</rdg>
+                        <rdg wit="#Betts_2009">"and the mouse changed instantly into a beautiful horse,"</rdg>
+                        <rdg wit="#Jones_2016">which instantly turned it into a beautiful horse;</rdg>
+                        <rdg wit="#MoogSeifert_2021">"and the mouse was immediately changed into a beautiful horse,"</rdg>
+                    </app>
+                    
+                    
+                     
+                    <app>
                         <rdg wit="#Perrault_1697">"ce qui fit un bel attelage de six chevaux,"</rdg>
-                        <rdg wit="#Samber_1729">"which altogether made a very fine set of six
-                            horses,"</rdg>
-                        <rdg wit="#Samber_1741">"which altogether made a very fine set of six
-                            horses,"</rdg>
+                        <rdg wit="#Samber_1729 #Samber_1741">"which altogether made a very fine set of six horses,"</rdg>
                         <rdg wit="Neaulme_1745">so they made together a fine set of six </rdg>
-                        <rdg wit="#Planche_1858">"thereby producing a handsome team of six
-                            horses,"</rdg>
-                        <rdg wit="#Lang_1889">which altogether made a very fine set of six horses </rdg>
+                        <rdg wit="#Planche_1858">"thereby producing a handsome team of six horses,"</rdg>
+                        <rdg wit="#Lang_1889 #Mansion_1922">which altogether made a very fine set of six horses </rdg>
                         <rdg wit="#Welsh_1901">and the six mice made a fine set of six horses </rdg>
                         <rdg wit="#Johnson_1921">So that here was a fine team of six </rdg>
-                        <rdg wit="#Mansion_1922">which altogether made a very fine set of six horses </rdg>
                         <rdg wit="#Brereton_1957">"That made a team of six horses,"</rdg>
                         <rdg wit="#Zipes_1989">"producing a full team of six handsome,"</rdg>
                         <rdg wit="#Philip_1993">"They made a fine set of six dappled horses,"</rdg>
@@ -2391,211 +2281,179 @@
                         <rdg wit="#Jones_2016">together they made an impressive team of six horses </rdg>
                         <rdg wit="#MoogSeifert_2021">which made a handsome team with six horses
                         </rdg>
-                    </app><app>
+                    </app>
+                    
+                    
+                     
+                    <app>
                         <rdg wit="#Perrault_1697">d'un beau gris de souris pommelé : </rdg>
-                        <rdg wit="#Samber_1729">of a beautiful mouse-coloured dapple-grey.</rdg>
-                        <rdg wit="#Samber_1741">of a beautiful mouse-coloured dapple-grey.</rdg>
+                        <rdg wit="#Samber_1729 #Samber_1741 #Mansion_1922">of a beautiful mouse-coloured dapple-grey.</rdg>
                         <rdg wit="Neaulme_1745">Dapple Mouse Horses.</rdg>
                         <rdg wit="#Planche_1858">of a beautiful dappled mouse-grey colour.</rdg>
                         <rdg wit="#Lang_1889">of a beautiful mouse-colored dapple-gray.</rdg>
                         <rdg wit="#Welsh_1901">"of a beautiful mouse-colored, dapple gray."</rdg>
                         <rdg wit="#Johnson_1921">dappled mouse-grey horses.</rdg>
-                        <rdg wit="#Mansion_1922">of a beautiful mouse-coloured dapple-grey.</rdg>
                         <rdg wit="#Brereton_1957">each of a fine mouse-coloured grey.</rdg>
                         <rdg wit="#Zipes_1989">"dappled, mouse-gray horses."</rdg>
                         <rdg wit="#Philip_1993">all a lovely mouse shade.</rdg>
-                        <rdg wit="#Appelbaum_2002">of a beautiful dappled mouse-gray.</rdg>
+                        <rdg wit="#Appelbaum_2002 #MoogSeifert_2021">of a beautiful dappled mouse-gray.</rdg>
                         <rdg wit="#Betts_2009">with prettily dappled mouse-grey coats.</rdg>
                         <rdg wit="#Jones_2016">with coats in dappled mousy gray.</rdg>
-                        <rdg wit="#MoogSeifert_2021">of a beautiful dappled mouse-gray.</rdg>
-                    </app><app>
+                    </app>
+                    
+                     
+                    <app>
                         <rdg wit="#Perrault_1697">"Comme elle était en peine de quoi elle ferait un
                             Cocher,"</rdg>
                         <rdg wit="#Samber_1729">"As she was at a loss for a coachman,"</rdg>
                         <rdg wit="#Samber_1741">"“Being at a loss for a coachman,"</rdg>
                         <rdg wit="Neaulme_1745">"The coachman being still wanting,"</rdg>
-                        <rdg wit="#Planche_1858">"As she was in some difficulty as to what she should
-                            make a coachman of,"</rdg>
-                        <rdg wit="#Lang_1889">"Being at a loss for a coachman,"</rdg>
-                        <rdg wit="#Welsh_1901">"Being at a loss for a coachman,"</rdg>
-                        <rdg wit="#Johnson_1921">But she was puzzled to know how to provide a
-                            coachman.</rdg>
-                        <rdg wit="#Mansion_1922">"Being at a loss for a coachman,"</rdg>
-                        <rdg wit="#Brereton_1957">"While she was wondering how she would make a
-                            coachman,"</rdg>
-                        <rdg wit="#Zipes_1989">Since her godmother had some difficulty in choosing
-                            something for a coachman </rdg>
-                        <rdg wit="#Philip_1993">"As her godmother was having difficulty finding
-                            something she could turn into a coachman,"</rdg>
-                        <rdg wit="#Appelbaum_2002">"Since she was at a loss for providing a
-                            coachman,"</rdg>
-                        <rdg wit="#Betts_2009">"As she was puzzled about what to turn into a
-                            coachman,"</rdg>
+                        <rdg wit="#Planche_1858">"As she was in some difficulty as to what she should make a coachman of,"</rdg>
+                        <rdg wit="#Lang_1889 #Welsh_1901 #Mansion_1922">"Being at a loss for a coachman,"</rdg>
+                        <rdg wit="#Johnson_1921">But she was puzzled to know how to provide a coachman.</rdg>
+                        <rdg wit="#Brereton_1957">"While she was wondering how she would make a coachman,"</rdg>
+                        <rdg wit="#Zipes_1989">Since her godmother had some difficulty in choosing something for a coachman </rdg>
+                        <rdg wit="#Philip_1993">"As her godmother was having difficulty finding something she could turn into a coachman,"</rdg>
+                        <rdg wit="#Appelbaum_2002">"Since she was at a loss for providing a coachman,"</rdg>
+                        <rdg wit="#Betts_2009">"As she was puzzled about what to turn into a coachman,"</rdg>
                         <rdg wit="#Jones_2016">She struggled with what to use for a coachman.</rdg>
-                        <rdg wit="#MoogSeifert_2021">As she was in a predicament to know with what
-                            she would make a Coachman:</rdg>
-                    </app><app>
+                        <rdg wit="#MoogSeifert_2021">As she was in a predicament to know with what she would make a Coachman:</rdg>
+                    </app>
+                    
+                     
+                    <app>
                         <rdg wit="#Perrault_1697">"je vais voir, dit Cendrillon, s'il n'y a point
                             quelque rat dans la ratière,"</rdg>
-                        <rdg wit="#Samber_1729">"""I will go and see, "" says Cinderilla, ""if there
-                            be never a rat in the rat-trap,"</rdg>
-                        <rdg wit="#Samber_1741">"""I will go and see, "" says Cinderilla, ""if there
-                            be never a rat in the rat-trap,"</rdg>
-                        <rdg wit="Neaulme_1745">"j’ll go and look into the Trapp for Rats, said the
-                            Ash-Maid, whether j’ll find a Rat or other "</rdg>
-                        <rdg wit="#Planche_1858">"Cinderella said, ""I will go and see if there be
-                            not a rat in the rat-trap;"</rdg>
-                        <rdg wit="#Lang_1889">"""I will go and see, "" says Cinderella, ""if there is
-                            never a rat in the rat-trap — "</rdg>
-                        <rdg wit="#Welsh_1901">"Cinderella said, ""I will go and see if there is not
-                            a rat in the rat-trap—"</rdg>
-                        <rdg wit="#Johnson_1921">"I will go and see, ' said Cinderella, 'if there is
-                            not a rat in the rat-trap."</rdg>
-                        <rdg wit="#Mansion_1922">"""I will go and see, "" says Cinderilla, ""if there
-                            be never a rat in the rat-trap,"</rdg>
-                        <rdg wit="#Brereton_1957">"Cinderella said to her:'I will go and see whether
-                            there is a rat in the rat-trap,"</rdg>
-                        <rdg wit="#Zipes_1989">"Cinderella said, ""I'll go and see if there's a rat
-                            in the rattrap."</rdg>
-                        <rdg wit="#Philip_1993">"Cinderella said, ''I'll go and see if there is a rat
-                            in the rat trap,"</rdg>
-                        <rdg wit="#Appelbaum_2002">"Cinderella said: ""I'll go see whether there’s a
-                            rat in the rattrap,"</rdg>
-                        <rdg wit="#Betts_2009">"Cinderella said: 'I'll go and see if there is a rat
-                            in the rat-trap,"</rdg>
-                        <rdg wit="#Jones_2016">"“Let me see, ” said Ashkins, “if by any chance there
-                            is a rat in the rattrap."</rdg>
-                        <rdg wit="#MoogSeifert_2021">"“I’m going to see,” Ashinella said, “if there
-                            is not some rat in the rat-trap,"</rdg>
-                    </app><app>
+                        <rdg wit="#Samber_1729 #Samber_1741 #Mansion_1922">"""I will go and see, "" says Cinderilla, ""if there be never a rat in the rat-trap,"</rdg> 
+                        <rdg wit="Neaulme_1745">"j’ll go and look into the Trapp for Rats, said the Ash-Maid, whether j’ll find a Rat or other "</rdg>
+                        <rdg wit="#Planche_1858">"Cinderella said, ""I will go and see if there be not a rat in the rat-trap;"</rdg>
+                        <rdg wit="#Lang_1889">"""I will go and see, "" says Cinderella, ""if there is never a rat in the rat-trap — "</rdg>
+                        <rdg wit="#Welsh_1901">"Cinderella said, ""I will go and see if there is not a rat in the rat-trap—"</rdg>
+                        <rdg wit="#Johnson_1921">"I will go and see, ' said Cinderella, 'if there is not a rat in the rat-trap."</rdg>
+                        <rdg wit="#Brereton_1957">"Cinderella said to her:'I will go and see whether there is a rat in the rat-trap,"</rdg>
+                        <rdg wit="#Zipes_1989">"Cinderella said, ""I'll go and see if there's a rat in the rattrap."</rdg>
+                        <rdg wit="#Philip_1993">"Cinderella said, ''I'll go and see if there is a rat in the rat trap,"</rdg>
+                        <rdg wit="#Appelbaum_2002">"Cinderella said: ""I'll go see whether there’s a rat in the rattrap,"</rdg>
+                        <rdg wit="#Betts_2009">"Cinderella said: 'I'll go and see if there is a rat in the rat-trap,"</rdg>
+                        <rdg wit="#Jones_2016">"“Let me see, ” said Ashkins, “if by any chance there is a rat in the rattrap."</rdg>
+                        <rdg wit="#MoogSeifert_2021">"“I’m going to see,” Ashinella said, “if there is not some rat in the rat-trap,"</rdg>
+                    </app>
+                    
+                     
+                    <app>
                         <rdg wit="#Perrault_1697">nous en ferons un Cocher : </rdg>
                         <rdg wit="#Samber_1729">"we’ll make a coach-man of him."""</rdg>
                         <rdg wit="#Samber_1741">"we may make a coach-man of him."""</rdg>
                         <rdg wit="Neaulme_1745">for a Coachman.</rdg>
                         <rdg wit="#Planche_1858">"we will make a coachman of him."""</rdg>
-                        <rdg wit="#Lang_1889">"we may make a coachman of him."""</rdg>
-                        <rdg wit="#Welsh_1901">"we may make a coachman of him."""</rdg>
-                        <rdg wit="#Johnson_1921">We could make a coachman of him.'</rdg>
+                        <rdg wit="#Lang_1889 #Welsh_1901">"we may make a coachman of him."""</rdg>
+                        <rdg wit="#Johnson_1921 #Brereton_1957">We could make a coachman of him.'</rdg>
                         <rdg wit="#Mansion_1922">"that we may make a coachman of him."""</rdg>
-                        <rdg wit="#Brereton_1957">we could make a coachman of him.'</rdg>
                         <rdg wit="#Zipes_1989">"We could make a coachman out of him."""</rdg>
                         <rdg wit="#Philip_1993">"and we can make a coachman of him."""</rdg>
                         <rdg wit="#Appelbaum_2002">"and we'll make a coachman out of it."""</rdg>
                         <rdg wit="#Betts_2009">then we could make a coachman out of him.</rdg>
                         <rdg wit="#Jones_2016">We will make a coachman out of him.”</rdg>
                         <rdg wit="#MoogSeifert_2021">we will make a Coachman with it.”</rdg>
-                    </app><app>
+                    </app>
+                    
+                     
+                    <app>
                         <rdg wit="#Perrault_1697">"Tu as raison,"</rdg>
                         <rdg wit="#Samber_1729">"""You are in the right,"""</rdg>
-                        <rdg wit="#Samber_1741">"""Thou art in the right,"""</rdg>
+                        <rdg wit="#Samber_1741 #Lang_1889 #Mansion_1922">"""Thou art in the right,"""</rdg>
                         <rdg wit="Neaulme_1745">"Well said,"</rdg>
                         <rdg wit="#Planche_1858">"""Thou art right,"""</rdg>
-                        <rdg wit="#Lang_1889">"""Thou art in the right,"""</rdg>
                         <rdg wit="#Welsh_1901">"""You are right,"""</rdg>
                         <rdg wit="#Johnson_1921">"Quite right,'"</rdg>
-                        <rdg wit="#Mansion_1922">"""Thou art in the right,"""</rdg>
                         <rdg wit="#Brereton_1957">“You are right;</rdg>
-                        <rdg wit="#Zipes_1989">"""You're right,"""</rdg>
+                        <rdg wit="#Zipes_1989 #Appelbaum_2002">"""You're right,"""</rdg>
                         <rdg wit="#Philip_1993">"""Good idea,"""</rdg>
-                        <rdg wit="#Appelbaum_2002">"""You're right,"""</rdg>
                         <rdg wit="#Betts_2009">"That's a good idea,'"</rdg>
                         <rdg wit="#Jones_2016">"“Good idea,”"</rdg>
                         <rdg wit="#MoogSeifert_2021">"“You’re right,”"</rdg>
-                    </app><app>
+                    </app>
+                    
+                     
+                    <app>
                         <rdg wit="#Perrault_1697">"dit sa Marraine,"</rdg>
-                        <rdg wit="#Samber_1729">replied her godmother;</rdg>
-                        <rdg wit="#Samber_1741">replied her godmother;</rdg>
+                        <rdg wit="#Samber_1729 #Samber_1741 #Lang_1889 #Welsh_1901 #Mansion_1922">replied her godmother;</rdg>
                         <rdg wit="Neaulme_1745">"said the Fairie,"</rdg>
-                        <rdg wit="#Planche_1858">said her godmother.</rdg>
-                        <rdg wit="#Lang_1889">replied her godmother;</rdg>
-                        <rdg wit="#Welsh_1901">replied her godmother;</rdg>
-                        <rdg wit="#Johnson_1921">"said her godmother,"</rdg>
-                        <rdg wit="#Mansion_1922">replied her godmother;</rdg>
-                        <rdg wit="#Brereton_1957">said the godmother.</rdg>
-                        <rdg wit="#Zipes_1989">said her godmother.</rdg>
-                        <rdg wit="#Philip_1993">"said her godmother,"</rdg>
-                        <rdg wit="#Appelbaum_2002">"said her godmother,"</rdg>
+                        <rdg wit="#Planche_1858 #Zipes_1989 #Brereton_1957">said her godmother.</rdg>
+                        <rdg wit="#Johnson_1921 #Philip_1993 #Appelbaum_2002">"said her godmother,"</rdg>
                         <rdg wit="#Betts_2009">said her godmother;</rdg>
                         <rdg wit="#Jones_2016">said the godmother.</rdg>
                         <rdg wit="#MoogSeifert_2021">"said her Godmother,"</rdg>
-                    </app><app>
+                    </app>
+                    
+                     
+                    <app>
                         <rdg wit="#Perrault_1697">va voir : </rdg>
-                        <rdg wit="#Samber_1729">"""go and see."""</rdg>
-                        <rdg wit="#Samber_1741">"""go and look."""</rdg>
-                        <rdg wit="Neaulme_1745">goand see.</rdg>
-                        <rdg wit="#Planche_1858">"""Go and see."""</rdg>
-                        <rdg wit="#Lang_1889">"""go and look."""</rdg>
-                        <rdg wit="#Welsh_1901">"""go and look."""</rdg>
-                        <rdg wit="#Johnson_1921">go and see.'</rdg>
-                        <rdg wit="#Mansion_1922">"""go and look."""</rdg>
+                        <rdg wit="#Samber_1729 #Planche_1858 #Zipes_1989 #Philip_1993">"""go and see."""</rdg>
+                        <rdg wit="#Samber_1741 #Lang_1889 #Welsh_1901 #Mansion_1922">"""go and look."""</rdg>
+                        <rdg wit="Neaulme_1745">go and see.</rdg>
+                        <rdg wit="#Johnson_1921 #Betts_2009">go and see.'</rdg>
                         <rdg wit="#Brereton_1957">Run and see.</rdg>
-                        <rdg wit="#Zipes_1989">"""Go and see."""</rdg>
-                        <rdg wit="#Philip_1993">"""go and see."""</rdg>
                         <rdg wit="#Appelbaum_2002">"""go see."""</rdg>
-                        <rdg wit="#Betts_2009">go and see.'</rdg>
                         <rdg wit="#Jones_2016">"“Go see."""</rdg>
                         <rdg wit="#MoogSeifert_2021">“go see.”</rdg>
-                    </app><app>
+                    </app>
+                    
+                     
+                    <app>
                         <rdg wit="#Perrault_1697">"Cendrillon lui apporta la ratière,"</rdg>
-                        <rdg wit="#Samber_1729">"Cinderilla brought the trap to her,"</rdg>
-                        <rdg wit="#Samber_1741">"Cinderilla brought the trap to her,"</rdg>
+                        <rdg wit="#Samber_1729 #Samber_1741 #Mansion_1922">"Cinderilla brought the trap to her,"</rdg>
                         <rdg wit="Neaulme_1745">"The Ash-Maid brought the Trapp,"</rdg>
-                        <rdg wit="#Planche_1858">"Cinderella brought her the rat-trap,"</rdg>
+                        <rdg wit="#Planche_1858 #Brereton_1957">"Cinderella brought her the rat-trap,"</rdg>
                         <rdg wit="#Lang_1889">"Cinderella brought the trap to her,"</rdg>
                         <rdg wit="#Welsh_1901">"Cinderella brought the rat-trap to her,"</rdg>
                         <rdg wit="#Johnson_1921">"Cinderella brought in the rat-trap,"</rdg>
-                        <rdg wit="#Mansion_1922">"Cinderilla brought the trap to her,"</rdg>
-                        <rdg wit="#Brereton_1957">"Cinderella brought her the rat-trap,"</rdg>
-                        <rdg wit="#Zipes_1989">"Cinderella brought her the rattrap,"</rdg>
+                        <rdg wit="#Zipes_1989 #Appelbaum_2002">"Cinderella brought her the rattrap,"</rdg>
                         <rdg wit="#Philip_1993">"Cinderella brought her the rat trap,"</rdg>
-                        <rdg wit="#Appelbaum_2002">"Cinderella brought her the rattrap,"</rdg>
                         <rdg wit="#Betts_2009">Cinderella brought her the trap;</rdg>
                         <rdg wit="#Jones_2016">"Ashkins brought the rattrap,"</rdg>
                         <rdg wit="#MoogSeifert_2021">Ashinella brought her the rat-trap </rdg>
-                    </app><app>
+                    </app>
+                    
+                     
+                    <app>
                         <rdg wit="#Perrault_1697">où il y avait trois gros rats : </rdg>
-                        <rdg wit="#Samber_1729">and in it there were three huge Rats: </rdg>
-                        <rdg wit="#Samber_1741">and in it there were three huge Rats: </rdg>
+                        <rdg wit="#Samber_1729 #Samber_1741">and in it there were three huge Rats: </rdg>
                         <rdg wit="Neaulme_1745">wherein were three great Rats.</rdg>
                         <rdg wit="#Planche_1858">in which there were three great rats.</rdg>
-                        <rdg wit="#Lang_1889">and in it there were three huge rats.</rdg>
-                        <rdg wit="#Welsh_1901">and in it there were three huge rats.</rdg>
+                        <rdg wit="#Lang_1889 Welsh_1901 #Mansion_1922">and in it there were three huge rats.</rdg>
                         <rdg wit="#Johnson_1921">which contained three big rats.</rdg>
-                        <rdg wit="#Mansion_1922">and in it there were three huge rats.</rdg>
-                        <rdg wit="#Brereton_1957">in which there were three big rats.</rdg>
+                        <rdg wit="#Brereton_1957 #Appelbaum_2002 #MoogSeifert_2021">in which there were three big rats.</rdg>
                         <rdg wit="#Zipes_1989">which contained three large rats.</rdg>
                         <rdg wit="#Philip_1993">in which there were three fat rats.</rdg>
-                        <rdg wit="#Appelbaum_2002">in which there were three big rats.</rdg>
                         <rdg wit="#Betts_2009">there were three big rats in it.</rdg>
                         <rdg wit="#Jones_2016">which held three fat rats.</rdg>
-                        <rdg wit="#MoogSeifert_2021">in which there were three big rats.</rdg>
-                    </app><app>
+                    </app>
+                    
+                    
+                     
+                    <app>
                         <rdg wit="#Perrault_1697">"La Fée en prit un d'entre les trois,"</rdg>
-                        <rdg wit="#Samber_1729">"the Fairy made choice of one of the three,"</rdg>
-                        <rdg wit="#Samber_1741">"the Fairy made choice of one of the three,"</rdg>
+                        <rdg wit="#Samber_1729 #Samber_1741 #Mansion_1922">"the Fairy made choice of one of the three,"</rdg>
                         <rdg wit="Neaulme_1745">The Fairie pick’d out one </rdg>
                         <rdg wit="#Planche_1858">"The Fairy selected one from the three,"</rdg>
                         <rdg wit="#Lang_1889">The fairy made choice of one of the three </rdg>
-                        <rdg wit="#Welsh_1901">The fairy chose the one </rdg>
+                        <rdg wit="#Welsh_1901 #Philip_1993 #Betts_2009">The fairy chose the one </rdg>
                         <rdg wit="#Johnson_1921">The fairy chose one </rdg>
-                        <rdg wit="#Mansion_1922">"The Fairy made choice of one of the three,"</rdg>
                         <rdg wit="#Brereton_1957">The fairy picked out one of them </rdg>
                         <rdg wit="#Zipes_1989">The fairy selected one </rdg>
-                        <rdg wit="#Philip_1993">The fairy chose the one </rdg>
                         <rdg wit="#Appelbaum_2002">The fairy chose one of them </rdg>
-                        <rdg wit="#Betts_2009">The fairy chose the one </rdg>
                         <rdg wit="#Jones_2016">The fairy picked one among them </rdg>
                         <rdg wit="#MoogSeifert_2021">The Fairy took one of the three </rdg>
-                    </app><app>
+                    </app>
+                    
+                     
+                    <app>
                         <rdg wit="#Perrault_1697">"à cause de sa maîtresse barbe,"</rdg>
-                        <rdg wit="#Samber_1729">"which had the largest beard,"</rdg>
-                        <rdg wit="#Samber_1741">"which had the largest beard,"</rdg>
+                        <rdg wit="#Samber_1729 #Samber_1741 #Lang_1889 #Welsh_1901 #Mansion_1922">"which had the largest beard,"</rdg>
                         <rdg wit="Neaulme_1745">"for his long beard,"</rdg>
                         <rdg wit="#Planche_1858">"on account of its ample beard,"</rdg>
-                        <rdg wit="#Lang_1889">"which had the largest beard,"</rdg>
-                        <rdg wit="#Welsh_1901">"which had the largest beard,"</rdg>
                         <rdg wit="#Johnson_1921">specially on account of his elegant whiskers.</rdg>
-                        <rdg wit="#Mansion_1922">"which had the largest beard,"</rdg>
                         <rdg wit="#Brereton_1957">because of his splendid whiskers</rdg>
                         <rdg wit="#Zipes_1989">"with the most ample beard,"</rdg>
                         <rdg wit="#Philip_1993">with the finest whiskers </rdg>
@@ -2603,33 +2461,34 @@
                         <rdg wit="#Betts_2009">"with the longest whiskers,"</rdg>
                         <rdg wit="#Jones_2016">for its commanding facial hair</rdg>
                         <rdg wit="#MoogSeifert_2021">"because its stately beard,"</rdg>
-                    </app><app>
+                    </app>
+                    
+                    
+                     
+                    <app>
                         <rdg wit="#Perrault_1697">"et l'ayant touché,"</rdg>
-                        <rdg wit="#Samber_1729">"and, having touched him with her wand,"</rdg>
-                        <rdg wit="#Samber_1741">"and, having touched him with her wand,"</rdg>
+                        <rdg wit="#Samber_1729 #Samber_1741 #Lang_1889 #Welsh_1901 #Mansion_1922">"and, having touched him with her wand,"</rdg>
                         <rdg wit="Neaulme_1745">"and striking upon him,"</rdg>
-                        <rdg wit="#Planche_1858">"and having touched it,"</rdg>
-                        <rdg wit="#Lang_1889">"and, having touched him with her wand,"</rdg>
-                        <rdg wit="#Welsh_1901">"and, having touched him with her wand,"</rdg>
+                        <rdg wit="#Planche_1858 #MoogSeifert_2021">"and having touched it,"</rdg>
                         <rdg wit="#Johnson_1921">As soon as she had touched him </rdg>
-                        <rdg wit="#Mansion_1922">"and, having touched him with her wand,"</rdg>
                         <rdg wit="#Brereton_1957">"and, when she had touched him,"</rdg>
                         <rdg wit="#Zipes_1989">"and after touching it,"</rdg>
                         <rdg wit="#Philip_1993">and with a touch </rdg>
                         <rdg wit="#Appelbaum_2002">"and, when she touched it,"</rdg>
                         <rdg wit="#Betts_2009">and when she touched him </rdg>
                         <rdg wit="#Jones_2016">"and, tapping it with her wand,"</rdg>
-                        <rdg wit="#MoogSeifert_2021">"and having touched it,"</rdg>
-                    </app><app>
+                    </app>
+                    
+                    
+                     
+                    <app>
                         <rdg wit="#Perrault_1697">"il fut changé en un gros Cocher,"</rdg>
-                        <rdg wit="#Samber_1729">"he was turned into a fat jolly coachman,"</rdg>
-                        <rdg wit="#Samber_1741">"he was turned into a fat jolly coachman,"</rdg>
+                        <rdg wit="#Samber_1729 #Samber_1741 #Mansion_1922">"he was turned into a fat jolly coachman,"</rdg>
                         <rdg wit="Neaulme_1745">turn’d him into a lusty Coachman </rdg>
                         <rdg wit="#Planche_1858">"it was changed into a fat coachman,"</rdg>
                         <rdg wit="#Lang_1889">"he was turned into a fat, jolly coachman,"</rdg>
                         <rdg wit="#Welsh_1901">he was turned into a fat coachman </rdg>
                         <rdg wit="#Johnson_1921">he turned into a fat coachman </rdg>
-                        <rdg wit="#Mansion_1922">"he was turned into a fat jolly coachman,"</rdg>
                         <rdg wit="#Brereton_1957">"he turned into a fat coach-man,"</rdg>
                         <rdg wit="#Zipes_1989">"the rat was changed into a fat coachman,"</rdg>
                         <rdg wit="#Philip_1993">"transformed him into a portly coachman,"</rdg>
@@ -2637,33 +2496,28 @@
                         <rdg wit="#Betts_2009">"he turned into a great fat coachman,"</rdg>
                         <rdg wit="#Jones_2016">turned him into a corpulent coachman </rdg>
                         <rdg wit="#MoogSeifert_2021">it was changed into a fat Coachman </rdg>
-                    </app><app>
+                    </app>
+                    
+                     
+                    <app>
                         <rdg wit="#Perrault_1697">qui avait une des plus belles moustaches qu'on ait
                             jamais vues.</rdg>
                         <rdg wit="#Samber_1729">who had the finest whiskers as ever were seen.</rdg>
-                        <rdg wit="#Samber_1741">who had the smartest whiskers eyes ever beheld.</rdg>
+                        <rdg wit="#Samber_1741 #Lang_1889 #Mansion_1922">who had the smartest whiskers eyes ever beheld.</rdg>
                         <rdg wit="Neaulme_1745">with the finest whiskers that were ever seen.</rdg>
-                        <rdg wit="#Planche_1858">who had the finest moustaches that ever were
-                            seen.</rdg>
-                        <rdg wit="#Lang_1889">who had the smartest whiskers eyes ever beheld.</rdg>
+                        <rdg wit="#Planche_1858">who had the finest moustaches that ever were seen.</rdg>
                         <rdg wit="#Welsh_1901">with the finest mustache and whiskers ever seen.</rdg>
-                        <rdg wit="#Johnson_1921">with the finest moustachios that ever were
-                            seen.</rdg>
-                        <rdg wit="#Mansion_1922">who had the smartest whiskers eyes ever
-                            beheld.</rdg>
+                        <rdg wit="#Johnson_1921">with the finest moustachios that ever were seen.</rdg>
                         <rdg wit="#Brereton_1957">with the finest moustaches in the district.</rdg>
-                        <rdg wit="#Zipes_1989">who had the finest moustaches that had ever been
-                            seen.</rdg>
+                        <rdg wit="#Zipes_1989">who had the finest moustaches that had ever been seen.</rdg>
                         <rdg wit="#Philip_1993">with the most lavish moustache you ever saw.</rdg>
-                        <rdg wit="#Appelbaum_2002">who had one of the most beautiful mustaches ever
-                            seen.</rdg>
-                        <rdg wit="#Betts_2009">with one of the finest moustaches that had ever been
-                            seen.</rdg>
-                        <rdg wit="#Jones_2016">with one of the most dashing moustaches you’ve ever
-                            seen.</rdg>
-                        <rdg wit="#MoogSeifert_2021">who had one of the most beautiful mustaches one
-                            has ever seen.</rdg>
-                    </app><app> 
+                        <rdg wit="#Appelbaum_2002">who had one of the most beautiful mustaches ever seen.</rdg>
+                        <rdg wit="#Betts_2009">with one of the finest moustaches that had ever been seen.</rdg>
+                        <rdg wit="#Jones_2016">with one of the most dashing moustaches you’ve ever seen.</rdg>
+                        <rdg wit="#MoogSeifert_2021">who had one of the most beautiful mustaches one has ever seen.</rdg>
+                    </app>
+
+                        <app> 
                         <rdg wit="#Perrault_1697">"Ensuite elle lui dit,"</rdg>
                         <rdg wit="#Samber_1729 #Samber_1741">"After that, she said to her,"</rdg>
                         <rdg wit="Neaulme_1745">"Then she said to the Maid,"</rdg>
