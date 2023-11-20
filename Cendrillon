@@ -126,7 +126,7 @@
                             >--</rdg>
                         <rdg wit="#Samber_1741">Tale VI</rdg>
                         <rdg wit="#MoogSeifert_2021">Tale</rdg>
-                    </app></head>
+                    </app></head> 
                 <p><app>
                         <rdg wit="#Perrault_1697">Il était une fois un Gentilhomme</rdg>
                         <rdg wit="#Samber_1729">"There was once upon a time, a gentleman "</rdg>
@@ -5900,12 +5900,12 @@
                         <rdg wit="#Jones_2016 #MoogSeifert_2021">and married them that very day to two great lords of
                             the court.</rdg>
                     </app></p>
-               <app>
+           <p>   <app>
                         <rdg wit="#Perrault_1697">Moralité</rdg>
-                        <rdg wit="#Samber_1729#Samber_1741#Mansion_1922">The Moral</rdg>
-                        <rdg wit="#Neaulme_1745#Planche_1858#Lang_1889#Welsh_1901#Johnson_1921">--</rdg>
-                        <rdg wit="#Brereton_1957#Appelbaum_2002#Jones_2016#MoogSeifert_2021">Moral</rdg>
-                        <rdg wit="#Zipes_1989#Philip_1993">MORAL</rdg>
+                        <rdg wit="#Samber_1729 #Samber_1741 #Mansion_1922">The Moral</rdg>
+                        <rdg wit="#Neaulme_1745 #Planche_1858 #Lang_1889 #Welsh_1901 #Johnson_1921">--</rdg>
+                        <rdg wit="#Brereton_1957 #Appelbaum_2002 #Jones_2016 #MoogSeifert_2021">Moral</rdg>
+                        <rdg wit="#Zipes_1989 #Philip_1993">MORAL</rdg>
                         <rdg wit="#Betts_2009">The moral of this tale</rdg>
 </app>
                         
@@ -5914,14 +5914,14 @@
 
 <app>
                         <rdg wit="#Perrault_1697">"La beauté pour le sexe est un rare trésor,"</rdg>
-                        <rdg wit="#Samber_1729#Samber_1741#Mansion_1922">"Beauty's to the sex a treasure,"</rdg>
+                        <rdg wit="#Samber_1729 #Samber_1741 #Mansion_1922">"Beauty's to the sex a treasure,"</rdg>
                         <rdg wit="#Neaulme_1745">"Let one value, as much as he pleaseth,"</rdg>
                         <rdg wit="#Planche_1858">Beauty in woman is a treasure rare</rdg>
-                        <rdg wit="#Lang_1889#Welsh_1901#Johnson_1921">--</rdg>
+                        <rdg wit="#Lang_1889 #Welsh_1901 #Johnson_1921">--</rdg>
                         <rdg wit="#Brereton_1957">Beauty in a girl is a priceless treasure;</rdg>
                         <rdg wit="#Zipes_1989">A woman's beauty is quite a treasure</rdg>
                         <rdg wit="#Philip_1993">Beauty in woman is a very rare treasure:</rdg>
-                        <rdg wit="#Appelbaum_2002##MoogSeifert_2021">"Beauty is a rare treasure for the fair
+                        <rdg wit="#Appelbaum_2002 #MoogSeifert_2021">"Beauty is a rare treasure for the fair
                             sex,"</rdg>
                         <rdg wit="#Betts_2009">"Though beauty's a treasure that women desire,"</rdg>
                         <rdg wit="#Jones_2016">"In the ladies, beauty is a rare treasure"</rdg>
@@ -5931,10 +5931,10 @@
 
 <app>
                         <rdg wit="#Perrault_1697">De l'admirer jamais on ne se lasse ;</rdg>
-                        <rdg wit="#Samber_1729#Samber_1741">"We still admire it without measure,"</rdg>
+                        <rdg wit="#Samber_1729 #Samber_1741">"We still admire it without measure,"</rdg>
                         <rdg wit="#Neaulme_1745">"find Cloaths, good Nature, and good manners,"</rdg>
                         <rdg wit="#Planche_1858">Which we are never weary of admiring;</rdg>
-                        <rdg wit="#Lang_1889#Welsh_1901#Johnson_1921">--</rdg>
+                        <rdg wit="#Lang_1889 #Welsh_1901 #Johnson_1921">--</rdg>
                         <rdg wit="#Mansion_1922">"Still admir'd beyond all measure,"</rdg>
                         <rdg wit="#Brereton_1957">Simply to admire it gives endless pleasure.</rdg>
                         <rdg wit="#Zipes_1989">We never cease to admire.</rdg>
@@ -5949,10 +5949,10 @@
 
 <app>
                         <rdg wit="#Perrault_1697">"Mais ce qu'on nomme bonne grâce,"</rdg>
-                        <rdg wit="#Samber_1729#Samber_1741">"And never yet was any known,"</rdg>
+                        <rdg wit="#Samber_1729 #Samber_1741">"And never yet was any known,"</rdg>
                         <rdg wit="#Neaulme_1745">good grace is at last all and all.</rdg>
                         <rdg wit="#Planche_1858">But a sweet temper is a gift more fair</rdg>
-                        <rdg wit="#Lang_1889#Welsh_1901#Johnson_1921">--</rdg>
+                        <rdg wit="#Lang_1889 #Welsh_1901 #Johnson_1921">--</rdg>
                         <rdg wit="#Mansion_1922">"And never yet was any known,"</rdg>
                         <rdg wit="#Brereton_1957">But one quality is even more precious:</rdg>
                         <rdg wit="#Zipes_1989">Yet graciousness exceeds all measure.</rdg>
@@ -5966,8 +5966,8 @@
 
 <app>
                         <rdg wit="#Perrault_1697">"Est sans prix, et vaut mieux encor."</rdg>
-                        <rdg wit="#Samber_1729#Samber_1741">By still admiring weary grown.</rdg>
-                        <rdg wit="#Neaulme_1745#Lang_1889#Welsh_1901Johnson_1921">--</rdg>
+                        <rdg wit="#Samber_1729 #Samber_1741">By still admiring weary grown.</rdg>
+                        <rdg wit="#Neaulme_1745 #Lang_1889 #Welsh_1901Johnson_1921">--</rdg>
                         <rdg wit="#Planche_1858">And better worth the youthful maid's desiring.</rdg>
                         <rdg wit="#Mansion_1922">"By still admiring, weary grown."</rdg>
                         <rdg wit="#Brereton_1957">It's the gift that is known as being
@@ -5985,8 +5985,8 @@
     <app>
                         <rdg wit="#Perrault_1697">"C'est ce qu'à Cendrillon fit avoir sa
                             Marraine,"</rdg>
-                        <rdg wit="#Samber_1729#Samber_1741">"But that thing, which we call good grace,"</rdg>
-                        <rdg wit="#Neaulme_1745#Lang_1889#Welsh_1901#Johnson_1921">--</rdg>
+                        <rdg wit="#Samber_1729 #Samber_1741">"But that thing, which we call good grace,"</rdg>
+                        <rdg wit="#Neaulme_1745 #Lang_1889 #Welsh_1901 #Johnson_1921">--</rdg>
                         <rdg wit="#Planche_1858">That was the boon bestowed on Cinderella</rdg>
                         <rdg wit="#Mansion_1922">"But that rare quality call'd grace,"</rdg>
                         <rdg wit="#Brereton_1957">"Cinderella's godmother, as we have seen,"</rdg>
@@ -6004,8 +6004,8 @@
 <app>
 
                         <rdg wit="#Perrault_1697">"En la dressant, en l'instruisant,"</rdg>
-                        <rdg wit="#Samber_1729#Samber_1741">Exceeds by far a handsome face;</rdg>
-                        <rdg wit="#Neaulme_1745#Lang_1889#Welsh_1901#Johnson_1921">--</rdg>
+                        <rdg wit="#Samber_1729 #Samber_1741">Exceeds by far a handsome face;</rdg>
+                        <rdg wit="#Neaulme_1745 #Lang_1889 #Welsh_1901 #Johnson_1921">--</rdg>
                         <rdg wit="#Planche_1858">By her wise Godmother—her truest glory.</rdg>
                         <rdg wit="#Mansion_1922">"Exceeds, by far, a handsome face;"</rdg>
                         <rdg wit="#Brereton_1957">"Drilled her in this from the head to the
@@ -6022,8 +6022,8 @@
 
     <app>
                         <rdg wit="#Perrault_1697">Tant et si bien qu'elle en fit une Reine :</rdg>
-                        <rdg wit="#Samber_1729#Samber_1741">"Its charms by far surpass the other,"</rdg>
-                        <rdg wit="#Neaulme_1745#Lang_1889#Welsh_1901#Johnson_1921">--</rdg>
+                        <rdg wit="#Samber_1729 #Samber_1741">"Its charms by far surpass the other,"</rdg>
+                        <rdg wit="#Neaulme_1745 #Lang_1889 #Welsh_1901 #Johnson_1921">--</rdg>
                         <rdg wit="#Planche_1858">"The rest was ""nought but leather and
                             prunella."</rdg>
                         <rdg wit="#Mansion_1922">"Its lasting charms surpass the other,"</rdg>
@@ -6039,8 +6039,8 @@
 
     <app>
                         <rdg wit="#Perrault_1697">(Car ainsi sur ce Conte on va moralisant.)</rdg>
-                        <rdg wit="#Samber_1729#Samber_1741">And this was what her good godmother</rdg>
-                        <rdg wit="#Neaulme_1745#Lang_1889#Welsh_1901#Johnson_1921">--</rdg>
+                        <rdg wit="#Samber_1729 #Samber_1741">And this was what her good godmother</rdg>
+                        <rdg wit="#Neaulme_1745 #Lang_1889 #Welsh_1901 #Johnson_1921">--</rdg>
                         <rdg wit="#Planche_1858">"""Such is the moral of this little story—"</rdg>
                         <rdg wit="#Mansion_1922">And this rich gift her kind godmother</rdg>
                         <rdg wit="#Brereton_1957">(so upon this tale the moralizing goes).</rdg>
@@ -6058,8 +6058,8 @@
 <app>
                         <rdg wit="#Perrault_1697">"Belles, ce don vaut mieux que d'être bien
                             coiffées,"</rdg>
-                        <rdg wit="#Samber_1729#Samber_1741">"Bestow'd on CINDERILLA fair,"</rdg>
-                        <rdg wit="#Neaulme_1745#Lang_1889#Welsh_1901#Johnson_1921#Jones_2016">--</rdg>
+                        <rdg wit="#Samber_1729 #Samber_1741">"Bestow'd on CINDERILLA fair,"</rdg>
+                        <rdg wit="#Neaulme_1745 #Lang_1889 #Welsh_1901 #Johnson_1921 #Jones_2016">--</rdg>
                         <rdg wit="#Planche_1858">"Beauties, that charm becomes you more than
                             dress,"</rdg>
                         <rdg wit="#Mansion_1922">"Bestow'd on Cinderilla fair,"</rdg>
@@ -6079,8 +6079,8 @@
     <app>
                         <rdg wit="#Perrault_1697">"Pour engager un coeur, pour en venir à
                             bout,"</rdg>
-                        <rdg wit="#Samber_1729#Samber_1741#Mansion_1922">"Whom she instructed with such care,"</rdg>
-                        <rdg wit="#Neaulme_1745#Lang_1889#Welsh_1901#Johnson_1921#Jones_2016">--</rdg>
+                        <rdg wit="#Samber_1729 #Samber_1741 #Mansion_1922">"Whom she instructed with such care,"</rdg>
+                        <rdg wit="#Neaulme_1745 #Lang_1889 #Welsh_1901 #Johnson_1921 #Jones_2016">--</rdg>
                         <rdg wit="#Planche_1858">And wins a heart with far greater facility.</rdg>
                         <rdg wit="#Brereton_1957">"To capture a heart, beyond question to win
                             it,"</rdg>
@@ -6094,8 +6094,8 @@
 
 <app>
                         <rdg wit="#Perrault_1697">La bonne grâce est le vrai don des Fées ;</rdg>
-                        <rdg wit="#Samber_1729#Samber_1741#Mansion_1922">"She gave her such a graceful mien,"</rdg>
-                        <rdg wit="#Neaulme_1745#Lang_1889#Welsh_1901#Johnson_1921#Jones_2016">--</rdg>
+                        <rdg wit="#Samber_1729 #Samber_1741 #Mansion_1922">"She gave her such a graceful mien,"</rdg>
+                        <rdg wit="#Neaulme_1745 #Lang_1889 #Welsh_1901 #Johnson_1921 #Jones_2016">--</rdg>
                         <rdg wit="#Planche_1858">"In short, in all things to ensure success,"</rdg>
                         <rdg wit="#Brereton_1957">Graciousness is the gift with true magic in
                             it.</rdg>
@@ -6111,8 +6111,8 @@
 
 <app>
                         <rdg wit="#Perrault_1697">"Sans elle on ne peut rien,"</rdg>
-                        <rdg wit="#Samber_1729#Samber_1741#Mansion_1922">That she thereby became a Queen.</rdg>
-                        <rdg wit="#Neaulme_1745#Lang_1889#Welsh_1901#Johnson_1921#Jones_2016">--</rdg>
+                        <rdg wit="#Samber_1729 #Samber_1741 #Mansion_1922">That she thereby became a Queen.</rdg>
+                        <rdg wit="#Neaulme_1745 #Lang_1889 #Welsh_1901 #Johnson_1921 #Jones_2016">--</rdg>
                         <rdg wit="#Planche_1858">The real Fairy gift is Amiability!</rdg>
                         <rdg wit="#Brereton_1957">"With a frown you get nothing, you get all with a
                             smile."</rdg>
@@ -6126,9 +6126,9 @@
                       
 <app>
                         <rdg wit="#Perrault_1697">"avec elle, on peut tout."</rdg>
-                        <rdg wit="#Samber_1729#Samber_1741#Mansion_1922">For thus (may ever truth prevail)</rdg>
-                        <rdg wit="#Neaulme_1745#Planche_1858#Lang_1889#Welsh_1901#Johnson_1921#Brereton_1957#Zipes_1989
-                        #Philip_1993#Jones_2016">--</rdg>
+                        <rdg wit="#Samber_1729 #Samber_1741 #Mansion_1922">For thus (may ever truth prevail)</rdg>
+                        <rdg wit="#Neaulme_1745 #Planche_1858 #Lang_1889 #Welsh_1901 #Johnson_1921 #Brereton_1957 #Zipes_1989
+                        #Philip_1993 #Jones_2016">--</rdg>
                         <rdg wit="#Appelbaum_2002">"with it, all-powerful."</rdg>
                         <rdg wit="#Betts_2009">"For with them you will get what you're after with
                             ease,"</rdg>
@@ -6136,89 +6136,89 @@
                     </app>
 
                     <app>
-                        <rdg wit="#Perrault_1697#Neaulme_1745#Planche_1858#Lang_1889#Welsh_1901#Johnson_1921#Brereton_1957#Zipes_1989
-                        #Philip_1993#Appelbaum_2002#Jones_2016#MoogSeifert_2021">--</rdg>
-                        <rdg wit="#Samber_1729#Samber_1741#Mansion_1922">We draw our moral from this Tale.</rdg>
+                        <rdg wit="#Perrault_1697 #Neaulme_1745 #Planche_1858 #Lang_1889 #Welsh_1901 #Johnson_1921 #Brereton_1957 #Zipes_1989
+                        #Philip_1993 #Appelbaum_2002 #Jones_2016 #MoogSeifert_2021">--</rdg>
+                        <rdg wit="#Samber_1729 #Samber_1741 #Mansion_1922">We draw our moral from this Tale.</rdg>
                         <rdg wit="#Betts_2009">But without them whatever you do will displease.</rdg>
                     </app>
                         
                         <app>
-                        <rdg wit="#Perrault_1697#Neaulme_1745#Planche_1858#Lang_1889#Welsh_1901#Johnson_1921#Brereton_1957#Zipes_1989
-                        #Philip_1993#Appelbaum_2002#Betts_2009#Jones_2016#MoogSeifert_2021">--</rdg>
-                        <rdg wit="#Samber_1729#Samber_1741#Mansion_1922">"This quality, fair ladies, know"</rdg>
+                        <rdg wit="#Perrault_1697 #Neaulme_1745 #Planche_1858 #Lang_1889 #Welsh_1901 #Johnson_1921 #Brereton_1957 #Zipes_1989
+                        #Philip_1993 #Appelbaum_2002 #Betts_2009 #Jones_2016 #MoogSeifert_2021">--</rdg>
+                        <rdg wit="#Samber_1729 #Samber_1741 #Mansion_1922">"This quality, fair ladies, know"</rdg>
                     </app>
 
                     <app>
-                        <rdg wit="#Perrault_1697#Neaulme_1745#Planche_1858#Lang_1889#Welsh_1901#Johnson_1921#Brereton_1957#Zipes_1989
-                        #Philip_1993#Appelbaum_2002#Betts_2009#Jones_2016#MoogSeifert_2021">--</rdg>
-                        <rdg wit="#Samber_1729#Samber_1741#Mansion_1922">"This quality, fair ladies, know"</rdg>
+                        <rdg wit="#Perrault_1697 #Neaulme_1745 #Planche_1858 #Lang_1889 #Welsh_1901 #Johnson_1921 #Brereton_1957 #Zipes_1989
+                        #Philip_1993 #Appelbaum_2002 #Betts_2009 #Jones_2016 #MoogSeifert_2021">--</rdg>
+                        <rdg wit="#Samber_1729 #Samber_1741 #Mansion_1922">"This quality, fair ladies, know"</rdg>
                     </app>
 
                     <app>
-                        <rdg wit="#Perrault_1697#Neaulme_1745#Planche_1858#Lang_1889#Welsh_1901#Johnson_1921#Brereton_1957#Zipes_1989
-                        #Philip_1993#Appelbaum_2002#Betts_2009#Jones_2016#MoogSeifert_2021">--</rdg>
-                        <rdg wit="#Samber_1729#Samber_1741#Mansion_1922">"Prevails much more, you'll find it so,"</rdg>
+                        <rdg wit="#Perrault_1697 #Neaulme_1745 #Planche_1858 #Lang_1889 #Welsh_1901 #Johnson_1921 #Brereton_1957 #Zipes_1989
+                        #Philip_1993 #Appelbaum_2002 #Betts_2009 #Jones_2016 #MoogSeifert_2021">--</rdg>
+                        <rdg wit="#Samber_1729 #Samber_1741 #Mansion_1922">"Prevails much more, you'll find it so,"</rdg>
                     </app>
 
                     <app>
-                        <rdg wit="#Perrault_1697#Neaulme_1745#Planche_1858#Lang_1889#Welsh_1901#Johnson_1921#Brereton_1957#Zipes_1989
-                        #Philip_1993#Appelbaum_2002#Betts_2009#Jones_2016#MoogSeifert_2021">--</rdg>
-                        <rdg wit="#Samber_1729#Samber_1741#Mansion_1922">"T'engage and captivate a heart,"</rdg>
+                        <rdg wit="#Perrault_1697 #Neaulme_1745 #Planche_1858 #Lang_1889 #Welsh_1901 #Johnson_1921 #Brereton_1957 #Zipes_1989
+                        #Philip_1993 #Appelbaum_2002 #Betts_2009 #Jones_2016 #MoogSeifert_2021">--</rdg>
+                        <rdg wit="#Samber_1729 #Samber_1741 #Mansion_1922">"T'engage and captivate a heart,"</rdg>
                     </app>
 
                     <app>
-                        <rdg wit="#Perrault_1697#Neaulme_1745#Planche_1858#Lang_1889#Welsh_1901#Johnson_1921#Brereton_1957#Zipes_1989
-                        #Philip_1993#Appelbaum_2002#Betts_2009#Jones_2016#MoogSeifert_2021">--</rdg>
-                        <rdg wit="#Samber_1729#Samber_1741#Mansion_1922">Than a fine head dress'd up with art;</rdg>
+                        <rdg wit="#Perrault_1697 #Neaulme_1745 #Planche_1858 #Lang_1889 #Welsh_1901 #Johnson_1921 #Brereton_1957 #Zipes_1989
+                        #Philip_1993 #Appelbaum_2002 #Betts_2009 #Jones_2016 #MoogSeifert_2021">--</rdg>
+                        <rdg wit="#Samber_1729 #Samber_1741 #Mansion_1922">Than a fine head dress'd up with art;</rdg>
                     </app>
 
                     <app>
-                        <rdg wit="#Perrault_1697#Neaulme_1745#Planche_1858#Lang_1889#Welsh_1901#Johnson_1921#Brereton_1957#Zipes_1989
-                        #Philip_1993#Appelbaum_2002#Betts_2009#Jones_2016#MoogSeifert_2021">--</rdg>
-                        <rdg wit="#Samber_1729#Samber_1741">"‘Tis the true gift of heaven and fate,"</rdg>
+                        <rdg wit="#Perrault_1697 #Neaulme_1745 #Planche_1858 #Lang_1889 #Welsh_1901 #Johnson_1921 #Brereton_1957 #Zipes_1989
+                        #Philip_1993 #Appelbaum_2002 #Betts_2009 #Jones_2016 #MoogSeifert_2021">--</rdg>
+                        <rdg wit="#Samber_1729 #Samber_1741">"‘Tis the true gift of heaven and fate,"</rdg>
                         <rdg wit="#Mansion_1922">The fairies' gift of greatest worth</rdg>
                     </app>
 
                     <app>
-                        <rdg wit="#Perrault_1697#Neaulme_1745#Planche_1858#Lang_1889#Welsh_1901#Johnson_1921#Brereton_1957#Zipes_1989
-                        #Philip_1993#Appelbaum_2002#Betts_2009#Jones_2016#MoogSeifert_2021">--</rdg>
-                        <rdg wit="#Samber_1729#Samber_1741">Without it none in any state</rdg>
+                        <rdg wit="#Perrault_1697 #Neaulme_1745 #Planche_1858 #Lang_1889 #Welsh_1901 #Johnson_1921 #Brereton_1957 #Zipes_1989
+                        #Philip_1993 #Appelbaum_2002 #Betts_2009 #Jones_2016 #MoogSeifert_2021">--</rdg>
+                        <rdg wit="#Samber_1729 #Samber_1741">Without it none in any state</rdg>
                         <rdg wit="#Mansion_1922">"Is grace of bearing, not high birth;"</rdg>
                      
                     </app>
 
                     <app>
-                        <rdg wit="#Perrault_1697#Neaulme_1745#Planche_1858#Lang_1889#Welsh_1901#Johnson_1921#Brereton_1957#Zipes_1989
-                        #Philip_1993#Appelbaum_2002#Betts_2009#Jones_2016#MoogSeifert_2021">--</rdg>
-                        <rdg wit="#Samber_1729#Samber_1741">Effectual anything can do;</rdg>
+                        <rdg wit="#Perrault_1697 #Neaulme_1745 #Planche_1858 #Lang_1889 #Welsh_1901 #Johnson_1921 #Brereton_1957 #Zipes_1989
+                        #Philip_1993 #Appelbaum_2002 #Betts_2009 #Jones_2016 #MoogSeifert_2021">--</rdg>
+                        <rdg wit="#Samber_1729 #Samber_1741">Effectual anything can do;</rdg>
                         <rdg wit="#Mansion_1922">Without this gift we'll miss the prize;</rdg>
                     </app>
 
                     <app>
-                        <rdg wit="#Perrault_1697#Neaulme_1745#Planche_1858#Lang_1889#Welsh_1901#Johnson_1921#Brereton_1957#Zipes_1989
-                        #Philip_1993#Appelbaum_2002#Betts_2009#Jones_2016#MoogSeifert_2021">--</rdg>
-                        <rdg wit="#Samber_1729#Samber_1741">But with it all things well and true.</rdg>
+                        <rdg wit="#Perrault_1697 #Neaulme_1745 #Planche_1858 #Lang_1889 #Welsh_1901 #Johnson_1921 #Brereton_1957 #Zipes_1989
+                        #Philip_1993 #Appelbaum_2002 #Betts_2009 #Jones_2016 #MoogSeifert_2021">--</rdg>
+                        <rdg wit="#Samber_1729 #Samber_1741">But with it all things well and true.</rdg>
                         <rdg wit="#Mansion_1922">Possession gives us wings to rise.</rdg>
                     </app>
 
                     <app>
                         <rdg wit="#Perrault_1697">Autre moralité</rdg>
-                        <rdg wit="#Samber_1729#Samber_1741#Mansion_1922">Another</rdg>
-                        <rdg wit="#Neaulme_1745#Lang_1889#Welsh_1901#Johnson_1921">--</rdg>
+                        <rdg wit="#Samber_1729 #Samber_1741 #Mansion_1922">Another</rdg>
+                        <rdg wit="#Neaulme_1745 #Lang_1889 #Welsh_1901 #Johnson_1921">--</rdg>
                         <rdg wit="#Planche_1858">Also</rdg>
-                        <rdg wit="#Brereton_1957#Appelbaum_2002">Second moral</rdg>
-                        <rdg wit="#Zipes_1989#Philip_1993#Betts_2009#Jones_2016">ANOTHER MORAL</rdg>
+                        <rdg wit="#Brereton_1957 #Appelbaum_2002">Second moral</rdg>
+                        <rdg wit="#Zipes_1989 #Philip_1993 #Betts_2009 #Jones_2016">ANOTHER MORAL</rdg>
                         <rdg wit="#MoogSeifert_2021">Other moral</rdg>
                     </app>
 
                     <app>
                         <rdg wit="#Perrault_1697">"C'est sans doute un grand avantage,"</rdg>
-                        <rdg wit="#Samber_1729#Samber_1741#Mansion_1922">"A great advantage 'tis, no doubt, to man,"</rdg>
-                        <rdg wit="#Neaulme_1745#Lang_1889#Welsh_1901#Johnson_1921">--</rdg>
+                        <rdg wit="#Samber_1729 #Samber_1741 #Mansion_1922">"A great advantage 'tis, no doubt, to man,"</rdg>
+                        <rdg wit="#Neaulme_1745 #Lang_1889 #Welsh_1901 #Johnson_1921">--</rdg>
                         <rdg wit="#Planche_1858">"Talent, courage, wit, and worth"</rdg>
                         <rdg wit="#Brereton_1957">To have wit and courage</rdg>
                         <rdg wit="#Zipes_1989">No doubt it is a benefit</rdg>
-                        <rdg wit="#Philip_1993#Appelbaum_2002">It is no doubt a great advantage</rdg>
+                        <rdg wit="#Philip_1993 #Appelbaum_2002">It is no doubt a great advantage</rdg>
                         <rdg wit="#Betts_2009">"You have a great advantage, I admit,"</rdg>
                         <rdg wit="#Jones_2016">No doubt it gives a girl a strong lead</rdg>
                         <rdg wit="#MoogSeifert_2021">"It is doubtless a great advantage,"</rdg>
@@ -6227,9 +6227,9 @@
                     <app>
 
                         <rdg wit="#Perrault_1697">"D'avoir de l'esprit, du courage,"</rdg>
-                        <rdg wit="#Samber_1729#Samber_1741#Mansion_1922">"To have wit, courage, birth, good sense, and
+                        <rdg wit="#Samber_1729 #Samber_1741 #Mansion_1922">"To have wit, courage, birth, good sense, and
                             brain,"</rdg>
-                        <rdg wit="#Neaulme_1745#Lang_1889#Welsh_1901#Johnson_1921">--</rdg>
+                        <rdg wit="#Neaulme_1745 #Lang_1889 #Welsh_1901 #Johnson_1921">--</rdg>
                         <rdg wit="#Planche_1858">Are rare gifts to own on earth.</rdg>
                         <rdg wit="#Brereton_1957">Is a great advantage;</rdg>
                         <rdg wit="#Zipes_1989">"To have strong courage and fine wit,"</rdg>
@@ -6244,8 +6244,8 @@
                     <app>
                         <rdg wit="#Perrault_1697">"De la naissance, du bon sens,"</rdg>
                         <rdg wit="#Samber_1729">"And other like Qualities, which we"</rdg>
-                        <rdg wit="#Samber_1741#Mansion_1922">"And other such-like Qualities, which we"</rdg>
-                        <rdg wit="#Neaulme_1745#Lang_1889#Welsh_1901#Johnson_1921">--</rdg>
+                        <rdg wit="#Samber_1741 #Mansion_1922">"And other such-like Qualities, which we"</rdg>
+                        <rdg wit="#Neaulme_1745 #Lang_1889 #Welsh_1901 #Johnson_1921">--</rdg>
                         <rdg wit="#Planche_1858">But if you want to thrive at court—</rdg>
                         <rdg wit="#Brereton_1957">"Good breeding, good sense"</rdg>
                         <rdg wit="#Zipes_1989">To be endowed with common sense</rdg>
@@ -6258,9 +6258,9 @@
 
                     <app>
                         <rdg wit="#Perrault_1697">"Et d'autres semblables talents,"</rdg>
-                        <rdg wit="#Samber_1729#Samber_1741#Mansion_1922">"Receiv'd from heaven's kind hand, and
+                        <rdg wit="#Samber_1729 #Samber_1741 #Mansion_1922">"Receiv'd from heaven's kind hand, and
                             destiny."</rdg>
-                        <rdg wit="#Neaulme_1745#Lang_1889#Welsh_1901#Johnson_1921">--</rdg>
+                        <rdg wit="#Neaulme_1745 #Lang_1889 #Welsh_1901 #Johnson_1921">--</rdg>
                         <rdg wit="#Planche_1858">"So, at least, the wise report—"</rdg>
                         <rdg wit="#Brereton_1957">And similar talents</rdg>
                         <rdg wit="#Zipes_1989">And other virtues to possess</rdg>
@@ -6273,8 +6273,8 @@
                         
                         <app>
                         <rdg wit="#Perrault_1697">Qu'on reçoit du Ciel en partage ;</rdg>
-                        <rdg wit="#Samber_1729#Samber_1741#Mansion_1922">"But none of these rich graces from above,"</rdg>
-                        <rdg wit="#Neaulme_1745#Lang_1889#Welsh_1901#Johnson_1921">--</rdg>
+                        <rdg wit="#Samber_1729 #Samber_1741 #Mansion_1922">"But none of these rich graces from above,"</rdg>
+                        <rdg wit="#Neaulme_1745 #Lang_1889 #Welsh_1901 #Johnson_1921">--</rdg>
                         <rdg wit="#Planche_1858">"You will find you need some others,"</rdg>
                         <rdg wit="#Brereton_1957">Are all heaven-sent.</rdg>
                         <rdg wit="#Zipes_1989">That Heaven may dispense.</rdg>
@@ -6289,8 +6289,8 @@
                         <app>
                         <rdg wit="#Perrault_1697">"Mais vous aurez beau les avoir,"</rdg>
                         <rdg wit="#Samber_1729">In your advancement in the world will prove</rdg>
-                        <rdg wit="#Samber_1741#Mansion_1922">To your advancement in the world will prove</rdg>
-                        <rdg wit="#Neaulme_1745#Lang_1889#Welsh_1901#Johnson_1921">--</rdg>
+                        <rdg wit="#Samber_1741 #Mansion_1922">To your advancement in the world will prove</rdg>
+                        <rdg wit="#Neaulme_1745 #Lang_1889 #Welsh_1901 #Johnson_1921">--</rdg>
                         <rdg wit="#Planche_1858">Such as god-fathers or mothers.</rdg>
                         <rdg wit="#Brereton_1957">"But, though they are good,"</rdg>
                         <rdg wit="#Zipes_1989">But these may prove quite useless­ </rdg>
@@ -6305,8 +6305,8 @@
                     <app>
                         <rdg wit="#Perrault_1697">"Pour votre avancement ce seront choses
                             vaines,"</rdg>
-                        <rdg wit="#Samber_1729#Samber_1741">"Of any use, if Godsires make delay,"</rdg>
-                        <rdg wit="#Neaulme_1745#Planche_1858#Lang_1889#Welsh_1901#Johnson_1921">--</rdg>
+                        <rdg wit="#Samber_1729 #Samber_1741">"Of any use, if Godsires make delay,"</rdg>
+                        <rdg wit="#Neaulme_1745 #Planche_1858 #Lang_1889 #Welsh_1901 #Johnson_1921">--</rdg>
                         <rdg wit="#Mansion_1922">"If godmothers and sires you disobey,"</rdg>
                         <rdg wit="#Brereton_1957">These alone will not do;</rdg>
                         <rdg wit="#Zipes_1989">As well as many others-</rdg>
@@ -6320,8 +6320,8 @@
                        
                        <app>
                         <rdg wit="#Perrault_1697">"Si vous n'avez, pour les faire valoir, "</rdg>
-                        <rdg wit="#Samber_1729#Samber_1741">Or Godmothers your merit to display.</rdg>
-                        <rdg wit="Neaulme_1745#Planche_1858#Lang_1889#Welsh_1901#Johnson_1921">--</rdg>
+                        <rdg wit="#Samber_1729 #Samber_1741">Or Godmothers your merit to display.</rdg>
+                        <rdg wit="Neaulme_1745 #Planche_1858 #Lang_1889 #Welsh_1901 #Johnson_1921">--</rdg>
                         <rdg wit="#Mansion_1922">Or 'gainst their strict advice too long you
                             stay.</rdg>
                         <rdg wit="#Brereton_1957">To succeed as you should</rdg>
@@ -6335,15 +6335,15 @@
 
                     <app>
                         <rdg wit="#Perrault_1697">Ou des parrains ou des Marraines.</rdg>
-                        <rdg wit="#Samber_1729#Samber_1741#Neaulme_1745#Planche_1858#Lang_1889#Welsh_1901#Johnson_1921#Mansion_1922
-                        #Appelbaum_2002#Betts_2009#Jones_2016">--</rdg>
+                        <rdg wit="#Samber_1729 #Samber_1741 #Neaulme_1745 #Planche_1858 #Lang_1889 #Welsh_1901 #Johnson_1921 #Mansion_1922
+                        #Appelbaum_2002 #Betts_2009 #Jones_2016">--</rdg>
                         <rdg wit="#Brereton_1957">"You need godmothers, too."</rdg>
                         <rdg wit="#Zipes_1989">And neglect godfathers or godmothers.</rdg>
                         <rdg wit="#Philip_1993">"You've a willing godmother, or godfather."</rdg>
                         <rdg wit="#MoogSeifert_2021">Either godfathers or godmothers.</rdg>
                     </app>
-                      
-                     
+
+           </p> 
                     
             </div>
         </body>
