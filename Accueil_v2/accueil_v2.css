@@ -87,3 +87,25 @@ p{
     font-size: 20px;
     font-family: 'Alice', serif;
 }
+
+/* Footer */
+
+*{
+    box-sizing: border-box;
+}
+
+.carousel-cell{
+    width: 36%;
+    height: 600px;
+    margin-right: 10px;
+    border-radius: 15px; 
+    background-size: cover;
+    background-position: center center;
+    
+       
+}
+
+.carousel-cell:before{
+    display: block;
+}
+
