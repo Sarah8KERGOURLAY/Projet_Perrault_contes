@@ -1,0 +1,85 @@
+ body {
+    background: white;
+    margin: auto;
+  }
+ 
+  
+/* CSS pour le menu de la première page */
+
+nav { 
+	background-image:linear-gradient(to right, #cde0f4 0%, #cde0f4,#cde0f4 100%); 
+  
+
+}
+
+ul {
+	padding: 10px;
+	margin: 40px;
+	width: 1200px;
+	position: relative;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	
+}
+
+li { 
+	list-style-type: none;
+	display: inline-block;
+	margin-left: 30px;
+	margin-right: 30px;
+	width: 100px;
+    padding: 30px;
+     
+}
+
+
+a{
+    color : black; 
+    font-size: 25px; 
+    font-family: 'Alice', serif; 
+    text-decoration: none; 
+    display: inline-block;
+
+}
+
+/* Fin CSS pour le menu de la première page */
+
+/* menu flottant */
+.floating-menu {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  background:#eeb77e;
+  padding: 5px;;
+  width: 200px;
+  z-index: 100;
+  position: fixed;
+  top: 60px;
+  right: 10px;
+}
+.floating-menu a, 
+.floating-menu h3 {
+  font-size: 0.9em;
+  display: block;
+  margin: 0 0.5em;
+  color: white;
+}
+
+.choix{
+  color:black;
+}
+
+/* fin menu flottant */
+
+
+/* texte */
+  .corps-de-texte{
+    color: black;
+  text-align: justify;
+  line-height: 0.8cm;
+  font-size: 18px;
+  margin-left: 7cm;
+  margin-right: 7cm;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  }
